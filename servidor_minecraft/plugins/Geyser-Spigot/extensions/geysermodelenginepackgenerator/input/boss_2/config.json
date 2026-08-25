@@ -1,0 +1,44 @@
+{
+
+    "head_rotation": true,
+    "material": "entity_alphatest_change_color_one_sided",
+    "blend_transition": true,
+    "per_texture_uv_size": {
+        "texture": [
+            144,
+            144
+        ]
+    },
+    "binding_bones": {
+        "texture": [
+            "left_leg",
+            "left_leg2",
+            "left_leg3",
+            "right_leg",
+            "right_leg2",
+            "right_leg3",
+            "body",
+            "front_drapes",
+            "front_drapes_2",
+            "back_cape",
+            "head",
+            "jaw",
+            "cape",
+            "cape2",
+            "left_arm",
+            "left_arm2",
+            "left_arm3",
+            "weapon",
+            "right_arm",
+            "right_arm2",
+            "right_arm3",
+            "potion",
+            "bone11",
+            "bone12",
+            "bone13",
+            "bone14",
+            "spin"
+        ]
+    },
+    "anim_textures": []
+}

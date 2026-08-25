@@ -1,0 +1,48 @@
+2026-08-25 19:48:37 [INFO]: Loading Overrides...
+2026-08-25 19:48:37 [INFO]: Loading World Types...
+2026-08-25 19:48:37 [INFO]: - World Type for 'world' set to 'NORMAL'
+2026-08-25 19:48:37 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2026-08-25 19:48:37 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2026-08-25 19:48:37 [INFO]: Loading Defaults...
+2026-08-25 19:48:37 [INFO]: Loading Custom Worlds...
+2026-08-25 19:48:37 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2026-08-25 19:48:37 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2026-08-25 19:48:37 [INFO]: Loading Permission Groups...
+2026-08-25 19:48:37 [INFO]: - Permission Group: guardian
+2026-08-25 19:48:37 [INFO]: - -- World: world
+2026-08-25 19:48:37 [INFO]: - - Cooldown: 300
+2026-08-25 19:48:37 [INFO]: - -- World: world_nether
+2026-08-25 19:48:37 [INFO]: - - Cooldown: 300
+2026-08-25 19:48:37 [INFO]: - -- World: world_the_nether
+2026-08-25 19:48:37 [INFO]: - - The Permission Group 'guardian's world 'world_the_nether' does not exist! Permission Group not loaded...
+2026-08-25 19:48:37 [INFO]: - Permission Group: champion
+2026-08-25 19:48:37 [INFO]: - -- World: world
+2026-08-25 19:48:37 [INFO]: - - Cooldown: 60
+2026-08-25 19:48:37 [INFO]: - -- World: world_nether
+2026-08-25 19:48:37 [INFO]: - - Cooldown: 60
+2026-08-25 19:48:37 [INFO]: - -- World: world_the_nether
+2026-08-25 19:48:37 [INFO]: - - The Permission Group 'champion's world 'world_the_nether' does not exist! Permission Group not loaded...
+2026-08-25 19:48:37 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2026-08-25 19:48:57 [INFO]: Database PLAYERS:Players configured and loaded!
+2026-08-25 19:48:57 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2026-08-25 19:48:57 [INFO]: Database COOLDOWN:lobby configured and loaded!
+2026-08-25 19:48:57 [INFO]: Database COOLDOWN:world configured and loaded!
+2026-08-25 19:48:57 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2026-08-25 19:48:57 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2026-08-25 19:48:57 [INFO]: Database COOLDOWN:dungeon2 configured and loaded!
+2026-08-25 19:48:57 [INFO]: Database COOLDOWN:dungeon1 configured and loaded!
+2026-08-25 19:48:57 [INFO]: Database QUEUE:Queue configured and loaded!
+2026-08-25 19:49:00 [INFO]: Attempting to queue up some more safe locations...
+2026-08-25 19:49:01 [WARNING]: Seems like the world `lobby` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- lobby: NETHER`
+2026-08-25 19:49:58 [INFO]: Max attempts to create a Queue reached for default_lobby (amount: 0)
+2026-08-25 19:50:00 [INFO]: Queue position generated: id= default_world, database_ID= 1, location= x: -1107, y: 71, z: -2121, world: world
+2026-08-25 19:50:57 [INFO]: Max attempts to create a Queue reached for default_lobby (amount: 0)
+2026-08-25 19:51:56 [INFO]: Max attempts to create a Queue reached for default_lobby (amount: 0)
+2026-08-25 19:51:58 [INFO]: Queue position generated: id= default_world, database_ID= 2, location= x: 3324, y: 67, z: -4557, world: world
+2026-08-25 19:52:56 [INFO]: Max attempts to create a Queue reached for default_lobby (amount: 0)
+2026-08-25 19:53:56 [INFO]: Max attempts to create a Queue reached for default_lobby (amount: 0)
+2026-08-25 19:54:55 [INFO]: Max attempts to create a Queue reached for default_lobby (amount: 0)
+2026-08-25 19:54:55 [INFO]: Queue position generated: id= default_world_the_end, database_ID= 3, location= x: -4128, y: 64, z: 363, world: world_the_end
+2026-08-25 19:55:54 [INFO]: Max attempts to create a Queue reached for default_lobby (amount: 0)
+2026-08-25 19:55:54 [INFO]: Queue position generated: id= default_world_the_end, database_ID= 4, location= x: -2711, y: 59, z: -4823, world: world_the_end
+2026-08-25 19:56:01 [INFO]: Disabling BetterRTP v3.6.13

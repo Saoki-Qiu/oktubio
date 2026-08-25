@@ -1,0 +1,19 @@
+placeholders:
+  serverip:
+    placeholder: "serverip"
+    text: "SaokiNetworks"
+  store:
+    placeholder: "store"
+    text: "Proximamente"
+  store1:
+    placeholder: "store1"
+    text: "Proximamente"
+  discord:
+    placeholder: "discord"
+    text: "Proximamente"
+  discordhologram:
+    placeholder: "discordhologram"
+    text: "Proximamente"
+  discord1:
+    placeholder: "discord1"
+    text: "Proximamente"
