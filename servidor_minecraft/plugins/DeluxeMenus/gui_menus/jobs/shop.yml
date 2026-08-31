@@ -13,18 +13,18 @@ items:
       - HIDE_ENCHANTS 
     enchantments:
       - MENDING;1
-    display_name: '&bDiamond Sword'
+    display_name: '&bEspada de Diamante'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a2000 ᴘᴏɪɴᴛꜱ'
-      - '&8▪ &7ᴇɴᴄʜᴀɴᴛꜱ:'
-      - ' &8▪ &fSharpness III'
-      - ' &8▪ &fUnbreaking III'
-      - ' &8▪ &fFire Aspect II'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a2000 ᴘᴜɴᴛᴏꜱ'
+      - '&8▪ &7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ:'
+      - ' &8▪ &fFilo III'
+      - ' &8▪ &fIrrompibilidad III'
+      - ' &8▪ &fAspecto Ígneo II'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -47,19 +47,19 @@ items:
       - HIDE_ENCHANTS 
     enchantments:
       - MENDING;1
-    display_name: '&bNetherite Sword'
+    display_name: '&bEspada de netherita'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a12,000 ᴘᴏɪɴᴛꜱ'
-      - '&8▪ &7ᴇɴᴄʜᴀɴᴛꜱ:'
-      - ' &8▪ &fSharpness III'
-      - ' &8▪ &fUnbreaking III'
-      - ' &8▪ &fFire Aspect II'
-      - ' &8▪ &fMending'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a12,000 ᴘᴜɴᴛᴏꜱ'
+      - '&8▪ &7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ:'
+      - ' &8▪ &fFilo III'
+      - ' &8▪ &fIrrompibilidad III'
+      - ' &8▪ &fAspecto Ígneo II'
+      - ' &8▪ &fReparacion'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -82,17 +82,17 @@ items:
       - HIDE_ENCHANTS 
     enchantments:
       - MENDING;1
-    display_name: '&bDiamond Axe'
+    display_name: '&bHacha de Diamante'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a2200 ᴘᴏɪɴᴛꜱ'
-      - '&8▪ &7ᴇɴᴄʜᴀɴᴛꜱ:'
-      - ' &8▪ &fEfficiency III'
-      - ' &8▪ &fUnbreaking III'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a2200 ᴘᴜɴᴛᴏꜱ'
+      - '&8▪ &7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ:'
+      - ' &8▪ &fEficiencia III'
+      - ' &8▪ &fIrrompibilidad III'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -115,18 +115,18 @@ items:
       - HIDE_ENCHANTS 
     enchantments:
       - MENDING;1
-    display_name: '&bNetherite Axe'
+    display_name: '&bHacha de netherita'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a12,000 ᴘᴏɪɴᴛꜱ'
-      - '&8▪ &7ᴇɴᴄʜᴀɴᴛꜱ:'
-      - ' &8▪ &fEfficiency III'
-      - ' &8▪ &fUnbreaking III'
-      - ' &8▪ &fMending'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a12,000 ᴘᴜɴᴛᴏꜱ'
+      - '&8▪ &7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ:'
+      - ' &8▪ &fEficiencia III'
+      - ' &8▪ &fIrrompibilidad III'
+      - ' &8▪ &fReparacion'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -149,18 +149,18 @@ items:
       - HIDE_ENCHANTS 
     enchantments:
       - MENDING;1
-    display_name: '&bTrident'
+    display_name: '&bTridente'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a8000 ᴘᴏɪɴᴛꜱ'
-      - '&8▪ &7ᴇɴᴄʜᴀɴᴛꜱ:'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a8000 ᴘᴜɴᴛᴏꜱ'
+      - '&8▪ &7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ:'
       - ' &8▪ &fImpaling IV'
-      - ' &8▪ &fUnbreaking II'
+      - ' &8▪ &fIrrompibilidad II'
       - ' &8▪ &fLoyalty II'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -183,18 +183,18 @@ items:
       - HIDE_ENCHANTS 
     enchantments:
       - MENDING;1
-    display_name: '&bBow'
+    display_name: '&bArco'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a7500 ᴘᴏɪɴᴛꜱ'
-      - '&8▪ &7ᴇɴᴄʜᴀɴᴛꜱ:'
-      - ' &8▪ &fPower IV'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a7500 ᴘᴜɴᴛᴏꜱ'
+      - '&8▪ &7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ:'
+      - ' &8▪ &fPoder IV'
       - ' &8▪ &fInfinity'
-      - ' &8▪ &fUnbreaking III'
+      - ' &8▪ &fIrrompibilidad III'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -219,16 +219,16 @@ items:
       - MENDING;1
     display_name: '&bCrossbow'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a8500 ᴘᴏɪɴᴛꜱ'
-      - '&8▪ &7ᴇɴᴄʜᴀɴᴛꜱ:'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a8500 ᴘᴜɴᴛᴏꜱ'
+      - '&8▪ &7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ:'
       - ' &8▪ &fPiercing IV'
       - ' &8▪ &fMultishot II'
-      - ' &8▪ &fUnbreaking III'
+      - ' &8▪ &fIrrompibilidad III'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -249,14 +249,14 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&bEnchanted Golden Apple'
+    display_name: '&bManzana Dorada Encantada'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a2000 ᴘᴏɪɴᴛꜱ'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a2000 ᴘᴜɴᴛᴏꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -279,12 +279,12 @@ items:
       - HIDE_ENCHANTS 
     display_name: '&bTotem of Undying'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a8600 ᴘᴏɪɴᴛꜱ'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a8600 ᴘᴜɴᴛᴏꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -305,14 +305,14 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&bNether Star'
+    display_name: '&bNether Estrella'
     lore:
-      - '&7ʙᴜʏ ᴛʜɪꜱ ᴡɪᴛʜ ᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴄᴏᴍᴘʀᴀ ᴇꜱᴛᴏ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&8▪ &7ᴀᴍᴏᴜɴᴛ: &e1x'
-      - '&8▪ &7ᴘʀɪᴄᴇ: &a30,000 ᴘᴏɪɴᴛꜱ'
+      - '&8▪ &7ᴄᴀɴᴛɪᴅᴀᴅ: &e1x'
+      - '&8▪ &7ᴘʀᴇᴄɪᴏ: &a30,000 ᴘᴜɴᴛᴏꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         points:
@@ -337,9 +337,9 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&#8f96ab&lᴊᴏʙ ᴘᴏɪɴᴛꜱ'
+    display_name: '&#8f96ab&lᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
     lore:
-      - '&8▪ &7ᴘᴏɪɴᴛꜱ: &#8f96ab%jobsr_user_points_fixed%'
+      - '&8▪ &7ᴘᴜɴᴛᴏꜱ: &#8f96ab%jobsr_user_points_fixed%'
 
 
   'back':
@@ -351,6 +351,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] lumberjack_job"

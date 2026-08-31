@@ -13,9 +13,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -31,9 +31,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_fighting_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_fighting_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -49,9 +49,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_farming_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_farming_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -67,9 +67,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_archery_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_archery_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -85,9 +85,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_mining_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_mining_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -103,9 +103,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_fishing_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_fishing_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -121,9 +121,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_foraging_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_foraging_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -139,9 +139,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_defense_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_defense_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -157,9 +157,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_excavation_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_excavation_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -175,9 +175,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_enchanting_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_enchanting_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -193,9 +193,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_alchemy_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_alchemy_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -211,9 +211,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e8ae48Rank #1'
+    display_name: '&#e8ae48Rango #1'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#e8ae48%ajlb_lb_auraskills_rank_agility_1_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#e8ae48%ajlb_lb_auraskills_rank_agility_1_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -230,9 +230,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -248,9 +248,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_fighting_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_fighting_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -266,9 +266,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_farming_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_farming_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -284,9 +284,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_archery_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_archery_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -302,9 +302,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_mining_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_mining_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -320,9 +320,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_fishing_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_fishing_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -338,9 +338,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_foraging_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_foraging_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -356,9 +356,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_defense_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_defense_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -374,9 +374,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_excavation_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_excavation_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -392,9 +392,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_enchanting_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_enchanting_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -410,9 +410,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_alchemy_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_alchemy_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -428,9 +428,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#b1a8b6Rank #2'
+    display_name: '&#b1a8b6Rango #2'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_agility_2_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#b1a8b6%ajlb_lb_auraskills_rank_agility_2_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -447,9 +447,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -465,9 +465,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_fighting_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_fighting_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -483,9 +483,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_farming_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_farming_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -501,9 +501,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_archery_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_archery_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -519,9 +519,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_mining_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_mining_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -537,9 +537,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_fishing_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_fishing_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -555,9 +555,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_foraging_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_foraging_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -573,9 +573,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_defense_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_defense_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -591,9 +591,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_excavation_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_excavation_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -609,9 +609,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_enchanting_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_enchanting_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -627,9 +627,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_alchemy_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_alchemy_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -645,9 +645,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#dfa18bRank #3'
+    display_name: '&#dfa18bRango #3'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#dfa18b%ajlb_lb_auraskills_rank_agility_3_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#dfa18b%ajlb_lb_auraskills_rank_agility_3_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -664,9 +664,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -682,9 +682,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -700,9 +700,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -718,9 +718,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -736,9 +736,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -754,9 +754,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -772,9 +772,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -790,9 +790,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -808,9 +808,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -826,9 +826,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -844,9 +844,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -862,9 +862,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #4'
+    display_name: '&#cf9b74Rango #4'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_4_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_4_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -881,9 +881,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -899,9 +899,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -917,9 +917,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -935,9 +935,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -953,9 +953,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -971,9 +971,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -989,9 +989,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1007,9 +1007,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1025,9 +1025,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1043,9 +1043,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1061,9 +1061,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1079,9 +1079,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #5'
+    display_name: '&#cf9b74Rango #5'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_5_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_5_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1098,9 +1098,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1116,9 +1116,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1134,9 +1134,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1152,9 +1152,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1170,9 +1170,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1188,9 +1188,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1206,9 +1206,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1224,9 +1224,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1242,9 +1242,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1260,9 +1260,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1278,9 +1278,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1296,9 +1296,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #6'
+    display_name: '&#cf9b74Rango #6'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_6_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_6_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1315,9 +1315,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1333,9 +1333,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1351,9 +1351,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1369,9 +1369,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1387,9 +1387,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1405,9 +1405,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1423,9 +1423,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1441,9 +1441,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1459,9 +1459,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1477,9 +1477,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1495,9 +1495,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1513,9 +1513,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #7'
+    display_name: '&#cf9b74Rango #7'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_7_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_7_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1532,9 +1532,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1550,9 +1550,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1568,9 +1568,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1586,9 +1586,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1604,9 +1604,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1622,9 +1622,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1640,9 +1640,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1658,9 +1658,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1676,9 +1676,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1694,9 +1694,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1712,9 +1712,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1730,9 +1730,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #8'
+    display_name: '&#cf9b74Rango #8'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_8_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_8_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1749,9 +1749,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1767,9 +1767,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1785,9 +1785,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1803,9 +1803,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1821,9 +1821,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1839,9 +1839,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1857,9 +1857,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1875,9 +1875,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1893,9 +1893,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1911,9 +1911,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1929,9 +1929,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1947,9 +1947,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #9'
+    display_name: '&#cf9b74Rango #9'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_9_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_9_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1966,9 +1966,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -1984,9 +1984,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fighting_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2002,9 +2002,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_farming_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2020,9 +2020,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_archery_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2038,9 +2038,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_mining_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2056,9 +2056,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_fishing_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2074,9 +2074,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_foraging_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2092,9 +2092,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_defense_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2110,9 +2110,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_excavation_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2128,9 +2128,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_enchanting_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2146,9 +2146,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_alchemy_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2164,9 +2164,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cf9b74Rank #10'
+    display_name: '&#cf9b74Rango #10'
     lore:
-      - '&8▪ &fɴᴀᴍᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_10_alltime_name%'
+      - '&8▪ &fɴᴏᴍʙʀᴇ: &#cf9b74%ajlb_lb_auraskills_rank_agility_10_alltime_name%'
     view_requirement:
       requirements:
         permission:
@@ -2183,7 +2183,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Back'
+    display_name: '&#d4a177Volver'
     click_commands:
       - "[player] skills"
 
@@ -2197,20 +2197,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '&#cf9b74▸ ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '&#cf9b74▸ ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2240,20 +2240,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '&#cf9b74▸ ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '&#cf9b74▸ Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2283,20 +2283,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '&#cf9b74▸ ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '&#cf9b74▸ Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2326,20 +2326,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '&#cf9b74▸ ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '&#cf9b74▸ Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2369,20 +2369,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '&#cf9b74▸ ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '&#cf9b74▸ Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2412,20 +2412,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '&#cf9b74▸ ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '&#cf9b74▸ Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2455,20 +2455,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '&#cf9b74▸ ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '&#cf9b74▸ Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2498,20 +2498,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '&#cf9b74▸ ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '&#cf9b74▸ Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2541,20 +2541,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '&#cf9b74▸ ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '&#cf9b74▸ Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2584,20 +2584,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '&#cf9b74▸ ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '&#cf9b74▸ Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2627,20 +2627,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '&#cf9b74▸ ᴀʟᴄʜᴇᴍʏ'
-      - '  &7ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '&#cf9b74▸ Aʟǫᴜɪᴍɪᴀ'
+      - '  &7Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:
@@ -2670,20 +2670,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Sort'
+    display_name: '&#d4a177Ordenar'
     lore:
-      - '  &7ᴀʟʟ ꜱᴋɪʟʟꜱ'
-      - '  &7ꜰɪɢʜᴛɪɴɢ'
-      - '  &7ꜰᴀʀᴍɪɴɢ'
-      - '  &7ᴀʀᴄʜᴇʀʏ'
-      - '  &7ᴍɪɴɪɴɢ'
-      - '  &7ꜰɪꜱʜɪɴɢ'
-      - '  &7ꜰᴏʀᴀɢɪɴɢ'
-      - '  &7ᴅᴇꜰᴇɴꜱᴇ'
-      - '  &7ᴇxᴄᴀᴠᴀᴛɪᴏɴ'
-      - '  &7ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '  &7ᴀʟᴄʜᴇᴍʏ'
-      - '&#cf9b74▸ ᴀɢɪʟɪᴛʏ'
+      - '  &7ᴛᴏᴅᴏ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ'
+      - '  &7Lᴜᴄʜᴀ'
+      - '  &7Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '  &7Aʀǫᴜᴇʀíᴀ'
+      - '  &7Mɪɴᴇʀíᴀ'
+      - '  &7Pᴇꜱᴄᴀᴅᴇʀíᴀ'
+      - '  &7Fᴏʀʀᴀᴊᴇᴏ'
+      - '  &7Dᴇꜰᴇɴꜱᴀ'
+      - '  &7Exᴄᴀᴠᴀᴄɪóɴ'
+      - '  &7Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '  &7Aʟǫᴜɪᴍɪᴀ'
+      - '&#cf9b74▸ Aɢɪʟɪᴅᴀᴅ'
     view_requirement:
       requirements:
         permission:

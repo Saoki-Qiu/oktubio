@@ -14,8 +14,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴇɴᴄʜᴀɴᴛꜱ ᴏꜰ ᴀʀᴍᴏʀ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ ᴅᴇ ᴀʀᴍᴀᴅᴜʀᴀ'
     click_commands:
       - "[openguimenu] enchants_armor"
 
@@ -30,8 +30,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴇɴᴄʜᴀɴᴛꜱ ᴏꜰ ᴛᴏᴏʟꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ ᴅᴇ ʜᴇʀʀᴀᴍɪᴇɴᴛᴀꜱ'
     click_commands:
       - "[openguimenu] enchants_tools"
 
@@ -46,8 +46,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴜɴɪᴠᴇʀꜱᴀʟ ᴇɴᴄʜᴀɴᴛꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ ᴜɴɪᴠᴇʀꜱᴀʟᴇꜱ'
     click_commands:
       - "[openguimenu] enchants_universal"
 
@@ -62,8 +62,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴇɴᴄʜᴀɴᴛꜱ ᴏꜰ ʙᴏᴡꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ ᴅᴇ ᴀʀᴄᴏꜱ'
     click_commands:
       - "[openguimenu] enchants_bow"
 
@@ -78,8 +78,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴇɴᴄʜᴀɴᴛꜱ ᴏꜰ ᴡᴇᴀᴘᴏɴꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴇɴᴄᴀɴᴛᴀᴍɪᴇɴᴛᴏꜱ ᴅᴇ ᴀʀᴍᴀꜱ'
     click_commands:
       - "[refresh]"
 
@@ -100,18 +100,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lʙᴀɴᴇ ᴏꜰ ɴᴇᴛʜᴇʀꜱᴘᴀᴡɴ'
+    display_name: '&#a55eea&lᴀᴢᴏᴛᴇ ᴅᴇʟ ɴᴇᴛʜᴇʀ'
     lore:
-      - '&7ɪɴᴄʀᴇᴀꜱᴇꜱ ᴅᴀᴍᴀɢᴇ ᴛᴏ'
-      - '&7ɴᴇᴛʜᴇʀ ᴍᴏʙꜱ.'
+      - '&7ᴀᴜᴍᴇɴᴛᴀ ᴇʟ ᴅᴀñᴏ ᴀ'
+      - '&7ɴᴇᴛʜᴇʀ ᴄʀɪᴀᴛᴜʀᴀꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea5'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea5'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1200 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1200 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_bane_of_netherspawn"
 
@@ -123,18 +123,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lʙʟɪɴᴅɴᴇꜱꜱ'
+    display_name: '&#a55eea&lᴄᴇɢᴜᴇʀᴀ'
     lore:
-      - '&7ᴀᴘᴘʟɪᴇꜱ ʙʟɪɴᴅɴᴇꜱꜱ ᴇꜰꜰᴇᴄᴛ'
-      - '&7ᴏɴ ᴛᴀʀɢᴇᴛ.'
+      - '&7ᴀᴘʟɪᴄᴀ ᴇꜰᴇᴄᴛᴏ ᴅᴇ ᴄᴇɢᴜᴇʀᴀ'
+      - '&7ᴇɴ ᴇʟ ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea2'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea2'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1000 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1000 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_blindness"
 
@@ -146,18 +146,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴏɴꜰᴜꜱɪᴏɴ'
+    display_name: '&#a55eea&lᴄᴏɴꜰᴜꜱɪóɴ'
     lore:
-      - '&7ᴀᴘᴘʟɪᴇꜱ ɴᴀᴜꜱᴇᴀ ᴇꜰꜰᴇᴄᴛ'
-      - '&7ᴏɴ ᴛᴀʀɢᴇᴛ.'
+      - '&7ᴀᴘʟɪᴄᴀ ᴇꜰᴇᴄᴛᴏ ᴅᴇ ɴáᴜꜱᴇᴀ'
+      - '&7ᴇɴ ᴇʟ ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea2'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea2'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea900 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea900 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_confusion"
 
@@ -169,18 +169,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴜʀᴇ'
+    display_name: '&#a55eea&lᴄᴜʀᴀ'
     lore:
-      - '&7ᴄᴜʀᴇꜱ ᴢᴏᴍʙɪꜰɪᴇᴅ ᴘɪɢʟɪɴꜱ ᴀɴᴅ'
-      - '&7ᴢᴏᴍʙɪᴇ ᴠɪʟʟᴀɢᴇʀꜱ ᴏɴ ᴋɪʟʟ.'
+      - '&7ᴄᴜʀᴀ ᴀ ʟᴏꜱ ᴘɪɢʟɪɴꜱ ᴢᴏᴍʙɪꜰɪᴄᴀᴅᴏꜱ ʏ'
+      - '&7ᴀʟᴅᴇᴀɴᴏꜱ ᴢᴏᴍʙɪꜱ ᴀʟ ᴍᴀᴛᴀʀʟᴏꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea3'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea3'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea800 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea800 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_cure"
 
@@ -192,18 +192,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴜʀꜱᴇ ᴏꜰ ᴅᴇᴀᴛʜ'
+    display_name: '&#a55eea&lᴍᴀʟᴅɪᴄɪóɴ ᴅᴇ ʟᴀ ᴍᴜᴇʀᴛᴇ'
     lore:
-      - '&7ɪꜰ ʏᴏᴜ ᴋɪʟʟ ᴀ ᴘʟᴀʏᴇʀ, ʏᴏᴜ ʜᴀᴠᴇ'
-      - '&7ᴀ ᴄʜᴀɴᴄᴇ ᴏꜰ ᴅʏɪɴɢ ᴛᴏᴏ.'
+      - '&7ꜱɪ ᴍᴀᴛᴀꜱ ᴀ ᴜɴ ᴊᴜɢᴀᴅᴏʀ, ᴛɪᴇɴᴇꜱ'
+      - '&7ᴘʀᴏʙᴀʙɪʟɪᴅᴀᴅ ᴅᴇ ᴍᴏʀɪʀ ᴛᴀᴍʙɪéɴ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea3'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea3'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea900 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea900 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_curse_of_death"
 
@@ -215,18 +215,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴜᴛᴛᴇʀ'
+    display_name: '&#a55eea&lᴄᴏʀᴛᴀᴅᴏʀᴀ'
     lore:
-      - '&7ᴅᴀᴍᴀɢᴇꜱ ᴀɴᴅ ᴅʀᴏᴘꜱ ᴛᴀʀɢᴇᴛꜱ'
-      - '&7ᴀʀᴍᴏʀ.'
+      - '&7ᴅᴀñᴀ ʏ ʜᴀᴄᴇ ꜱᴏʟᴛᴀʀ ᴀ ʟᴏꜱ ᴏʙᴊᴇᴛɪᴠᴏꜱ'
+      - '&7ᴀʀᴍᴀᴅᴜʀᴀ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea3'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea3'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2200 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2200 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_cutter"
 
@@ -238,17 +238,17 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴅᴏᴜʙʟᴇ ꜱᴛʀɪᴋᴇ'
+    display_name: '&#a55eea&lɢᴏʟᴘᴇ ᴅᴏʙʟᴇ'
     lore:
-      - '&7ɪɴᴄʀᴇᴀꜱᴇꜱ ᴅᴀᴍᴀɢᴇ ʙʏ ᴛᴡɪᴄᴇ.'
+      - '&7ᴅᴜᴘʟɪᴄᴀ ᴇʟ ᴅᴀñᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea2'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea2'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea4000 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea4000 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_double_strike"
 
@@ -260,18 +260,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴇxʜᴀᴜꜱᴛ'
+    display_name: '&#a55eea&lᴀɢᴏᴛᴀᴍɪᴇɴᴛᴏ'
     lore:
-      - '&7ᴀᴘᴘʟɪᴇꜱ ʜᴜɴɢᴇʀ ᴇꜰꜰᴇᴄᴛ ᴏɴ'
-      - '&7ᴛᴀʀɢᴇᴛ.'
+      - '&7ᴀᴘʟɪᴄᴀ ᴇꜰᴇᴄᴛᴏ ᴅᴇ ʜᴀᴍʙʀᴇ ᴇɴ'
+      - '&7ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea4'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea4'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1200 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1200 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_exhaust"
 
@@ -283,18 +283,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lɪᴄᴇ ᴀꜱᴘᴇᴄᴛ'
+    display_name: '&#a55eea&lᴀꜱᴘᴇᴄᴛᴏ ʜᴇʟᴀᴅᴏ'
     lore:
-      - '&7ꜰʀᴇᴇᴢᴇꜱ ᴀɴᴅ ᴀᴘᴘʟɪᴇꜱ ꜱʟᴏᴡɴᴇꜱꜱ'
-      - '&7ᴏɴ ᴛᴀʀɢᴇᴛ.'
+      - '&7ᴄᴏɴɢᴇʟᴀ ʏ ᴀᴘʟɪᴄᴀ ʟᴇɴᴛɪᴛᴜᴅ'
+      - '&7ᴇɴ ᴇʟ ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea3'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea3'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1500 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1500 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_ice_aspect"
 
@@ -308,14 +308,14 @@ items:
     update: true
     display_name: '&#a55eea&lɪɴꜰᴇʀɴᴜꜱ'
     lore:
-      - '&7ᴛʀɪᴅᴇɴꜱ ꜱᴇᴛꜱ ᴛᴀʀɢᴇᴛꜱ ᴏɴ ꜰɪʀᴇ.'
+      - '&7ᴇʟ ᴛʀɪᴅᴇɴᴛᴇ ɪɴᴄᴇɴᴅɪᴀ ᴀ ʟᴏꜱ ᴏʙᴊᴇᴛɪᴠᴏꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea3'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea3'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1800 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1800 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_infernus"
 
@@ -327,18 +327,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lɴɪᴍʙʟᴇ'
+    display_name: '&#a55eea&láɢɪʟ'
     lore:
-      - '&7ᴍᴏᴠᴇꜱ ᴇɴᴛɪᴛʏꜱ ᴅʀᴏᴘꜱ ᴅɪʀᴇᴄᴛʟʏ'
-      - '&7ᴛᴏ ɪɴᴠᴇɴᴛᴏʀʏ.'
+      - '&7ᴇɴᴠíᴀ ᴇʟ ʙᴏᴛíɴ ᴅᴇ ᴇɴᴛɪᴅᴀᴅᴇꜱ ᴅɪʀᴇᴄᴛᴀᴍᴇɴᴛᴇ'
+      - '&7ᴀʟ ɪɴᴠᴇɴᴛᴀʀɪᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1600 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1600 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_nimble"
 
@@ -350,18 +350,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴘᴀʀᴀʟʏᴢᴇ'
+    display_name: '&#a55eea&lᴘᴀʀáʟɪꜱɪꜱ'
     lore:
-      - '&7ᴀᴘᴘʟɪᴇꜱ ᴍɪɴɪɴɢ ꜰᴀᴛɪɢᴜᴇ ᴇꜰꜰᴇᴄᴛ'
-      - '&7ᴏɴ ᴛᴀʀɢᴇᴛ.'
+      - '&7ꜱᴇ ᴀᴘʟɪᴄᴀ Mɪɴᴇʀíᴀ ꜰᴀᴛɪɢᴀ ᴇꜰᴇᴄᴛᴏ'
+      - '&7ᴇɴ ᴇʟ ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea5'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea5'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1800 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1800 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_paralyze"
 
@@ -373,18 +373,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lʀᴀɢᴇ'
+    display_name: '&#a55eea&lꜰᴜʀɪᴀ'
     lore:
-      - '&7ɢʀᴀɴᴛꜱ ꜱᴛʀᴇɴɢᴛʜ ᴇꜰꜰᴇᴄᴛ'
-      - '&7ɪɴ ᴄᴏᴍʙᴀᴛ.'
+      - '&7ᴏᴛᴏʀɢᴀ ᴇꜰᴇᴄᴛᴏ ᴅᴇ ꜰᴜᴇʀᴢᴀ'
+      - '&7ᴇɴ ᴄᴏᴍʙᴀᴛᴇ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea2'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea2'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2000 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2000 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_rage"
 
@@ -396,18 +396,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lʀᴏᴄᴋᴇᴛ'
+    display_name: '&#a55eea&lᴄᴏʜᴇᴛᴇ'
     lore:
-      - '&7ʟᴀᴜɴᴄʜᴇꜱ ᴛᴀʀɢᴇᴛ ɪɴᴛᴏ'
-      - '&7ᴛʜᴇ ꜱᴘᴀᴄᴇ.'
+      - '&7ʟᴀɴᴢᴀ ᴀʟ ᴏʙᴊᴇᴛɪᴠᴏ ᴘᴏʀ'
+      - '&7ᴇʟ ᴇꜱᴘᴀᴄɪᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea3'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea3'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1800 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1800 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_rocket"
 
@@ -421,15 +421,15 @@ items:
     update: true
     display_name: '&#a55eea&lᴡɪᴛʜᴇʀ'
     lore:
-      - '&7ᴀᴘᴘʟɪᴇꜱ ᴡɪᴛʜᴇʀ ᴇꜰꜰᴇᴄᴛ ᴏɴ ᴛᴀʀɢᴇᴛ.'
+      - '&7ꜱᴇ ᴀᴘʟɪᴄᴀ ᴡɪᴛʜᴇʀ ᴇꜰᴇᴄᴛᴏ ᴇɴ ᴇʟ ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea2'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea2'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1600 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1600 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_wither"
 
@@ -441,18 +441,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛᴇᴍᴘᴇʀ'
+    display_name: '&#a55eea&lᴛᴇᴍᴘʟᴇ'
     lore:
-      - '&7ᴅᴀᴍᴀɢᴇ ɪɴᴄʀᴇᴀꜱᴇꜱ ᴛʜᴇ ᴍᴏʀᴇ ᴛʜᴇ'
-      - '&7ʟᴇꜱꜱ ʜᴇᴀʟᴛʜ ʏᴏᴜ ʜᴀᴠᴇ.'
+      - '&7ᴇʟ ᴅᴀñᴏ ᴀᴜᴍᴇɴᴛᴀ ᴄᴜᴀɴᴛᴏ'
+      - '&7ᴍᴇɴᴏꜱ ᴠɪᴅᴀ ᴛɪᴇɴᴇꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea5'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea5'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea3000 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea3000 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_temper"
 
@@ -464,18 +464,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛʜᴜɴᴅᴇʀ'
+    display_name: '&#a55eea&lᴛʀᴜᴇɴᴏ'
     lore:
-      - '&7ꜱᴜᴍᴍᴏɴꜱ ʟɪɢʜᴛɴɪɴɢ ᴏɴ ᴛᴀʀɢᴇᴛ'
-      - '&7ᴡɪᴛʜ ᴇxᴛʀᴀ ᴅᴀᴍᴀɢᴇ.'
+      - '&7ɪɴᴠᴏᴄᴀ ʀᴀʏᴏ ᴇɴ ᴇʟ ᴏʙᴊᴇᴛɪᴠᴏ'
+      - '&7ᴄᴏɴ ᴅᴀñᴏ ᴇxᴛʀᴀ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea5'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea5'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2500 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2500 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_thunder"
 
@@ -487,17 +487,17 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴠᴀᴍᴘɪʀᴇ'
+    display_name: '&#a55eea&lᴠᴀᴍᴘɪʀᴏ'
     lore:
-      - '&7ꜱᴛᴇᴀʟꜱ ᴛᴀʀɢᴇᴛꜱ ʜᴇᴀʟᴛʜ.'
+      - '&7ʀᴏʙᴀ ʟᴀ ᴠɪᴅᴀ ᴅᴇʟ ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea3'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea3'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2300 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2300 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_vampire"
 
@@ -509,17 +509,17 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴠᴇɴᴏᴍ'
+    display_name: '&#a55eea&lᴠᴇɴᴇɴᴏ'
     lore:
-      - '&7ᴀᴘᴘʟɪᴇꜱ ᴘᴏɪꜱᴏɴ ᴇꜰꜰᴇᴄᴛ ᴏɴ ᴛᴀʀɢᴇᴛ.'
+      - '&7ᴀᴘʟɪᴄᴀ ᴇꜰᴇᴄᴛᴏ ᴅᴇ ᴠᴇɴᴇɴᴏ ᴀʟ ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea2'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea2'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1200 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1200 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_venom"
 
@@ -531,17 +531,17 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴠɪʟʟᴀɢᴇ ᴅᴇꜰᴇɴᴅᴇʀ'
+    display_name: '&#a55eea&lᴅᴇꜰᴇɴꜱᴏʀ ᴅᴇ ᴀʟᴅᴇᴀ'
     lore:
-      - '&7ɪɴᴄʀᴇᴀꜱᴇꜱ ᴅᴀᴍᴀɢᴇ ᴛᴏ ɪʟʟᴀɢᴇʀꜱ.'
+      - '&7ᴀᴜᴍᴇɴᴛᴀ ᴇʟ ᴅᴀñᴏ ᴀ ʟᴏꜱ ɪʟʟᴀɢᴇʀꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea5'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea5'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1200 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1200 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_village_defender"
 
@@ -553,16 +553,16 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴡɪꜱᴅᴏᴍ'
+    display_name: '&#a55eea&lꜱᴀʙɪᴅᴜʀíᴀ'
     lore:
-      - '&7ᴘʀᴏᴅᴜᴄᴇꜱ ᴍᴏʀᴇ xᴘ ꜰʀᴏᴍ ᴍᴏʙꜱ.'
+      - '&7ᴘʀᴏᴅᴜᴄᴇ ᴍᴀꜱ xᴘ ᴅᴇ ᴄʀɪᴀᴛᴜʀᴀꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1&8-&#a55eea5'
-      - '&8▪ &fᴀᴘᴘʟɪᴇꜱ ᴏɴ:'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1&8-&#a55eea5'
+      - '&8▪ &fꜱᴇ ᴀᴘʟɪᴄᴀ ᴇɴ:'
       - '   &8▪ &f'
       - '   &8▪ &f'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1800 Souls'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1800 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_commands:
       - "[openguimenu] enchants_wisdom"

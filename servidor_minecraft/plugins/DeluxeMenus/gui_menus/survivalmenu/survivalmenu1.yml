@@ -38,7 +38,7 @@ items:
     slot: 8
     display_name: 'Exit'
     lore:
-      - 'click to exit'
+      - 'clic para salir'
     left_click_commands:
       - '[close]'
     right_click_commands:

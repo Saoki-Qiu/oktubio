@@ -12,12 +12,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#88d34cTier 1'
+    display_name: '&#88d34cNivel 1'
     lore:
-      - '&7ᴛɪᴇʀ ᴜɴʟᴏᴄᴋᴇᴅ ʙʏ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ɴɪᴠᴇʟ ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴘᴏʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&#88d34cᴜɴʟᴏᴄᴋᴇᴅ'
+      - '&#88d34cᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -32,12 +32,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#e5534dTier 1'
+    display_name: '&#e5534dNivel 1'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ'
-      - '&7ᴜɴʟᴏᴄᴋ ᴛʜᴇ ᴛɪᴇʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇʟ ɴɪᴠᴇʟ'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'tier_2_unlocked':
     material: PAPER
@@ -48,12 +48,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#88d34cTier 2'
+    display_name: '&#88d34cNivel 2'
     lore:
-      - '&7ᴛɪᴇʀ ᴜɴʟᴏᴄᴋᴇᴅ ʙʏ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ɴɪᴠᴇʟ ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴘᴏʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&#88d34cᴜɴʟᴏᴄᴋᴇᴅ'
+      - '&#88d34cᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -68,12 +68,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#e5534dTier 2'
+    display_name: '&#e5534dNivel 2'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ'
-      - '&7ᴜɴʟᴏᴄᴋ ᴛʜᴇ ᴛɪᴇʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇʟ ɴɪᴠᴇʟ'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'tier_3_unlocked':
     material: PAPER
@@ -84,12 +84,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#88d34cTier 3'
+    display_name: '&#88d34cNivel 3'
     lore:
-      - '&7ᴛɪᴇʀ ᴜɴʟᴏᴄᴋᴇᴅ ʙʏ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ɴɪᴠᴇʟ ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴘᴏʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&#88d34cᴜɴʟᴏᴄᴋᴇᴅ'
+      - '&#88d34cᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -104,12 +104,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#e5534dTier 3'
+    display_name: '&#e5534dNivel 3'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ'
-      - '&7ᴜɴʟᴏᴄᴋ ᴛʜᴇ ᴛɪᴇʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇʟ ɴɪᴠᴇʟ'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'tier_4_unlocked':
     material: PAPER
@@ -120,12 +120,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#88d34cTier 4'
+    display_name: '&#88d34cNivel 4'
     lore:
-      - '&7ᴛɪᴇʀ ᴜɴʟᴏᴄᴋᴇᴅ ʙʏ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ɴɪᴠᴇʟ ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴘᴏʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&#88d34cᴜɴʟᴏᴄᴋᴇᴅ'
+      - '&#88d34cᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -140,12 +140,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#e5534dTier 4'
+    display_name: '&#e5534dNivel 4'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ'
-      - '&7ᴜɴʟᴏᴄᴋ ᴛʜᴇ ᴛɪᴇʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇʟ ɴɪᴠᴇʟ'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'tier_5_unlocked':
     material: PAPER
@@ -156,12 +156,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#88d34cTier 5'
+    display_name: '&#88d34cNivel 5'
     lore:
-      - '&7ᴛɪᴇʀ ᴜɴʟᴏᴄᴋᴇᴅ ʙʏ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ɴɪᴠᴇʟ ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴘᴏʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&#88d34cᴜɴʟᴏᴄᴋᴇᴅ'
+      - '&#88d34cᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -176,12 +176,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#e5534dTier 5'
+    display_name: '&#e5534dNivel 5'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ'
-      - '&7ᴜɴʟᴏᴄᴋ ᴛʜᴇ ᴛɪᴇʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇʟ ɴɪᴠᴇʟ'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'tier_6_unlocked':
     material: PAPER
@@ -192,12 +192,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#88d34cTier 6'
+    display_name: '&#88d34cNivel 6'
     lore:
-      - '&7ᴛɪᴇʀ ᴜɴʟᴏᴄᴋᴇᴅ ʙʏ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ɴɪᴠᴇʟ ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴘᴏʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&#88d34cᴜɴʟᴏᴄᴋᴇᴅ'
+      - '&#88d34cᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -212,12 +212,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#e5534dTier 6'
+    display_name: '&#e5534dNivel 6'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ'
-      - '&7ᴜɴʟᴏᴄᴋ ᴛʜᴇ ᴛɪᴇʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇʟ ɴɪᴠᴇʟ'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'tier_7_unlocked':
     material: PAPER
@@ -228,12 +228,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#88d34cTier 7'
+    display_name: '&#88d34cNivel 7'
     lore:
-      - '&7ᴛɪᴇʀ ᴜɴʟᴏᴄᴋᴇᴅ ʙʏ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ɴɪᴠᴇʟ ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴘᴏʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&#88d34cᴜɴʟᴏᴄᴋᴇᴅ'
+      - '&#88d34cᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -248,12 +248,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#e5534dTier 7'
+    display_name: '&#e5534dNivel 7'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ'
-      - '&7ᴜɴʟᴏᴄᴋ ᴛʜᴇ ᴛɪᴇʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇʟ ɴɪᴠᴇʟ'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'tier_8_unlocked':
     material: PAPER
@@ -264,12 +264,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#88d34cTier 8'
+    display_name: '&#88d34cNivel 8'
     lore:
-      - '&7ᴛɪᴇʀ ᴜɴʟᴏᴄᴋᴇᴅ ʙʏ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ɴɪᴠᴇʟ ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴘᴏʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&#88d34cᴜɴʟᴏᴄᴋᴇᴅ'
+      - '&#88d34cᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -284,12 +284,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#e5534dTier 8'
+    display_name: '&#e5534dNivel 8'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ'
-      - '&7ᴜɴʟᴏᴄᴋ ᴛʜᴇ ᴛɪᴇʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇʟ ɴɪᴠᴇʟ'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'tier_9_unlocked':
     material: PAPER
@@ -300,12 +300,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#88d34cTier 9'
+    display_name: '&#88d34cNivel 9'
     lore:
-      - '&7ᴛɪᴇʀ ᴜɴʟᴏᴄᴋᴇᴅ ʙʏ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ɴɪᴠᴇʟ ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴘᴏʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&#88d34cᴜɴʟᴏᴄᴋᴇᴅ'
+      - '&#88d34cᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -320,12 +320,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#e5534dTier 9'
+    display_name: '&#e5534dNivel 9'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ'
-      - '&7ᴜɴʟᴏᴄᴋ ᴛʜᴇ ᴛɪᴇʀ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇʟ ɴɪᴠᴇʟ'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 #FreeRewards
   'free_reward_1_claimed':
@@ -337,13 +337,13 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#888dafReward 1'
+    display_name: '&#888dafRecompensa 1'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf$500 Money'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf$500 Dinero'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -361,13 +361,13 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#888dafReward 1'
+    display_name: '&#888dafRecompensa 1'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf$500 Money'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf$500 Dinero'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -387,13 +387,13 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#888dafReward 1'
+    display_name: '&#888dafRecompensa 1'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf$500 Money'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf$500 Dinero'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'free_reward_3_claimed':
     material: PAPER
@@ -404,13 +404,13 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#888dafReward 3'
+    display_name: '&#888dafRecompensa 3'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf64x Bread'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf64x Pan'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -428,13 +428,13 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#888dafReward 3'
+    display_name: '&#888dafRecompensa 3'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf64x Bread'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf64x Pan'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -454,13 +454,13 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#888dafReward 3'
+    display_name: '&#888dafRecompensa 3'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf64x Bread'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf64x Pan'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'free_reward_5_claimed':
     material: PAPER
@@ -471,14 +471,14 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#888dafReward 5'
+    display_name: '&#888dafRecompensa 5'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf8x Emerald'
-      - ' &8▪ &#888dafIron Hoe (Unbreaking III)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf8x Esmeralda'
+      - ' &8▪ &#888dafAzada de Hierro (Irrompibilidad III)'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -496,14 +496,14 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#888dafReward 5'
+    display_name: '&#888dafRecompensa 5'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf8x Emerald'
-      - ' &8▪ &#888dafIron Hoe (Unbreaking III)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf8x Esmeralda'
+      - ' &8▪ &#888dafAzada de Hierro (Irrompibilidad III)'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -524,14 +524,14 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#888dafReward 5'
+    display_name: '&#888dafRecompensa 5'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf8x Emerald'
-      - ' &8▪ &#888dafIron Hoe (Unbreaking III)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf8x Esmeralda'
+      - ' &8▪ &#888dafAzada de Hierro (Irrompibilidad III)'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'free_reward_6_claimed':
     material: PAPER
@@ -542,14 +542,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 1
-    display_name: '&#888dafReward 6'
+    display_name: '&#888dafRecompensa 6'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf$800 Money'
-      - ' &8▪ &#888dafDrowned Pet Voucher'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf$800 Dinero'
+      - ' &8▪ &#888dafAhogado Mascota Vale'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -567,14 +567,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 2
-    display_name: '&#888dafReward 6'
+    display_name: '&#888dafRecompensa 6'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf$800 Money'
-      - ' &8▪ &#888dafDrowned Pet Voucher'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf$800 Dinero'
+      - ' &8▪ &#888dafAhogado Mascota Vale'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -595,14 +595,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 3
-    display_name: '&#888dafReward 6'
+    display_name: '&#888dafRecompensa 6'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf$800 Money'
-      - ' &8▪ &#888dafDrowned Pet Voucher'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf$800 Dinero'
+      - ' &8▪ &#888dafAhogado Mascota Vale'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
   'free_reward_8_claimed':
     material: PAPER
@@ -613,14 +613,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 1
-    display_name: '&#888dafReward 8'
+    display_name: '&#888dafRecompensa 8'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf5x Name Tag'
-      - ' &8▪ &#888dafCat Hat Voucher'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf5x Etiqueta'
+      - ' &8▪ &#888dafGato Sombrero Vale'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -638,14 +638,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 2
-    display_name: '&#888dafReward 8'
+    display_name: '&#888dafRecompensa 8'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf5x Name Tag'
-      - ' &8▪ &#888dafCat Hat Voucher'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf5x Etiqueta'
+      - ' &8▪ &#888dafGato Sombrero Vale'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -666,14 +666,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 3
-    display_name: '&#888dafReward 8'
+    display_name: '&#888dafRecompensa 8'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#888daf5x Name Tag'
-      - ' &8▪ &#888dafCat Hat Voucher'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#888daf5x Etiqueta'
+      - ' &8▪ &#888dafGato Sombrero Vale'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 #PremiumRewards
   'premium_reward_2_claimed':
@@ -685,14 +685,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 1
-    display_name: '&#f7b450Reward 2'
+    display_name: '&#f7b450Recompensa 2'
     lore:
       - ''
-      - '&fᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b45020x Iron Ingots'
-      - ' &8▪ &#f7b450Iron Axe (Efficiency II)'
+      - '&fᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b45020x Lingotes de Hierro'
+      - ' &8▪ &#f7b450Hacha de Hierro (Eficiencia II)'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -713,14 +713,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 2
-    display_name: '&#f7b450Reward 2'
+    display_name: '&#f7b450Recompensa 2'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b45020x Iron Ingots'
-      - ' &8▪ &#f7b450Iron Axe (Efficiency II)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b45020x Lingotes de Hierro'
+      - ' &8▪ &#f7b450Hacha de Hierro (Eficiencia II)'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -744,14 +744,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 3
-    display_name: '&#f7b450Reward 2'
+    display_name: '&#f7b450Recompensa 2'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b45020x Iron Ingots'
-      - ' &8▪ &#f7b450Iron Axe (Efficiency II)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b45020x Lingotes de Hierro'
+      - ' &8▪ &#f7b450Hacha de Hierro (Eficiencia II)'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -766,15 +766,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 4
-    display_name: '&#f7b450Reward 2'
+    display_name: '&#f7b450Recompensa 2'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b45020x Iron Ingots'
-      - ' &8▪ &#f7b450Iron Axe (Efficiency II)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b45020x Lingotes de Hierro'
+      - ' &8▪ &#f7b450Hacha de Hierro (Eficiencia II)'
       - ''
-      - '&#e5534dᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴘᴀꜱꜱ'
-      - '&#e5534dᴛᴏ ᴜɴʟᴏᴄᴋ ᴛʜɪꜱ ʀᴇᴡᴀʀᴅ'
+      - '&#e5534dᴄᴏᴍᴘʀᴀ ᴇʟ ᴘᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ'
+      - '&#e5534dᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇꜱᴛᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ'
 
   'premium_reward_4_claimed':
     material: PAPER
@@ -785,14 +785,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 1
-    display_name: '&#f7b450Reward 4'
+    display_name: '&#f7b450Recompensa 4'
     lore:
       - ''
-      - '&fᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$750 Money'
-      - ' &8▪ &#f7b450Iron Pickaxe (Efficiency III)'
+      - '&fᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$750 Dinero'
+      - ' &8▪ &#f7b450Pico de Hierro (Eficiencia III)'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -813,14 +813,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 2
-    display_name: '&#f7b450Reward 4'
+    display_name: '&#f7b450Recompensa 4'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$750 Money'
-      - ' &8▪ &#f7b450Iron Pickaxe (Efficiency III)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$750 Dinero'
+      - ' &8▪ &#f7b450Pico de Hierro (Eficiencia III)'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -844,14 +844,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 3
-    display_name: '&#f7b450Reward 4'
+    display_name: '&#f7b450Recompensa 4'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$750 Money'
-      - ' &8▪ &#f7b450Iron Pickaxe (Efficiency III)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$750 Dinero'
+      - ' &8▪ &#f7b450Pico de Hierro (Eficiencia III)'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -866,15 +866,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 4
-    display_name: '&#f7b450Reward 4'
+    display_name: '&#f7b450Recompensa 4'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$750 Money'
-      - ' &8▪ &#f7b450Iron Pickaxe (Efficiency III)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$750 Dinero'
+      - ' &8▪ &#f7b450Pico de Hierro (Eficiencia III)'
       - ''
-      - '&#e5534dᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴘᴀꜱꜱ'
-      - '&#e5534dᴛᴏ ᴜɴʟᴏᴄᴋ ᴛʜɪꜱ ʀᴇᴡᴀʀᴅ'
+      - '&#e5534dᴄᴏᴍᴘʀᴀ ᴇʟ ᴘᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ'
+      - '&#e5534dᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇꜱᴛᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ'
 
   'premium_reward_6_claimed':
     material: PAPER
@@ -885,13 +885,13 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 1
-    display_name: '&#f7b450Reward 6'
+    display_name: '&#f7b450Recompensa 6'
     lore:
       - ''
-      - '&fᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$1500 Money'
+      - '&fᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$1500 Dinero'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -912,13 +912,13 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 2
-    display_name: '&#f7b450Reward 6'
+    display_name: '&#f7b450Recompensa 6'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$1500 Money'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$1500 Dinero'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -941,13 +941,13 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 3
-    display_name: '&#f7b450Reward 6'
+    display_name: '&#f7b450Recompensa 6'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$1500 Money'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$1500 Dinero'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -962,14 +962,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 4
-    display_name: '&#f7b450Reward 6'
+    display_name: '&#f7b450Recompensa 6'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$1500 Money'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$1500 Dinero'
       - ''
-      - '&#e5534dᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴘᴀꜱꜱ'
-      - '&#e5534dᴛᴏ ᴜɴʟᴏᴄᴋ ᴛʜɪꜱ ʀᴇᴡᴀʀᴅ'
+      - '&#e5534dᴄᴏᴍᴘʀᴀ ᴇʟ ᴘᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ'
+      - '&#e5534dᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇꜱᴛᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ'
 
   'premium_reward_7_claimed':
     material: PAPER
@@ -980,14 +980,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 1
-    display_name: '&#f7b450Reward 7'
+    display_name: '&#f7b450Recompensa 7'
     lore:
       - ''
-      - '&fᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$1750 Money'
-      - ' &8▪ &#f7b450Donkey Pet Voucher'
+      - '&fᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$1750 Dinero'
+      - ' &8▪ &#f7b450Burro Mascota Vale'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -1008,14 +1008,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 2
-    display_name: '&#f7b450Reward 7'
+    display_name: '&#f7b450Recompensa 7'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$1750 Money'
-      - ' &8▪ &#f7b450Donkey Pet Voucher'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$1750 Dinero'
+      - ' &8▪ &#f7b450Burro Mascota Vale'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1039,14 +1039,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 3
-    display_name: '&#f7b450Reward 7'
+    display_name: '&#f7b450Recompensa 7'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$1750 Money'
-      - ' &8▪ &#f7b450Donkey Pet Voucher'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$1750 Dinero'
+      - ' &8▪ &#f7b450Burro Mascota Vale'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -1061,15 +1061,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 4
-    display_name: '&#f7b450Reward 7'
+    display_name: '&#f7b450Recompensa 7'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b450$1750 Money'
-      - ' &8▪ &#f7b450Donkey Pet Voucher'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b450$1750 Dinero'
+      - ' &8▪ &#f7b450Burro Mascota Vale'
       - ''
-      - '&#e5534dᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴘᴀꜱꜱ'
-      - '&#e5534dᴛᴏ ᴜɴʟᴏᴄᴋ ᴛʜɪꜱ ʀᴇᴡᴀʀᴅ'
+      - '&#e5534dᴄᴏᴍᴘʀᴀ ᴇʟ ᴘᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ'
+      - '&#e5534dᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇꜱᴛᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ'
 
   'premium_reward_9_claimed':
     material: PAPER
@@ -1080,14 +1080,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 1
-    display_name: '&#f7b450Reward 9'
+    display_name: '&#f7b450Recompensa 9'
     lore:
       - ''
-      - '&fᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b45016x Golden Apples'
-      - ' &8▪ &#f7b450Enchanted Book (Sharpness V)'
+      - '&fᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b45016x Manzanas Doradas'
+      - ' &8▪ &#f7b450Encantado Libro (Filo V)'
       - ''
-      - '&#88d34cᴄʟᴀɪᴍᴇᴅ'
+      - '&#88d34cʀᴇᴄʟᴀᴍᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -1108,14 +1108,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 2
-    display_name: '&#f7b450Reward 9'
+    display_name: '&#f7b450Recompensa 9'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b45016x Golden Apples'
-      - ' &8▪ &#f7b450Enchanted Book (Sharpness V)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b45016x Manzanas Doradas'
+      - ' &8▪ &#f7b450Encantado Libro (Filo V)'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1139,14 +1139,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 3
-    display_name: '&#f7b450Reward 9'
+    display_name: '&#f7b450Recompensa 9'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b45016x Golden Apples'
-      - ' &8▪ &#f7b450Enchanted Book (Sharpness V)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b45016x Manzanas Doradas'
+      - ' &8▪ &#f7b450Encantado Libro (Filo V)'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
     view_requirement:
       requirements:
         permission:
@@ -1161,15 +1161,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
     priority: 4
-    display_name: '&#f7b450Reward 9'
+    display_name: '&#f7b450Recompensa 9'
     lore:
       - ''
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ:'
-      - ' &8▪ &#f7b45016x Golden Apples'
-      - ' &8▪ &#f7b450Enchanted Book (Sharpness V)'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &#f7b45016x Manzanas Doradas'
+      - ' &8▪ &#f7b450Encantado Libro (Filo V)'
       - ''
-      - '&#e5534dᴘᴜʀᴄʜᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ ᴘᴀꜱꜱ'
-      - '&#e5534dᴛᴏ ᴜɴʟᴏᴄᴋ ᴛʜɪꜱ ʀᴇᴡᴀʀᴅ'
+      - '&#e5534dᴄᴏᴍᴘʀᴀ ᴇʟ ᴘᴀꜱᴇ ᴘʀᴇᴍɪᴜᴍ'
+      - '&#e5534dᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ ᴇꜱᴛᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ'
 
 
 
@@ -1182,7 +1182,7 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] battlepass"
   'next_page':
@@ -1195,6 +1195,6 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#8f96abNext Page ▸'
+    display_name: '&#8f96abPagina siguiente ▸'
     click_commands:
       - "[openguimenu] battlepass_rewards_2"

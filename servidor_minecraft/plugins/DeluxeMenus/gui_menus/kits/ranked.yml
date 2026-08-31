@@ -15,10 +15,10 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴅᴇꜰᴇɴᴅ ᴛʜᴇ ʀᴇᴀʟᴍ ᴡɪᴛʜ ʜᴏɴᴏʀ.'
-      - '&7ᴀ ʀᴇʟɪᴀʙʟᴇ ᴋɪᴛ ꜰᴏʀ ɢᴜᴀʀᴅɪᴀɴꜱ!'
+      - '&7ᴅᴇꜰɪᴇɴᴅᴇ ᴇʟ ʀᴇɪɴᴏ ᴄᴏɴ ʜᴏɴᴏʀ.'
+      - '&7¡ᴜɴ ᴋɪᴛ ꜰɪᴀʙʟᴇ ᴘᴀʀᴀ ɢᴜᴀʀᴅɪᴀɴᴇꜱ!'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%essentials_kit_time_until_available_guardian%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%essentials_kit_time_until_available_guardian%'
     view_requirement:
       requirements:
         cooldown:
@@ -41,13 +41,13 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴅᴇꜰᴇɴᴅ ᴛʜᴇ ʀᴇᴀʟᴍ ᴡɪᴛʜ ʜᴏɴᴏʀ.'
-      - '&7ᴀ ʀᴇʟɪᴀʙʟᴇ ᴋɪᴛ ꜰᴏʀ ɢᴜᴀʀᴅɪᴀɴꜱ!'
+      - '&7ᴅᴇꜰɪᴇɴᴅᴇ ᴇʟ ʀᴇɪɴᴏ ᴄᴏɴ ʜᴏɴᴏʀ.'
+      - '&7¡ᴜɴ ᴋɪᴛ ꜰɪᴀʙʟᴇ ᴘᴀʀᴀ ɢᴜᴀʀᴅɪᴀɴᴇꜱ!'
       - ''
-      - '&8▪ &7ᴄᴏᴏʟᴅᴏᴡɴ: &c7days'
+      - '&8▪ &7ᴇꜱᴘᴇʀᴀ: &c7ᴅɪᴀꜱ'
       - ''
-      - '&f &#38c42eʟᴇꜰᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
-      - '&f &#fbae33ʀɪɢʜᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴘʀᴇᴠɪᴇᴡ'
+      - '&f &#38c42eᴄʟɪᴄ ɪᴢǫᴜɪᴇʀᴅᴏ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
+      - '&f &#fbae33ᴄʟɪᴄ ᴅᴇʀᴇᴄʜᴏ ᴘᴀʀᴀ ᴘʀᴇᴠɪꜱᴜᴀʟɪᴢᴀʀ'
     left_click_commands:
       - "[player] essentials:kit guardian"
       - "[close]"
@@ -70,10 +70,10 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - "&7ᴘʀᴏᴠᴇ ʏᴏᴜʀ ᴡᴏʀᴛʜ ɪɴ ʙᴀᴛᴛʟᴇ."
-      - '&7ᴀ ꜱᴏʟɪᴅ ᴋɪᴛ ꜰᴏʀ ᴀ ᴛʀᴜᴇ ʜᴇʀᴏ!'
+      - "&7ᴅᴇᴍᴜᴇꜱᴛʀᴀ ᴛᴜ ᴠᴀʟíᴀ ᴇɴ ʙᴀᴛᴀʟʟᴀ."
+      - '&7¡ᴜɴ ᴋɪᴛ ꜱóʟɪᴅᴏ ᴘᴀʀᴀ ᴜɴ ʜéʀᴏᴇ!'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%essentials_kit_time_until_available_champion%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%essentials_kit_time_until_available_champion%'
     view_requirement:
       requirements:
         cooldown:
@@ -96,13 +96,13 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - "&7ᴘʀᴏᴠᴇ ʏᴏᴜʀ ᴡᴏʀᴛʜ ɪɴ ʙᴀᴛᴛʟᴇ."
-      - '&7ᴀ ꜱᴏʟɪᴅ ᴋɪᴛ ꜰᴏʀ ᴀ ᴛʀᴜᴇ ʜᴇʀᴏ!'
+      - "&7ᴅᴇᴍᴜᴇꜱᴛʀᴀ ᴛᴜ ᴠᴀʟíᴀ ᴇɴ ʙᴀᴛᴀʟʟᴀ."
+      - '&7¡ᴜɴ ᴋɪᴛ ꜱóʟɪᴅᴏ ᴘᴀʀᴀ ᴜɴ ʜéʀᴏᴇ!'
       - ''
-      - '&8▪ &7ᴄᴏᴏʟᴅᴏᴡɴ: &c7days'
+      - '&8▪ &7ᴇꜱᴘᴇʀᴀ: &c7ᴅɪᴀꜱ'
       - ''
-      - '&f &#38c42eʟᴇꜰᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
-      - '&f &#fbae33ʀɪɢʜᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴘʀᴇᴠɪᴇᴡ'
+      - '&f &#38c42eᴄʟɪᴄ ɪᴢǫᴜɪᴇʀᴅᴏ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
+      - '&f &#fbae33ᴄʟɪᴄ ᴅᴇʀᴇᴄʜᴏ ᴘᴀʀᴀ ᴘʀᴇᴠɪꜱᴜᴀʟɪᴢᴀʀ'
     left_click_commands:
       - "[player] essentials:kit champion"
       - "[close]"
@@ -125,10 +125,10 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴇǫᴜɪᴘ ʏᴏᴜʀꜱᴇʟꜰ ʟɪᴋᴇ ᴀ ᴛʀᴜᴇ ᴡᴀʀʟᴏʀᴅ.'
-      - '&7ꜱᴛʀᴏɴɢ ɢᴇᴀʀ ꜰᴏʀ ꜰɪᴇʀᴄᴇ ʙᴀᴛᴛʟᴇꜱ.'
+      - '&7ᴇǫᴜíᴘᴀᴛᴇ ᴄᴏᴍᴏ ᴜɴ ᴀᴜᴛéɴᴛɪᴄᴏ ᴡᴀʀʟᴏʀᴅ.'
+      - '&7ᴇǫᴜɪᴘᴏ ᴘᴏᴛᴇɴᴛᴇ ᴘᴀʀᴀ ʙᴀᴛᴀʟʟᴀꜱ ꜰᴇʀᴏᴄᴇꜱ.'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%essentials_kit_time_until_available_warlord%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%essentials_kit_time_until_available_warlord%'
     view_requirement:
       requirements:
         cooldown:
@@ -151,13 +151,13 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴇǫᴜɪᴘ ʏᴏᴜʀꜱᴇʟꜰ ʟɪᴋᴇ ᴀ ᴛʀᴜᴇ ᴡᴀʀʟᴏʀᴅ.'
-      - '&7ꜱᴛʀᴏɴɢ ɢᴇᴀʀ ꜰᴏʀ ꜰɪᴇʀᴄᴇ ʙᴀᴛᴛʟᴇꜱ.'
+      - '&7ᴇǫᴜíᴘᴀᴛᴇ ᴄᴏᴍᴏ ᴜɴ ᴀᴜᴛéɴᴛɪᴄᴏ ᴡᴀʀʟᴏʀᴅ.'
+      - '&7ᴇǫᴜɪᴘᴏ ᴘᴏᴛᴇɴᴛᴇ ᴘᴀʀᴀ ʙᴀᴛᴀʟʟᴀꜱ ꜰᴇʀᴏᴄᴇꜱ.'
       - ''
-      - '&8▪ &7ᴄᴏᴏʟᴅᴏᴡɴ: &c7days'
+      - '&8▪ &7ᴇꜱᴘᴇʀᴀ: &c7ᴅɪᴀꜱ'
       - ''
-      - '&f &#38c42eʟᴇꜰᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
-      - '&f &#fbae33ʀɪɢʜᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴘʀᴇᴠɪᴇᴡ'
+      - '&f &#38c42eᴄʟɪᴄ ɪᴢǫᴜɪᴇʀᴅᴏ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
+      - '&f &#fbae33ᴄʟɪᴄ ᴅᴇʀᴇᴄʜᴏ ᴘᴀʀᴀ ᴘʀᴇᴠɪꜱᴜᴀʟɪᴢᴀʀ'
     left_click_commands:
       - "[player] essentials:kit warlord"
       - "[close]"
@@ -180,10 +180,10 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ɢʀᴇᴀᴛ ᴘᴏᴡᴇʀ ꜰᴏʀ ᴀ ᴍɪɢʜᴛʏ ᴛɪᴛᴀɴ.'
-      - '&7ɢᴇᴀʀ ᴜᴘ ᴀɴᴅ ꜱᴛᴀɴᴅ ꜱᴛʀᴏɴɢ.'
+      - '&7ɢʀᴀɴ ᴘᴏᴅᴇʀ ᴘᴀʀᴀ ᴜɴ ᴛɪᴛáɴ ᴘᴏᴅᴇʀᴏꜱᴏ.'
+      - '&7ᴇǫᴜíᴘᴀᴛᴇ ʏ ᴍᴀɴᴛᴇɴᴛᴇ ꜰɪʀᴍᴇ.'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%essentials_kit_time_until_available_titan%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%essentials_kit_time_until_available_titan%'
     view_requirement:
       requirements:
         cooldown:
@@ -206,13 +206,13 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ɢʀᴇᴀᴛ ᴘᴏᴡᴇʀ ꜰᴏʀ ᴀ ᴍɪɢʜᴛʏ ᴛɪᴛᴀɴ.'
-      - '&7ɢᴇᴀʀ ᴜᴘ ᴀɴᴅ ꜱᴛᴀɴᴅ ꜱᴛʀᴏɴɢ.'
+      - '&7ɢʀᴀɴ ᴘᴏᴅᴇʀ ᴘᴀʀᴀ ᴜɴ ᴛɪᴛáɴ ᴘᴏᴅᴇʀᴏꜱᴏ.'
+      - '&7ᴇǫᴜíᴘᴀᴛᴇ ʏ ᴍᴀɴᴛᴇɴᴛᴇ ꜰɪʀᴍᴇ.'
       - ''
-      - '&8▪ &7ᴄᴏᴏʟᴅᴏᴡɴ: &c7days'
+      - '&8▪ &7ᴇꜱᴘᴇʀᴀ: &c7ᴅɪᴀꜱ'
       - ''
-      - '&f &#38c42eʟᴇꜰᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
-      - '&f &#fbae33ʀɪɢʜᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴘʀᴇᴠɪᴇᴡ'
+      - '&f &#38c42eᴄʟɪᴄ ɪᴢǫᴜɪᴇʀᴅᴏ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
+      - '&f &#fbae33ᴄʟɪᴄ ᴅᴇʀᴇᴄʜᴏ ᴘᴀʀᴀ ᴘʀᴇᴠɪꜱᴜᴀʟɪᴢᴀʀ'
     left_click_commands:
       - "[player] essentials:kit titan"
       - "[close]"
@@ -235,10 +235,10 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴛʜᴇ ᴜʟᴛɪᴍᴀᴛᴇ ᴋɪᴛ ꜰᴏʀ ᴛʜᴇ ʀᴜʟᴇʀ!'
-      - '&7ᴜɴᴍᴀᴛᴄʜᴇᴅ ᴘᴏᴡᴇʀ ꜰɪᴛ ꜰᴏʀ ᴀ ᴋɪɴɢ.'
+      - '&7¡ᴇʟ ᴋɪᴛ ᴅᴇꜰɪɴɪᴛɪᴠᴏ ᴘᴀʀᴀ ᴇʟ ꜱᴏʙᴇʀᴀɴᴏ!'
+      - '&7ᴘᴏᴅᴇʀ ꜱɪɴ ɪɢᴜᴀʟ, ᴅɪɢɴᴏ ᴅᴇ ᴜɴ ʀᴇʏ.'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%essentials_kit_time_until_available_king%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%essentials_kit_time_until_available_king%'
     view_requirement:
       requirements:
         cooldown:
@@ -261,13 +261,13 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴛʜᴇ ᴜʟᴛɪᴍᴀᴛᴇ ᴋɪᴛ ꜰᴏʀ ᴛʜᴇ ʀᴜʟᴇʀ!'
-      - '&7ᴜɴᴍᴀᴛᴄʜᴇᴅ ᴘᴏᴡᴇʀ ꜰɪᴛ ꜰᴏʀ ᴀ ᴋɪɴɢ.'
+      - '&7¡ᴇʟ ᴋɪᴛ ᴅᴇꜰɪɴɪᴛɪᴠᴏ ᴘᴀʀᴀ ᴇʟ ꜱᴏʙᴇʀᴀɴᴏ!'
+      - '&7ᴘᴏᴅᴇʀ ꜱɪɴ ɪɢᴜᴀʟ, ᴅɪɢɴᴏ ᴅᴇ ᴜɴ ʀᴇʏ.'
       - ''
-      - '&8▪ &7ᴄᴏᴏʟᴅᴏᴡɴ: &c7days'
+      - '&8▪ &7ᴇꜱᴘᴇʀᴀ: &c7ᴅɪᴀꜱ'
       - ''
-      - '&f &#38c42eʟᴇꜰᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
-      - '&f &#fbae33ʀɪɢʜᴛ ᴄʟɪᴄᴋ ᴛᴏ ᴘʀᴇᴠɪᴇᴡ'
+      - '&f &#38c42eᴄʟɪᴄ ɪᴢǫᴜɪᴇʀᴅᴏ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
+      - '&f &#fbae33ᴄʟɪᴄ ᴅᴇʀᴇᴄʜᴏ ᴘᴀʀᴀ ᴘʀᴇᴠɪꜱᴜᴀʟɪᴢᴀʀ'
     left_click_commands:
       - "[player] essentials:kit king"
       - "[close]"
@@ -287,7 +287,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] kits"
 

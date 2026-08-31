@@ -17,12 +17,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&3&lɴᴏʀᴍᴀʟ ᴋɪᴛs'
+    display_name: '&3&lᴋɪᴛꜱ ɴᴏʀᴍᴀʟᴇꜱ'
     lore:
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ ᴠᴀʀɪᴏᴜꜱ ᴛʏᴘᴇꜱ'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ ᴠᴀʀɪᴏꜱ ᴛɪᴘᴏꜱ'
       - '&7ᴏꜰ ꜱᴛᴀʀᴛᴇʀ ᴋɪᴛꜱ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
     click_commands:
       - "[openguimenu] normal_kits"
 
@@ -38,12 +38,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&6&lʀᴀɴᴋᴇᴅ ᴋɪᴛs'
+    display_name: '&6&lᴋɪᴛꜱ ᴅᴇ ʀᴀɴɢᴏ'
     lore:
-      - '&7ᴄᴏɴᴛᴀɪɴꜱ ᴠᴀʀɪᴏᴜꜱ ᴛʏᴘᴇꜱ'
+      - '&7ᴄᴏɴᴛɪᴇɴᴇ ᴠᴀʀɪᴏꜱ ᴛɪᴘᴏꜱ'
       - '&7ᴏꜰ ᴀᴅᴠᴀɴᴄᴇᴅ ᴋɪᴛꜱ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
     click_commands:
       - "[openguimenu] ranked_kits"
 

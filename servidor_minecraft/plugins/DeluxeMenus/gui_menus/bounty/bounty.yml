@@ -10,14 +10,14 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&#77655d☠ &#bda08e&lᴍᴏꜱᴛ ᴡᴀɴᴛᴇᴅ &#77655d☠'
+    display_name: '&#77655d☠ &#bda08e&lᴍáꜱ ʙᴜꜱᴄᴀᴅᴏ &#77655d☠'
     lore:
-      - '&7ʜᴜɴᴛ ᴅᴏᴡɴ ᴛʜᴇ ᴘʟᴀʏᴇʀ ᴛᴏ'
-      - '&7ʀᴇᴄᴇɪᴠᴇ ᴛʜᴇ ʙᴏᴜɴᴛʏ ᴘʀɪᴢᴇ'
+      - '&7ᴄᴀᴢᴀ ᴀʟ ᴊᴜɢᴀᴅᴏʀ ᴘᴀʀᴀ'
+      - '&7ʀᴇᴄɪʙɪʀ ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ'
       - ''
-      - ' &8▪ &7ɴᴀᴍᴇ: &#b59b8b%notbounties_top_1_current_name%'
-      - ' &8▪ &7ᴘʀɪᴢᴇ: &2$&a%notbounties_top_1_current_formatted%'
+      - ' &8▪ &7ɴᴏᴍʙʀᴇ: &#b59b8b%notbounties_top_1_current_name%'
+      - ' &8▪ &7ᴘʀᴇᴍɪᴏ: &2$&a%notbounties_top_1_current_formatted%'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ ʙᴏᴜɴᴛɪᴇꜱ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ'
     click_commands:
       - "[player] notbounties:bounty"

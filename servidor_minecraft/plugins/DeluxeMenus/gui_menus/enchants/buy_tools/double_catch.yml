@@ -11,15 +11,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴅᴏᴜʙʟᴇ ᴄᴀᴛᴄʜ'
+    display_name: '&#a55eea&lᴄᴀᴘᴛᴜʀᴀ ᴅᴏʙʟᴇ'
     lore:
-      - '&7ɪɴᴄʀᴇᴀꜱᴇꜱ ᴀᴍᴏᴜɴᴛ ᴏꜰ ᴄᴀᴜɢʜᴛ'
-      - '&7ɪᴛᴇᴍ ʙʏ x𝟤.'
+      - '&7ᴀᴜᴍᴇɴᴛᴀ ʟᴀ ᴄᴀɴᴛɪᴅᴀᴅ ᴅᴇ ᴄᴀᴘᴛᴜʀᴀꜱ'
+      - '&7ᴏʙᴊᴇᴛᴏ ᴘᴏʀ x𝟤.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1500 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1500 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -42,15 +42,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴅᴏᴜʙʟᴇ ᴄᴀᴛᴄʜ'
+    display_name: '&#a55eea&lᴄᴀᴘᴛᴜʀᴀ ᴅᴏʙʟᴇ'
     lore:
-      - '&7ɪɴᴄʀᴇᴀꜱᴇꜱ ᴀᴍᴏᴜɴᴛ ᴏꜰ ᴄᴀᴜɢʜᴛ'
-      - '&7ɪᴛᴇᴍ ʙʏ x𝟤.'
+      - '&7ᴀᴜᴍᴇɴᴛᴀ ʟᴀ ᴄᴀɴᴛɪᴅᴀᴅ ᴅᴇ ᴄᴀᴘᴛᴜʀᴀꜱ'
+      - '&7ᴏʙᴊᴇᴛᴏ ᴘᴏʀ x𝟤.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea2'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2700 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea2'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2700 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -73,15 +73,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴅᴏᴜʙʟᴇ ᴄᴀᴛᴄʜ'
+    display_name: '&#a55eea&lᴄᴀᴘᴛᴜʀᴀ ᴅᴏʙʟᴇ'
     lore:
-      - '&7ɪɴᴄʀᴇᴀꜱᴇꜱ ᴀᴍᴏᴜɴᴛ ᴏꜰ ᴄᴀᴜɢʜᴛ'
-      - '&7ɪᴛᴇᴍ ʙʏ x𝟤.'
+      - '&7ᴀᴜᴍᴇɴᴛᴀ ʟᴀ ᴄᴀɴᴛɪᴅᴀᴅ ᴅᴇ ᴄᴀᴘᴛᴜʀᴀꜱ'
+      - '&7ᴏʙᴊᴇᴛᴏ ᴘᴏʀ x𝟤.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea3'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea4200 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea3'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea4200 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -106,6 +106,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] enchants_tools"

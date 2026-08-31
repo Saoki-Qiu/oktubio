@@ -13,18 +13,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 15'
+    display_name: '&#88d34c&lMision 15'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Mine 128 Stone'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Mina 128 Piedra'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 15'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 15'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -41,18 +41,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 15'
+    display_name: '&#f8d547&lMision 15'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Mine 128 Stone'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Mina 128 Piedra'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 15'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 15'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -74,18 +74,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 15'
+    display_name: '&#d4a177&lMision 15'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cMine 128 Stone'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cMina 128 Piedra'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 15'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 15'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -104,18 +104,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 15'
+    display_name: '&#e5534d&lMision 15'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Mine 128 Stone'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Mina 128 Piedra'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 15'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 15'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_16_completed':
@@ -128,18 +128,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 16'
+    display_name: '&#88d34c&lMision 16'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Kill 10 Breeze'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Mata 10 Breeze'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 16'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 16'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -156,18 +156,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 16'
+    display_name: '&#f8d547&lMision 16'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Kill 10 Breeze'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Mata 10 Breeze'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 16'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 16'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -189,18 +189,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 16'
+    display_name: '&#d4a177&lMision 16'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cKill 10 Breeze'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cMata 10 Breeze'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 16'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 16'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -219,18 +219,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 16'
+    display_name: '&#e5534d&lMision 16'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Kill 10 Breeze'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Mata 10 Breeze'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 16'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 16'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_17_completed':
@@ -243,18 +243,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 17'
+    display_name: '&#88d34c&lMision 17'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Kill 5 Players'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Matar 5 Jugadores'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 17'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 17'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -271,18 +271,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 17'
+    display_name: '&#f8d547&lMision 17'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Kill 5 Players'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Matar 5 Jugadores'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 17'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 17'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -304,18 +304,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 17'
+    display_name: '&#d4a177&lMision 17'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cKill 5 Players'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cMatar 5 Jugadores'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 17'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 17'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -334,18 +334,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 17'
+    display_name: '&#e5534d&lMision 17'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Kill 5 Players'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Matar 5 Jugadores'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 17'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 17'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_18_completed':
@@ -358,18 +358,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 18'
+    display_name: '&#88d34c&lMision 18'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Kill 1 Ravager'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Matar 1 Devastador'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 18'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 18'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -386,18 +386,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 18'
+    display_name: '&#f8d547&lMision 18'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Kill 1 Ravager'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Matar 1 Devastador'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 18'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 18'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -419,18 +419,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 18'
+    display_name: '&#d4a177&lMision 18'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cKill 1 Ravager'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cMatar 1 Devastador'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 18'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 18'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -449,18 +449,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 18'
+    display_name: '&#e5534d&lMision 18'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Kill 1 Ravager'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Matar 1 Devastador'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 18'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 18'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_19_completed':
@@ -473,18 +473,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 19'
+    display_name: '&#88d34c&lMision 19'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Kill 30 Creepers'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Mata 30 Creepers'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 19'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 19'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -501,18 +501,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 19'
+    display_name: '&#f8d547&lMision 19'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Kill 30 Creepers'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Mata 30 Creepers'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 19'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 19'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -534,18 +534,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 19'
+    display_name: '&#d4a177&lMision 19'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cKill 30 Creepers'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cMata 30 Creepers'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 19'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 19'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -564,18 +564,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 19'
+    display_name: '&#e5534d&lMision 19'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Kill 30 Creepers'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Mata 30 Creepers'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 19'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 19'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_20_completed':
@@ -588,18 +588,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 20'
+    display_name: '&#88d34c&lMision 20'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Craft 1 Conduit'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Fabrica 1 Conducto'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 20'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 20'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -616,18 +616,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 20'
+    display_name: '&#f8d547&lMision 20'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Craft 1 Conduit'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Fabrica 1 Conducto'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 20'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 20'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -649,18 +649,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 20'
+    display_name: '&#d4a177&lMision 20'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cCraft 1 Conduit'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cFabrica 1 Conducto'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 20'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 20'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -679,18 +679,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 20'
+    display_name: '&#e5534d&lMision 20'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Craft 1 Conduit'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Fabrica 1 Conducto'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 20'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 20'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_21_completed':
@@ -703,18 +703,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 21'
+    display_name: '&#88d34c&lMision 21'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Place 200 Stonebricks'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Coloca 200 Ladrillos de Piedra'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 21'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 21'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -731,18 +731,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 21'
+    display_name: '&#f8d547&lMision 21'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Place 200 Stonebricks'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Coloca 200 Ladrillos de Piedra'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 21'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 21'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -764,18 +764,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 21'
+    display_name: '&#d4a177&lMision 21'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cPlace 200 Stonebricks'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cColoca 200 Ladrillos de Piedra'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 21'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 21'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -794,18 +794,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 21'
+    display_name: '&#e5534d&lMision 21'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Place 200 Stonebricks'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Coloca 200 Ladrillos de Piedra'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 21'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 21'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_22_completed':
@@ -818,18 +818,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 22'
+    display_name: '&#88d34c&lMision 22'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Kill 5 Creaking'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Mata 5 Creaking'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 22'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 22'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -846,18 +846,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 22'
+    display_name: '&#f8d547&lMision 22'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Kill 5 Creaking'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Mata 5 Creaking'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 22'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 22'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -879,18 +879,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 22'
+    display_name: '&#d4a177&lMision 22'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cKill 5 Creaking'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cMata 5 Creaking'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 22'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 22'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -909,18 +909,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 22'
+    display_name: '&#e5534d&lMision 22'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Kill 5 Creaking'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Mata 5 Creaking'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 22'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 22'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_23_completed':
@@ -933,18 +933,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 23'
+    display_name: '&#88d34c&lMision 23'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Milk 20 Cows'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Ordeña 20 Vacas'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 23'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 23'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -961,18 +961,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 23'
+    display_name: '&#f8d547&lMision 23'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Milk 20 Cows'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Ordeña 20 Vacas'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 23'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 23'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -994,18 +994,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 23'
+    display_name: '&#d4a177&lMision 23'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cMilk 20 Cows'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cOrdeña 20 Vacas'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 23'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 23'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1024,18 +1024,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 23'
+    display_name: '&#e5534d&lMision 23'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Milk 20 Cows'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Ordeña 20 Vacas'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 23'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 23'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_24_completed':
@@ -1048,18 +1048,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 24'
+    display_name: '&#88d34c&lMision 24'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Mine 40 Tubecoral Blocks'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Mina 40 Bloques de Coral Tubo'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 24'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 24'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -1076,18 +1076,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 24'
+    display_name: '&#f8d547&lMision 24'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Mine 40 Tubecoral Blocks'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Mina 40 Bloques de Coral Tubo'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 24'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 24'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -1109,18 +1109,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 24'
+    display_name: '&#d4a177&lMision 24'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cMine 40 Tubecoral Blocks'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cMina 40 Bloques de Coral Tubo'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 24'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 24'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1139,18 +1139,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 24'
+    display_name: '&#e5534d&lMision 24'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Mine 40 Tubecoral Blocks'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Mina 40 Bloques de Coral Tubo'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 24'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 24'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
   'quest_25_completed':
@@ -1163,18 +1163,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#88d34c&lQuest 25'
+    display_name: '&#88d34c&lMision 25'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#9bda69Kill 1 Warden'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#9bda69Matar 1 Warden'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#9bda69Tier 25'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#9bda69Nivel 25'
       - ''
-      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴇᴅ'
+      - '&#88d34cᴄᴏᴍᴘʟᴇᴛᴀᴅᴏ'
     view_requirement:
       requirements:
         completed:
@@ -1191,18 +1191,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f8d547&lQuest 25'
+    display_name: '&#f8d547&lMision 25'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#f4d867Kill 1 Warden'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#f4d867Matar 1 Warden'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#f4d867Tier 25'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#f4d867Nivel 25'
       - ''
-      - '&#f8d547ɪɴ ᴘʀᴏɢʀᴇꜱꜱ'
+      - '&#f8d547ᴇɴ ᴘʀᴏɢʀᴇꜱᴏ'
     view_requirement:
       requirements:
         permission:
@@ -1224,18 +1224,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177&lQuest 25'
+    display_name: '&#d4a177&lMision 25'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#d6ad8cKill 1 Warden'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#d6ad8cMatar 1 Warden'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#d6ad8cTier 25'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#d6ad8cNivel 25'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ꜱᴛᴀʀᴛ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇᴍᴘᴇᴢᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1254,18 +1254,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e5534d&lQuest 25'
+    display_name: '&#e5534d&lMision 25'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ᴛʜᴇ ǫᴜᴇꜱᴛ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ɪᴛꜱ ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ʟᴀ ᴍɪꜱɪᴏɴ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ꜱᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ'
       - ''
-      - '&fᴏʙᴊᴇᴄᴛɪᴠᴇ:'
-      - ' &8▪ &#e85954Kill 1 Warden'
+      - '&fᴏʙᴊᴇᴛɪᴠᴏ:'
+      - ' &8▪ &#e85954Matar 1 Warden'
       - ''
-      - '&fᴛɪᴇʀ ᴜɴʟᴏᴄᴋ:'
-      - ' &8▪ &#e85954Tier 25'
+      - '&fᴅᴇꜱʙʟᴏǫᴜᴇᴏ ᴅᴇ ɴɪᴠᴇʟ:'
+      - ' &8▪ &#e85954Nivel 25'
       - ''
-      - '&#e5534dʟᴏᴄᴋᴇᴅ'
+      - '&#e5534dʙʟᴏǫᴜᴇᴀᴅᴏ'
 
 
 
@@ -1278,7 +1278,7 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#d4a177Back'
+    display_name: '&#d4a177Volver'
     click_commands:
       - "[openguimenu] battlepass"
   'previous_page':
@@ -1289,6 +1289,6 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#d4a177Previous Page'
+    display_name: '&#d4a177Pagina anterior'
     click_commands:
       - "[openguimenu] battlepass_quests_1"

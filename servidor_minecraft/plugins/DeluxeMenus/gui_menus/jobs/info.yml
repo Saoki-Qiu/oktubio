@@ -14,9 +14,9 @@ items:
     update: true
     display_name: '&#8f96ab&lᴇᴀʀɴɪɴɢꜱ'
     lore:
-      - '&7ꜰᴏʀ ᴛʜᴇ ᴀʟʟ ᴍᴀᴛʜ ɴᴇʀᴅꜱ ᴏᴜᴛ ᴛʜᴇʀᴇ'
-      - '&7ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ꜰᴏʀᴍᴜʟᴀ ᴜꜱᴇᴅ ꜰᴏʀ'
-      - '&7ᴄᴀʟᴄᴜʟᴀᴛɪɴɢ ᴊᴏʙꜱ ʟᴇᴠᴇʟ ᴘʀᴏɢʀᴇꜱꜱɪᴏɴ:'
+      - '&7ᴘᴀʀᴀ ʟᴏꜱ ᴀᴍᴀɴᴛᴇꜱ ᴅᴇ ʟᴀꜱ ᴍᴀᴛᴇᴍáᴛɪᴄᴀꜱ'
+      - '&7ᴇꜱᴛᴀ ᴇꜱ ʟᴀ ꜰóʀᴍᴜʟᴀ ᴜꜱᴀᴅᴀ ᴘᴀʀᴀ'
+      - '&7ᴄᴀʟᴄᴜʟᴀʀ ʟᴀ ᴘʀᴏɢʀᴇꜱɪóɴ ᴅᴇ ɴɪᴠᴇʟ:'
       - ''
       - '&#8f96abbaseincome+(joblevel*0.03)+(numjobs*0.02)'
 
@@ -30,6 +30,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] lumberjack_job"

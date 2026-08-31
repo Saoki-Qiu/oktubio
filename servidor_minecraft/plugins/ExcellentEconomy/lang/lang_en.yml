@@ -89,7 +89,7 @@ Currency:
     Display:
       Own:
       - '[prefix="false"]<lyellow>ᴄᴏɪɴꜱ: <gold>%balance%&f'
-      - <lyellow>ᴘᴜʀᴄʜᴀꜱᴇ ᴄᴏɪɴꜱ ᴀᴛ ᴘʀᴏxɪᴍᴀᴍᴇɴᴛᴇ
+      - <lyellow>ᴄᴏᴍᴘʀᴀ ᴄᴏɪɴꜱ ᴇɴ ᴘʀóxɪᴍᴀᴍᴇɴᴛᴇ
       Others: '<lgray><lyellow>%player_name%</lyellow>''s balance: <lyellow>%balance%</lyellow>.</lgray>'
   Exchange:
     Error:
@@ -203,10 +203,3 @@ TopList:
     Inactive: <hover:show_text:"<gray>There are no more pages.</gray>"><gray>[←]</gray></hover>
 Other:
   NoTopEntry: <none>
-Leaderboards:
-  UI:
-    Leaderboard:
-      Entry:
-        Name: <yellow>#%pos%</yellow> <white>%player_name%</white>
-        Lore:
-        - <green>%balance%</green>

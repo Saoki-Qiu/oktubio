@@ -19,10 +19,10 @@ items:
       - HIDE_ENCHANTS 
     display_name: '&#c23631&lᴀʀᴇɴᴀ ᴡᴀʀᴘ'
     lore:
-      - '&7ꜰɪɢʜᴛ ʏᴏᴜʀ ᴇɴᴇᴍɪᴇꜱ ᴀɴᴅ'
-      - '&7ɢᴇᴛ ʏᴏᴜʀ ʀᴇᴠᴇɴɢᴇ!'
+      - '&7ʟᴜᴄʜᴀ ᴄᴏɴᴛʀᴀ ᴛᴜꜱ ᴇɴᴇᴍɪɢᴏꜱ ʏ'
+      - '&7¡ᴏʙᴛéɴ ᴛᴜ ᴠᴇɴɢᴀɴᴢᴀ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴡᴀʀᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴡᴀʀᴘ'
     left_click_commands:
       - "[player] essentials:warp Arena"
       - "[close]"
@@ -42,10 +42,10 @@ items:
       - HIDE_ENCHANTS 
     display_name: '&#ea6632&lᴀʀᴄᴀᴅᴇ ᴡᴀʀᴘ'
     lore:
-      - '&7ᴘʟᴀʏ ᴍɪɴɪɢᴀᴍᴇꜱ ᴀɴᴅ'
+      - '&7ᴊᴜᴇɢᴀ ᴍɪɴɪᴊᴜᴇɢᴏꜱ ʏ'
       - '&7ᴡɪɴ ʙɪɢ ᴘʀɪᴢᴇꜱ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴡᴀʀᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴡᴀʀᴘ'
     left_click_commands:
       - "[player] essentials:warp Arcade"
       - "[close]"
@@ -63,12 +63,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&#326dea&lꜰɪꜱʜᴇʀᴍᴀɴ ᴡᴀʀᴘ'
+    display_name: '&#326dea&lᴘᴇꜱᴄᴀᴅᴏʀ ᴡᴀʀᴘ'
     lore:
-      - '&7ᴄᴀᴛᴄʜ ꜰɪꜱʜᴇꜱ ᴀɴᴅ ꜱᴇʟʟ ɪᴛ'
-      - '&7ᴛᴏ ᴛʜᴇ ꜰɪꜱʜᴇʀᴍᴀɴ!'
+      - '&7ᴘᴇꜱᴄᴀ ᴘᴇᴄᴇꜱ ʏ ᴠéɴᴅᴇʟᴏꜱ'
+      - '&7¡ᴀʟ ᴘᴇꜱᴄᴀᴅᴏʀ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴡᴀʀᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴡᴀʀᴘ'
     left_click_commands:
       - "[player] essentials:warp Fisherman"
       - "[close]"
@@ -86,12 +86,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&#575757&lᴅᴜɴɢᴇᴏɴ ᴡᴀʀᴘ'
+    display_name: '&#575757&lᴍᴀᴢᴍᴏʀʀᴀ ᴡᴀʀᴘ'
     lore:
-      - '&7ᴛᴇꜱᴛ ʏᴏᴜʀ ꜱᴋɪʟʟꜱ, ꜰɪɢʜᴛ ᴍᴏʙꜱ'
-      - '&7ᴀɴᴅ ɢᴇᴛ ʏᴏᴜʀ ʀᴇᴡᴀʀᴅꜱ!'
+      - '&7ᴘᴏɴ ᴀ ᴘʀᴜᴇʙᴀ ᴛᴜꜱ ʜᴀʙɪʟɪᴅᴀᴅᴇꜱ, ʟᴜᴄʜᴀ'
+      - '&7ʏ ᴏʙᴛᴇɴᴇʀ ᴛᴜ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴡᴀʀᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴡᴀʀᴘ'
     left_click_commands:
       - "[player] essentials:warp Dungeon"
       - "[close]"
@@ -109,12 +109,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&#2884b2&lᴄʀᴀᴛᴇꜱ ᴡᴀʀᴘ'
+    display_name: '&#2884b2&lᴄᴀᴊᴀꜱ ᴡᴀʀᴘ'
     lore:
-      - '&7ᴏᴘᴇɴ ᴛʜᴇ ᴄʀᴀᴛᴇꜱ ᴡɪᴛʜ ᴋᴇʏꜱ'
-      - '&7ᴀɴᴅ ɢᴇᴛ ʀᴇᴡᴀʀᴅꜱ!'
+      - '&7ᴀʙʀᴇ ʟᴀꜱ ᴄᴀᴊᴀꜱ ᴄᴏɴ ʟʟᴀᴠᴇꜱ'
+      - '&7ʏ ᴏʙᴛᴇɴᴇʀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴡᴀʀᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴡᴀʀᴘ'
     left_click_commands:
       - "[player] essentials:warp Crates"
       - "[close]"
@@ -134,10 +134,10 @@ items:
       - HIDE_ENCHANTS 
     display_name: '&#cc8b2f&lᴀꜰᴋ ꜱᴘᴏᴛ'
     lore:
-      - '&7ᴀꜰᴋ ɪɴ ᴛʜɪꜱ ꜱᴘᴏᴛ ᴀɴᴅ'
-      - '&7ɢᴇᴛ ʀᴇᴡᴀʀᴅꜱ ɪɴ ʀᴇᴛᴜʀɴ!'
+      - '&7ǫᴜéᴅᴀᴛᴇ ᴀꜰᴋ ᴀǫᴜí ʏ'
+      - '&7¡ᴏʙᴛéɴ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ᴀ ᴄᴀᴍʙɪᴏ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴡᴀʀᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴡᴀʀᴘ'
     left_click_commands:
       - "[player] essentials:warp Afk"
       - "[close]"
@@ -159,12 +159,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&#ea3251&lꜰᴜʀɴɪᴛᴜʀᴇ ᴡᴀʀᴘ'
+    display_name: '&#ea3251&lᴍᴜᴇʙʟᴇꜱ ᴡᴀʀᴘ'
     lore:
-      - '&7ʙᴜʏ ꜰᴜʀɴɪᴛᴜʀᴇ ᴀɴᴅ'
-      - '&7ᴅᴇᴄᴏʀᴀᴛᴇ ʏᴏᴜʀ ʜᴏᴜꜱᴇ!'
+      - '&7ᴄᴏᴍᴘʀᴀʀ ᴍᴜᴇʙʟᴇꜱ ʏ'
+      - '&7¡ᴅᴇᴄᴏʀᴀ ᴛᴜ ᴄᴀꜱᴀ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴡᴀʀᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴡᴀʀᴘ'
     left_click_commands:
       - "[player] essentials:warp Furniture"
       - "[close]"
@@ -186,12 +186,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&#6aea32&lꜰᴀʀᴍᴇʀ ᴡᴀʀᴘ'
+    display_name: '&#6aea32&lɢʀᴀɴᴊᴇʀᴏ ᴡᴀʀᴘ'
     lore:
-      - '&7ʙᴜʏ ᴀɴᴅ ꜱᴇʟʟ ꜰᴀʀᴍɪɴɢ'
-      - '&7ɪᴛᴇᴍꜱ ʜᴇʀᴇ'
+      - '&7ᴄᴏᴍᴘʀᴀʀ ʏ ᴠᴇɴᴅᴇʀ Aɢʀɪᴄᴜʟᴛᴜʀᴀ'
+      - '&7ᴏʙᴊᴇᴛᴏꜱ ᴀǫᴜɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴡᴀʀᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴡᴀʀᴘ'
     left_click_commands:
       - "[player] essentials:warp Farmer"
       - "[close]"

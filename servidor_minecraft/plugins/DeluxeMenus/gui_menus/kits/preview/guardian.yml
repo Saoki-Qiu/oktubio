@@ -15,8 +15,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴅᴇꜰᴇɴᴅ ᴛʜᴇ ʀᴇᴀʟᴍ ᴡɪᴛʜ ʜᴏɴᴏʀ.'
-      - '&7ᴀ ʀᴇʟɪᴀʙʟᴇ ᴋɪᴛ ꜰᴏʀ ɢᴜᴀʀᴅɪᴀɴꜱ!'
+      - '&7ᴅᴇꜰɪᴇɴᴅᴇ ᴇʟ ʀᴇɪɴᴏ ᴄᴏɴ ʜᴏɴᴏʀ.'
+      - '&7¡ᴜɴ ᴋɪᴛ ꜰɪᴀʙʟᴇ ᴘᴀʀᴀ ɢᴜᴀʀᴅɪᴀɴᴇꜱ!'
 
 
   'guardian_kit_cooldown':
@@ -32,7 +32,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         cooldown:
@@ -56,7 +56,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     click_commands:
       - "[player] essentials:kit guardian"
       - "[close]"
@@ -73,7 +73,7 @@ items:
     enchantments:
       - sharpness;1
       - unbreaking;2
-    display_name: '&#2bc804&lGuardian Sword'
+    display_name: '&#2bc804&lEspada de Guardian'
 
   '2':
     material: DIAMOND_HELMET
@@ -83,7 +83,7 @@ items:
       - protection;1
       - unbreaking;2
       - mending;1
-    display_name: '&#2bc804&lGuardian Helmet'
+    display_name: '&#2bc804&lCasco de Guardian'
 
   '3':
     material: DIAMOND_CHESTPLATE
@@ -92,7 +92,7 @@ items:
     enchantments:
       - protection;2
       - unbreaking;2
-    display_name: '&#2bc804&lGuardian Chestplate'
+    display_name: '&#2bc804&lPeto de Guardian'
 
   '4':
     material: DIAMOND_LEGGINGS
@@ -101,7 +101,7 @@ items:
     enchantments:
       - protection;1
       - unbreaking;2
-    display_name: '&#2bc804&lGuardian Leggings'
+    display_name: '&#2bc804&lGrebas de Guardian'
 
   '5':
     material: DIAMOND_BOOTS
@@ -110,7 +110,7 @@ items:
     enchantments:
       - protection;1
       - unbreaking;2
-    display_name: '&#2bc804&lGuardian Boots'
+    display_name: '&#2bc804&lBotas de Guardian'
 
 
   '6':
@@ -120,7 +120,7 @@ items:
     enchantments:
       - efficiency;1
       - unbreaking;2
-    display_name: '&#2bc804&lGuardian Pickaxe'
+    display_name: '&#2bc804&lPico de Guardian'
 
   '7':
     material: BOW
@@ -130,7 +130,7 @@ items:
       - power;1
       - infinity;1
       - unbreaking;2
-    display_name: '&#2bc804&lGuardian Bow'
+    display_name: '&#2bc804&lArco de Guardian'
 
   '8':
     material: ENCHANTED_GOLDEN_APPLE
@@ -173,7 +173,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] ranked_kits"
 

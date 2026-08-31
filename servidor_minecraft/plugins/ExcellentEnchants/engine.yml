@@ -10,4 +10,4 @@ Plugin:
   # Basically it tells the plugin to use certain messages config from the '/lang/' sub-folder.
   # If specified language is not available, default one (English) will be used instead.
   # [Default is System Locale]
-  Language: en
+  Language: es

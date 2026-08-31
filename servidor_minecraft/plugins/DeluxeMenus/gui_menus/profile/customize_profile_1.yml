@@ -27,10 +27,10 @@ items:
     update: true
     display_name: '&b&lʀᴇᴅ ᴏᴀᴋꜱʜᴀᴅᴇ ᴇᴅɢᴇ'
     lore:
-      - '&7ᴡʜᴇʀᴇ ɴᴀᴛᴜʀᴇ ᴍᴇᴇᴛꜱ'
-      - '&7ʜᴏᴍᴇ ᴀɴᴅ ᴘᴇᴀᴄᴇ'
+      - '&7ᴅᴏɴᴅᴇ ʟᴀ ɴᴀᴛᴜʀᴀʟᴇᴢᴀ ꜱᴇ ᴇɴᴄᴜᴇɴᴛʀᴀ ᴄᴏɴ'
+      - '&7ʜᴏɢᴀʀ ʏ ᴘᴀᴢ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇǫᴜɪᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇǫᴜɪᴘᴀʀ'
     click_commands:
       - "[console] lp user %player_name% permission set customize.profile.first.selected true"
       - "[console] lp user %player_name% permission set customize.profile.second.selected false"
@@ -59,14 +59,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴅᴇᴇᴘ ᴜɴᴅᴇʀᴡᴀᴛᴇʀ'
+    display_name: '&b&lꜰᴏɴᴅᴏ ᴍᴀʀɪɴᴏ'
     lore:
-      - '&7ᴇxᴘʟᴏʀᴇ ᴛʜᴇ ᴅᴇᴇᴘ'
-      - '&7ᴜɴᴅᴇʀᴡᴀᴛᴇʀ ᴡᴏʀʟᴅ'
+      - '&7ᴇxᴘʟᴏʀᴀ ᴇʟ ᴘʀᴏꜰᴜɴᴅᴏ'
+      - '&7ᴍᴜɴᴅᴏ ꜱᴜʙᴍᴀʀɪɴᴏ'
       - ''
-      - '&8▪ &fᴘʀɪᴄᴇ: &6500&f'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &6500&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇǫᴜɪᴘ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴇǫᴜɪᴘᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -99,14 +99,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴅᴇᴇᴘ ᴜɴᴅᴇʀᴡᴀᴛᴇʀ'
+    display_name: '&b&lꜰᴏɴᴅᴏ ᴍᴀʀɪɴᴏ'
     lore:
-      - '&7ᴇxᴘʟᴏʀᴇ ᴛʜᴇ ᴅᴇᴇᴘ'
-      - '&7ᴜɴᴅᴇʀᴡᴀᴛᴇʀ ᴡᴏʀʟᴅ'
+      - '&7ᴇxᴘʟᴏʀᴀ ᴇʟ ᴘʀᴏꜰᴜɴᴅᴏ'
+      - '&7ᴍᴜɴᴅᴏ ꜱᴜʙᴍᴀʀɪɴᴏ'
       - ''
-      - '&8▪ &fᴘʀɪᴄᴇ: &6500&f'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &6500&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -135,7 +135,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[player] profile"
 
@@ -150,10 +150,10 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#7e84a8&l← ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ'
+    display_name: '&#7e84a8&l← ᴘᴀɢɪɴᴀ ᴀɴᴛᴇʀɪᴏʀ'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ɢᴏ ᴛᴏ'
-      - '&7ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ɪʀ ᴀ'
+      - '&7ᴘᴀɢɪɴᴀ ᴀɴᴛᴇʀɪᴏʀ'
     click_commands:
       - "[refresh]"
 
@@ -168,9 +168,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#7e84a8&lɴᴇxᴛ ᴘᴀɢᴇ →'
+    display_name: '&#7e84a8&lᴘᴀɢɪɴᴀ ꜱɪɢᴜɪᴇɴᴛᴇ →'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ɢᴏ ᴛᴏ'
-      - '&7ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ɪʀ ᴀ'
+      - '&7ʟᴀ ᴘᴀɢɪɴᴀ ꜱɪɢᴜɪᴇɴᴛᴇ'
     click_commands:
       - "[openguimenu] customize_profile_2"

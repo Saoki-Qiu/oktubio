@@ -26,17 +26,17 @@ items:
     display_name: '&#d19f76&lGetting Started'
     lore:
       - '&7'
-      - '&#debda1How to Start?'
-      - '&8 | &7First Rtp to the Overworld'
-      - '&8 | &7using /rtp command or talking'
+      - '&#debda1¿Cómo empezar?'
+      - '&8 | &7Primero haz Rtp al Overworld'
+      - '&8 | &7usando el comando /rtp o hablando'
       - '&8 | &7to the Teleporter npc in the'
       - '&8 | &7spawn!'
       - '&7'
-      - '&#debda1How to Get Rich?'
-      - '&8 | &7Sell items in itemshop or to'
-      - '&8 | &7the farmer, collect daily'
-      - '&8 | &7rewards, catch and sell'
-      - '&8 | &7fish to the fisherman!'
+      - '&#debda1¿Cómo hacerse rico?'
+      - '&8 | &7Vende objetos en la itemshop o al'
+      - '&8 | &7granjero, recoge recompensas'
+      - '&8 | &7diarias, pesca y vende'
+      - '&8 | &7¡peces al pescador!'
     click_commands:
       - "[refresh]"
 
@@ -49,25 +49,25 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&a&lMoney'
+    display_name: '&a&lDinero'
     lore:
-      - '&7There are alot of things to spend'
-      - '&7money on, but what are the methods'
-      - '&7to earn it easily?'
+      - '&7Hay muchas cosas en las que gastar'
+      - '&7dinero, pero cuáles son los métodos'
+      - '&7¿para ganarlo fácilmente?'
       - '&7'
-      - '&aCheck Balance:'
-      - '&8 | &7Using /bal command'
+      - '&aVer Saldo:'
+      - '&8 | &7Usando el comando /bal'
       - '&7'
-      - '&aMethods to earn money:'
-      - ' &8▪ &fDoing Jobs'
-      - ' &8▪ &fDaily Quests'
-      - ' &8▪ &fBattlepass'
-      - ' &8▪ &fAuction House'
-      - ' &8▪ &fSell to ItemShop'
-      - ' &8▪ &fSell to Farmer'
-      - ' &8▪ &fSell to Fisherman'
-      - ' &8▪ &fKill Wanted Players'
-      - ' &8▪ &fand more!'
+      - '&aMétodos para ganar dinero:'
+      - ' &8▪ &fHaciendo Trabajos'
+      - ' &8▪ &fDiario Misiones'
+      - ' &8▪ &fPase de batalla'
+      - ' &8▪ &fCasa de Subastas'
+      - ' &8▪ &fVender a la ItemShop'
+      - ' &8▪ &fVender al Granjero'
+      - ' &8▪ &fVender al Pescador'
+      - ' &8▪ &fMatar Jugadores Buscados'
+      - ' &8▪ &fy mas!'
     click_commands:
       - "[refresh]"
 
@@ -83,17 +83,17 @@ items:
     display_name: '&6&lCoins'
     lore:
       - '&7Coins is the premium currency of the'
-      - '&7server, it is used buy various premium'
-      - '&7items that cannot be bought with money!'
+      - '&7del servidor, sirve para comprar objetos'
+      - '&7premium que no se compran con dinero!'
       - '&7'
-      - '&6Check Balance:'
-      - '&8 | &7Using /coins command'
+      - '&6Ver Saldo:'
+      - '&8 | &7Usando /coins comando'
       - '&7'
       - '&6Ways to gain coins:'
-      - ' &8▪ &fDaily Rewards'
-      - ' &8▪ &fCrates'
-      - ' &8▪ &fBattlepass'
-      - ' &8▪ &fServer Webstore &7(/store)'
+      - ' &8▪ &fDiario Recompensas'
+      - ' &8▪ &fCajas'
+      - ' &8▪ &fPase de batalla'
+      - ' &8▪ &fServidor Webstore &7(/store)'
     click_commands:
       - "[refresh]"
 
@@ -108,14 +108,14 @@ items:
     update: true
     display_name: '&#20bf6b&lWorlds'
     lore:
-      - '&7Did you know there are other worlds'
-      - '&7then Overworld that you can go to!'
-      - '&7Using /rtp or using Teleporter npc or'
-      - "&7by entering teleporter npc's balloon!"
+      - '&7¿Sabías que hay otros mundos'
+      - '&7además del Overworld a los que ir!'
+      - '&7Usando /rtp o el npc Teleporter o'
+      - "&7¡entrando en el globo del npc teleporter!"
       - '&7'
-      - '&#20bf6bTeleport Using:'
+      - '&#20bf6bTeletransporte Usando:'
       - '&8 | &7Teleporter Npc in Spawn'
-      - '&8 | &7or the /rtp command'
+      - '&8 | &7o el comando /rtp'
       - '&7'
       - '&#20bf6bTotal Worlds:'
       - ' &8▪ &fOverworld &7(50k x 50k)'
@@ -135,21 +135,21 @@ items:
     update: true
     display_name: '&#fed330&lClaiming'
     lore:
-      - '&7Did you claim an area of land for'
+      - '&7¿Reclamaste un terreno para'
       - '&7yourself in the Overworld! That will'
-      - '&7be protected from other players unless'
-      - "&7trusted by you using /trust."
+      - '&7estar protegido de otros jugadores salvo'
+      - "&7que confíes en ellos con /trust."
       - '&7'
-      - '&#fed330How to claim:'
-      - '&8 | &7Right click two corners of land'
-      - '&8 | &7while holding a golden shovel!'
+      - '&#fed330Cómo reclamar:'
+      - '&8 | &7Clic derecho en dos esquinas del terreno'
+      - '&8 | &7¡sosteniendo una pala de oro!'
       - '&7'
-      - '&#fed330Claim Commands:'
-      - ' &8▪ &f/trust &7(Trust other players on your claim)'
-      - ' &8▪ &f/untrust &7(Untrust other players on your claim)'
-      - ' &8▪ &f/accesstrust &7(Trust other players to use chests)'
-      - ' &8▪ &f/abandonclaim &7(Delete your claim)'
-      - ' &8▪ &f/trapped &7(Get out of an claim if you get stuck)'
+      - '&#fed330Reclamar Comandos:'
+      - ' &8▪ &f/trust &7(Trust otro jugadores en tu reclamar)'
+      - ' &8▪ &f/untrust &7(Untrust otro jugadores en tu reclamar)'
+      - ' &8▪ &f/accesstrust &7(Trust otro jugadores to use chests)'
+      - ' &8▪ &f/abandonclaim &7(Eliminar tu reclamar)'
+      - ' &8▪ &f/trapped &7(Obtener out of an reclamar if tu obtener stuck)'
     click_commands:
       - "[refresh]"
 
@@ -162,20 +162,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#ffb108&lBattlepass'
+    display_name: '&#ffb108&lPase de batalla'
     lore:
-      - '&7In battlepass there are 25 rewards'
-      - '&7which can be unlock by completing'
-      - '&7battlepass quests. Rewards are of'
-      - '&72 tiers, Free and Premium (which is'
-      - '&7unlocked with Premium Pass)'
+      - '&7En el pase de batalla hay 25 recompensas'
+      - '&7que se desbloquean completando'
+      - '&7misiones del pase. Son de'
+      - '&72 niveles, Gratis y Premium (que se'
+      - '&7desbloquea con el Pase Premium)'
       - '&7'
-      - '&#ffb108Opened Using:'
-      - '&8 | &7Battlepass Npc in Spawn'
-      - '&8 | &7or /battlepass command'
+      - '&#ffb108Se abre con:'
+      - '&8 | &7Npc de Battlepass en el Spawn'
+      - '&8 | &7o /pase de batalla comando'
       - '&7'
-      - '&#ffb108Pass Types:'
-      - ' &8▪ &fFree'
+      - '&#ffb108Tipos de Pase:'
+      - ' &8▪ &fGratis'
       - ' &8▪ &fPremium &7(/store)'
     click_commands:
       - "[refresh]"
@@ -191,20 +191,20 @@ items:
     update: true
     display_name: '&#f19645&lToolSkins'
     lore:
-      - '&7Did you know you can change the way'
-      - '&7your tool looks by apply skin on it!'
-      - '&7Using Toolskins npc you can apply'
-      - "&7a skin on your netherite tool!"
+      - '&7¿Sabías que puedes cambiar el aspecto'
+      - '&7de tu herramienta con una skin!'
+      - '&7Con el npc de Toolskins puedes aplicar'
+      - "&7a skin en tu netherita herramienta!"
       - '&7'
-      - '&#f19645Equipped Using:'
+      - '&#f19645Equipado Usando:'
       - '&8 | &7Toolskins Npc in Spawn'
       - '&7'
-      - '&#f19645Toolskins Types:'
-      - ' &8▪ &fSword'
-      - ' &8▪ &fPickaxe'
-      - ' &8▪ &fAxe'
-      - ' &8▪ &fShovel'
-      - ' &8▪ &fHoe'
+      - '&#f19645Tipos de Toolskins:'
+      - ' &8▪ &fEspada'
+      - ' &8▪ &fPico'
+      - ' &8▪ &fHacha'
+      - ' &8▪ &fPala'
+      - ' &8▪ &fAzada'
     click_commands:
       - "[refresh]"
 
@@ -219,22 +219,22 @@ items:
     update: true
     display_name: '&#6dcdff&lCosmetics'
     lore:
-      - '&7Cosmetics allows you to stand out from'
-      - '&7the crowd and be unqiue! You can access'
-      - '&7cosmetics by visiting Cosmetics npc in'
-      - "&7the cosmetics store near Quest Board!"
+      - '&7Los cosméticos te permiten destacar entre'
+      - '&7la multitud. Puedes acceder a los'
+      - '&7cosméticos visitando el npc de Cosmetics en'
+      - "&7¡la tienda junto al Tablón de Misiones!"
       - '&7'
-      - '&#6dcdffAccessed From:'
+      - '&#6dcdffAcceder De:'
       - '&8 | &7Cosmetics Npc in Spawn'
       - '&7'
-      - '&#6dcdffCosmetics Types:'
-      - ' &8▪ &fHats'
-      - ' &8▪ &fBalloons'
+      - '&#6dcdffTipos de Cosméticos:'
+      - ' &8▪ &fSombreros'
+      - ' &8▪ &fGlobos'
       - ' &8▪ &fProjectiles'
       - ' &8▪ &fEmotes'
-      - ' &8▪ &fParticles'
-      - ' &8▪ &fGlows'
-      - ' &8▪ &fChatcolors'
+      - ' &8▪ &fParticulas'
+      - ' &8▪ &fBrillos'
+      - ' &8▪ &fColores de chat'
     click_commands:
       - "[refresh]"
 
@@ -249,20 +249,20 @@ items:
     update: true
     display_name: '&#df4242&lKits'
     lore:
-      - '&7There are 2 types of kits to be'
-      - '&7choosen from Normal and Ranked!'
+      - '&7Hay 2 tipos de kits para'
+      - '&7elegir: ¡Normales y de Rango!'
       - '&7Ranked kits can be only be'
-      - '&7claimed by ranked players'
+      - '&7reclamados por jugadores con rango'
       - '&7'
-      - '&#df4242Accessed from:'
-      - '&8 | &7Using /kits command'
+      - '&#df4242Acceder de:'
+      - '&8 | &7Usando /kits comando'
       - '&7'
       - '&#df4242Normal Kits:'
       - ' &8▪ &fPvP'
-      - ' &8▪ &fBuilder'
-      - ' &8▪ &fFarmer'
-      - ' &8▪ &fMiner'
-      - ' &8▪ &fExplorer'
+      - ' &8▪ &fConstructor'
+      - ' &8▪ &fGranjero'
+      - ' &8▪ &fMinero'
+      - ' &8▪ &fExplorador'
       - '&7'
       - '&#df4242Ranked Kits:'
       - ' &8▪ &fGuardian'
@@ -282,19 +282,19 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#ac6440&lBackpacks'
+    display_name: '&#ac6440&lMochilas'
     lore:
-      - '&7Is your inventory always full? Then'
-      - '&7Backpacks are for you! It allows you'
-      - '&7to have extra space in your inventory'
-      - '&7to store your precious materials!'
+      - '&7¿Tu inventario siempre lleno? ¡Entonces'
+      - '&7las mochilas son para ti! Te permiten'
+      - '&7tener espacio extra en el inventario'
+      - '&7¡para guardar tus materiales!'
       - '&7'
-      - '&#ac6440Bought from:'
-      - '&8 | &7Backpacks Npc in Spawn'
+      - '&#ac6440Comprado de:'
+      - '&8 | &7Npc de Mochilas en el Spawn'
       - '&7'
-      - '&#ac6440Backpack Types:'
-      - ' &8▪ &fSmall'
-      - ' &8▪ &fMedium'
+      - '&#ac6440Mochila Tipos:'
+      - ' &8▪ &fPequeño'
+      - ' &8▪ &fMedio'
       - ' &8▪ &fLarge'
     click_commands:
       - "[refresh]"
@@ -308,16 +308,16 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a8b5ca&lBounties'
+    display_name: '&#a8b5ca&lRecompensas'
     lore:
-      - '&7Do you want to get revenge on a player?'
-      - '&7Bounties is the solution for you! Set'
-      - '&7a bounty on your enemy and watch them'
+      - '&7¿Quieres vengarte de un jugador?'
+      - '&7¡Las recompensas son tu solución! Pon'
+      - '&7precio a tu enemigo y míralos'
       - '&7getting chased in the pvp arena!'
       - '&7'
-      - '&#a8b5caAccessed from:'
-      - '&8 | &7Bounties Npc in Arena'
-      - '&8 | &7or /bounty command'
+      - '&#a8b5caAcceder de:'
+      - '&8 | &7Npc de Recompensas en la Arena'
+      - '&8 | &7o /recompensa comando'
     click_commands:
       - "[refresh]"
 
@@ -332,19 +332,19 @@ items:
     update: true
     display_name: '&#9e5eb8&lWarps'
     lore:
-      - '&7Using warps you can quickly teleport'
+      - '&7Con los warps puedes teletransportarte'
       - '&7to important locations in the spawn'
-      - '&7in just few seconds!'
+      - '&7¡en solo unos segundos!'
       - '&7'
-      - '&#9e5eb8Accessed from:'
-      - '&8 | &7Using /warps command'
+      - '&#9e5eb8Acceder de:'
+      - '&8 | &7Usando el comando /warps'
       - '&7'
-      - '&#9e5eb8Warps List:'
+      - '&#9e5eb8Lista de Warps:'
       - ' &8▪ &fArena'
       - ' &8▪ &fCasino'
-      - ' &8▪ &fDungeon'
-      - ' &8▪ &fAuction'
-      - ' &8▪ &fCrates'
+      - ' &8▪ &fMazmorra'
+      - ' &8▪ &fSubasta'
+      - ' &8▪ &fCajas'
       - ' &8▪ &fAfk Spot'
     click_commands:
       - "[refresh]"
@@ -360,17 +360,17 @@ items:
     update: true
     display_name: '&#25bce6&lPlayerWarps'
     lore:
-      - '&7Using playerwarps you can make your'
-      - '&7own warps which can be accessed by'
-      - '&7other players too!'
+      - '&7Con playerwarps puedes crear tus'
+      - '&7propios warps, accesibles por'
+      - '&7otro jugadores tambien!'
       - '&7'
-      - '&#25bce6Accessed from:'
+      - '&#25bce6Acceder de:'
       - '&8 | &7Playerwarps Npc in Spawn'
-      - '&8 | &7or /warps command'
+      - '&8 | &7o el comando /warps'
       - '&7'
-      - '&#25bce6Pwarps Commands:'
+      - '&#25bce6Comandos de Pwarps:'
       - ' &8▪ &f/pw create &7(Creates a pwarp)'
-      - ' &8▪ &f/pw remove &7(Delete a pwarp)'
+      - ' &8▪ &f/pw quitar &7(Eliminar a pwarp)'
     click_commands:
       - "[refresh]"
 
@@ -383,19 +383,19 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#ed664c&lAuction House'
+    display_name: '&#ed664c&lCasa de Subastas'
     lore:
-      - '&7Using auction house you can sell'
-      - '&7off your items to be purchased or'
-      - '&7bid on by other players!'
+      - '&7Con la casa de subastas puedes vender'
+      - '&7tus objetos para que otros los compren o'
+      - '&7¡pujen por ellos!'
       - '&7'
-      - '&#ed664cAccessed from:'
-      - '&8 | &7Auction Npc in Spawn'
-      - '&8 | &7or /ah command'
+      - '&#ed664cAcceder de:'
+      - '&8 | &7Npc de Subastas en el Spawn'
+      - '&8 | &7o /ah comando'
       - '&7'
-      - '&#ed664cPwarps Commands:'
-      - ' &8▪ &f/ah sell &7(List item for sale)'
-      - ' &8▪ &f/ah bid &7(List item for bid)'
+      - '&#ed664cComandos de Pwarps:'
+      - ' &8▪ &f/ah vender &7(Lista objeto para sale)'
+      - ' &8▪ &f/ah bid &7(Lista objeto para bid)'
     click_commands:
       - "[refresh]"
 
@@ -408,18 +408,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&lPets'
+    display_name: '&e&lMascotas'
     lore:
-      - '&7Ever felt alone? Pets is the loviest'
-      - '&7and perfect campanion to have around'
-      - '&7you (especially creeper pet)!'
+      - '&7¿Te sientes solo? Las mascotas son la'
+      - '&7compañía perfecta para tenerte cerca'
+      - '&7¡(especialmente la mascota creeper)!'
       - '&7'
-      - '&eAccessed from:'
+      - '&eAcceder de:'
       - '&8 | &7Zookeeper Npc in Petshop'
       - '&7'
-      - '&eTypes of Pets:'
-      - ' &8▪ &fChild Pet'
-      - ' &8▪ &fAdult Pet'
+      - '&eTipos de Mascotas:'
+      - ' &8▪ &fMascota Cría'
+      - ' &8▪ &fAdulto Mascota'
     click_commands:
       - "[refresh]"
 
@@ -432,15 +432,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#45aaf2&lCustom Fishes'
+    display_name: '&#45aaf2&lPeces Personalizados'
     lore:
-      - "&7This server doesn't just have boring"
-      - '&7vanilla fishes, but custom fishes with'
-      - '&7rarities! There are over 70 custom'
-      - '&7fishes that you can sell too!'
+      - "&7Este servidor no solo tiene aburridos"
+      - '&7peces vanilla, sino personalizados con'
+      - '&7¡rarezas! Hay más de 70 peces'
+      - '&7¡que también puedes vender!'
       - '&7'
-      - '&#45aaf2Sold to:'
-      - '&8 | &7Fisherman Npc in Spawn'
+      - '&#45aaf2Se vende a:'
+      - '&8 | &7Npc Pescador en el Spawn'
       - '&7'
       - '&#45aaf2Rarities:'
       - ' &f'
@@ -459,6 +459,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Next Page'
+    display_name: '&#d4a177Pagina siguiente'
     click_commands:
       - "[openguimenu] guide_2"

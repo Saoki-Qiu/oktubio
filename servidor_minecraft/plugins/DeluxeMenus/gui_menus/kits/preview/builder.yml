@@ -14,8 +14,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ʙᴜɪʟᴅ ʏᴏᴜʀ ᴅʀᴇᴀᴍꜱ!'
-      - '&7ᴀʟʟ ʏᴏᴜ ɴᴇᴇᴅ ꜰᴏʀ ʏᴏᴜʀ ɴᴇxᴛ ᴘʀᴏᴊᴇᴄᴛ.'
+      - '&7¡ᴄᴏɴꜱᴛʀᴜʏᴇ ᴛᴜꜱ ꜱᴜᴇñᴏꜱ!'
+      - '&7ᴛᴏᴅᴏ ʟᴏ ɴᴇᴄᴇꜱᴀʀɪᴏ ᴘᴀʀᴀ ᴛᴜ ᴘʀóxɪᴍᴏ ᴘʀᴏʏᴇᴄᴛᴏ.'
 
 
   'builder_kit_cooldown':
@@ -31,7 +31,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         cooldown:
@@ -55,7 +55,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     click_commands:
       - "[player] essentials:kit builder"
       - "[close]"
@@ -89,7 +89,7 @@ items:
     material: IRON_PICKAXE
     amount: 1
     slot: 16
-    display_name: '&#5b617eBuilder Pickaxe'
+    display_name: '&#5b617eConstructor Pico'
 
   '6':
     material: BREAD
@@ -106,7 +106,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] normal_kits"
 

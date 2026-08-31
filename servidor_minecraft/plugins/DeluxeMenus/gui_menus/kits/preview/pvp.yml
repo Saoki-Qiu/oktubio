@@ -13,8 +13,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴘᴇʀꜰᴇᴄᴛ ᴋɪᴛ ꜰᴏʀ ᴛʜᴇ ʙᴀᴛᴛʟᴇꜱ!'
-      - '&7ɢᴇᴀʀ ᴜᴘ ᴀɴᴅ ꜰɪɢʜᴛ ʟɪᴋᴇ ᴀ ᴘʀᴏ.'
+      - '&7¡ᴇʟ ᴋɪᴛ ᴘᴇʀꜰᴇᴄᴛᴏ ᴘᴀʀᴀ ʟᴀꜱ ʙᴀᴛᴀʟʟᴀꜱ!'
+      - '&7ᴇǫᴜíᴘᴀᴛᴇ ʏ ʟᴜᴄʜᴀ ᴄᴏᴍᴏ ᴜɴ ᴘʀᴏꜰᴇꜱɪᴏɴᴀʟ.'
 
 
   'pvp_kit_cooldown':
@@ -30,7 +30,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         cooldown:
@@ -54,7 +54,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     click_commands:
       - "[player] essentials:kit pvp"
       - "[close]"
@@ -69,13 +69,13 @@ items:
     slot: 12
     enchantments:
       - sharpness;1
-    display_name: '&#5b617ePvp Sword'
+    display_name: '&#5b617eEspada Pvp'
 
   '2':
     material: IRON_HELMET
     amount: 1
     slot: 13
-    display_name: '&#5b617ePvp Helmet'
+    display_name: '&#5b617eCasco Pvp'
 
   '3':
     material: IRON_CHESTPLATE
@@ -83,25 +83,25 @@ items:
     slot: 14
     enchantments:
       - protection;2
-    display_name: '&#5b617ePvp Chestplate'
+    display_name: '&#5b617ePeto Pvp'
 
   '4':
     material: IRON_LEGGINGS
     amount: 1
     slot: 15
-    display_name: '&#5b617ePvp Leggings'
+    display_name: '&#5b617eGrebas Pvp'
 
   '5':
     material: IRON_BOOTS
     amount: 1
     slot: 16
-    display_name: '&#5b617ePvp Boots'
+    display_name: '&#5b617eBotas Pvp'
 
   '6':
     material: BOW
     amount: 1
     slot: 21
-    display_name: '&#5b617ePvp Bow'
+    display_name: '&#5b617eArco Pvp'
 
   '7':
     material: ARROW
@@ -123,7 +123,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] normal_kits"
 

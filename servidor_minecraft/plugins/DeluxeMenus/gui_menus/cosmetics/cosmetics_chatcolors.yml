@@ -14,8 +14,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ'
-      - '&7ᴠɪᴇᴡ ʜᴀᴛꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ'
+      - '&7ᴠᴇʀ ꜱᴏᴍʙʀᴇʀᴏꜱ'
     click_commands:
       - "[openguimenu] cosmetics_hats_1"
 
@@ -30,8 +30,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴘʀᴏᴊᴇᴄᴛɪʟᴇ ᴇꜰꜰᴇᴄᴛꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴘʀᴏʏᴇᴄᴛɪʟ ᴇꜰᴇᴄᴛᴏꜱ'
     click_commands:
       - "[openguimenu] cosmetics_projectile_1"
 
@@ -46,8 +46,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ'
-      - '&7ᴠɪᴇᴡ ʙᴀʟʟᴏᴏɴꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ'
+      - '&7ᴠᴇʀ ɢʟᴏʙᴏꜱ'
     click_commands:
       - "[openguimenu] cosmetics_balloons"
 
@@ -62,8 +62,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ'
-      - '&7ᴠɪᴇᴡ ᴇᴍᴏᴛᴇꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ'
+      - '&7ᴠᴇʀ ᴇᴍᴏᴛᴇꜱ'
     click_commands:
       - "[openguimenu] cosmetics_emotes"
 
@@ -78,8 +78,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴘᴀʀᴛɪᴄʟᴇ ᴇꜰꜰᴇᴄᴛꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴇꜰᴇᴄᴛᴏꜱ ᴅᴇ ᴘᴀʀᴛɪᴄᴜʟᴀꜱ'
     click_commands:
       - "[openguimenu] cosmetics_particle_1"
 
@@ -94,8 +94,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ'
-      - '&7ᴠɪᴇᴡ ɢʟᴏᴡꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ'
+      - '&7ᴠᴇʀ ʙʀɪʟʟᴏꜱ'
     click_commands:
       - "[openguimenu] cosmetics_glows"
 
@@ -110,8 +110,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ'
-      - '&7ᴠɪᴇᴡ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ'
+      - '&7ᴠᴇʀ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
     click_commands:
       - "[refresh]"
 
@@ -136,14 +136,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&c&lʀᴇᴅ'
+    display_name: '&c&lʀᴏᴊᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a18,900'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a18,900'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -164,14 +164,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&c&lʀᴇᴅ'
+    display_name: '&c&lʀᴏᴊᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a18,900'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a18,900'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -198,14 +198,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&4&lᴅᴀʀᴋ ʀᴇᴅ'
+    display_name: '&4&lᴏꜱᴄᴜʀᴏ ʀᴏᴊᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a22,500'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a22,500'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -226,14 +226,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&4&lᴅᴀʀᴋ ʀᴇᴅ'
+    display_name: '&4&lᴏꜱᴄᴜʀᴏ ʀᴏᴊᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a22,500'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a22,500'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -260,14 +260,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&lʏᴇʟʟᴏᴡ'
+    display_name: '&e&lᴀᴍᴀʀɪʟʟᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a27,000'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a27,000'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -288,14 +288,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&lʏᴇʟʟᴏᴡ'
+    display_name: '&e&lᴀᴍᴀʀɪʟʟᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a27,000'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a27,000'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -322,14 +322,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&6&lɢᴏʟᴅ'
+    display_name: '&6&lᴏʀᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a31,500'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a31,500'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -350,14 +350,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&6&lɢᴏʟᴅ'
+    display_name: '&6&lᴏʀᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a31,500'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a31,500'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -384,14 +384,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&a&lɢʀᴇᴇɴ'
+    display_name: '&a&lᴠᴇʀᴅᴇ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a34,200'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a34,200'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -412,14 +412,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&a&lɢʀᴇᴇɴ'
+    display_name: '&a&lᴠᴇʀᴅᴇ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a34,200'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a34,200'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -446,14 +446,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&2&lᴅᴀʀᴋ ɢʀᴇᴇɴ'
+    display_name: '&2&lᴏꜱᴄᴜʀᴏ ᴠᴇʀᴅᴇ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a36,000'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a36,000'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -474,14 +474,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&2&lᴅᴀʀᴋ ɢʀᴇᴇɴ'
+    display_name: '&2&lᴏꜱᴄᴜʀᴏ ᴠᴇʀᴅᴇ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a36,000'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a36,000'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -508,14 +508,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴀǫᴜᴀ'
+    display_name: '&b&lᴀɢᴜᴀᴍᴀʀɪɴᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a39,600'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a39,600'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -536,14 +536,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴀǫᴜᴀ'
+    display_name: '&b&lᴀɢᴜᴀᴍᴀʀɪɴᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a39,600'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a39,600'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -570,14 +570,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&3&lᴅᴀʀᴋ ᴀǫᴜᴀ'
+    display_name: '&3&lᴀɢᴜᴀᴍᴀʀɪɴᴀ ᴏꜱᴄᴜʀᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a44,100'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a44,100'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -598,14 +598,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&3&lᴅᴀʀᴋ ᴀǫᴜᴀ'
+    display_name: '&3&lᴀɢᴜᴀᴍᴀʀɪɴᴀ ᴏꜱᴄᴜʀᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a44,100'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a44,100'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -632,14 +632,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&9&lʙʟᴜᴇ'
+    display_name: '&9&lᴀᴢᴜʟ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a45,900'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a45,900'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -660,14 +660,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&9&lʙʟᴜᴇ'
+    display_name: '&9&lᴀᴢᴜʟ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a45,900'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a45,900'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -694,14 +694,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&1&lᴅᴀʀᴋ ʙʟᴜᴇ'
+    display_name: '&1&lᴏꜱᴄᴜʀᴏ ᴀᴢᴜʟ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a48,600'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a48,600'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -722,14 +722,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&1&lᴅᴀʀᴋ ʙʟᴜᴇ'
+    display_name: '&1&lᴏꜱᴄᴜʀᴏ ᴀᴢᴜʟ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a48,600'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a48,600'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -756,14 +756,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&d&lᴘɪɴᴋ'
+    display_name: '&d&lʀᴏꜱᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a53,100'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a53,100'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -784,14 +784,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&d&lᴘɪɴᴋ'
+    display_name: '&d&lʀᴏꜱᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a53,100'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a53,100'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -818,14 +818,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&5&lᴘᴜʀᴘʟᴇ'
+    display_name: '&5&lᴍᴏʀᴀᴅᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a54,900'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a54,900'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -846,14 +846,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&5&lᴘᴜʀᴘʟᴇ'
+    display_name: '&5&lᴍᴏʀᴀᴅᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a54,900'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a54,900'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -880,14 +880,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&f&lᴡʜɪᴛᴇ'
+    display_name: '&f&lʙʟᴀɴᴄᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a14,400'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a14,400'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -908,14 +908,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&f&lᴡʜɪᴛᴇ'
+    display_name: '&f&lʙʟᴀɴᴄᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a14,400'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a14,400'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -942,14 +942,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&8&lᴅᴀʀᴋ ɢʀᴀʏ'
+    display_name: '&8&lɢʀɪꜱ ᴏꜱᴄᴜʀᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a10,800'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a10,800'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -970,14 +970,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&8&lᴅᴀʀᴋ ɢʀᴀʏ'
+    display_name: '&8&lɢʀɪꜱ ᴏꜱᴄᴜʀᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a10,800'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a10,800'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -1004,14 +1004,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#242323&lʙʟᴀᴄᴋ'
+    display_name: '&#242323&lɴᴇɢʀᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a71,100'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a71,100'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1032,14 +1032,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#161515&lʙʟᴀᴄᴋ'
+    display_name: '&#161515&lɴᴇɢʀᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &2$&a71,100'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &2$&a71,100'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -1068,12 +1068,12 @@ items:
     update: true
     display_name: '&e&lʀ&d&lᴀ&c&lɪ&b&lɴ&a&lʙ&9&lᴏ&6&lᴡ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &6250&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &6250&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1096,12 +1096,12 @@ items:
     update: true
     display_name: '&e&lʀ&d&lᴀ&c&lɪ&b&lɴ&a&lʙ&9&lᴏ&6&lᴡ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &6250&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &6250&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -1129,14 +1129,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&lʙᴏʟᴅ'
+    display_name: '&e&lɴᴇɢʀɪᴛᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1159,14 +1159,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&lʙᴏʟᴅ'
+    display_name: '&e&lɴᴇɢʀɪᴛᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission1:
@@ -1192,14 +1192,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&lʙᴏʟᴅ'
+    display_name: '&e&lɴᴇɢʀɪᴛᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -1227,14 +1227,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&mꜱᴛʀɪᴋᴇᴛʜʀᴏᴜɢʜ'
+    display_name: '&e&mᴛᴀᴄʜᴀᴅᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1257,14 +1257,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&mꜱᴛʀɪᴋᴇᴛʜʀᴏᴜɢʜ'
+    display_name: '&e&mᴛᴀᴄʜᴀᴅᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission1:
@@ -1290,14 +1290,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&mꜱᴛʀɪᴋᴇᴛʜʀᴏᴜɢʜ'
+    display_name: '&e&mᴛᴀᴄʜᴀᴅᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -1325,14 +1325,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&nᴜɴᴅᴇʀʟɪɴᴇᴅ'
+    display_name: '&e&nꜱᴜʙʀᴀʏᴀᴅᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1355,14 +1355,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&nᴜɴᴅᴇʀʟɪɴᴇᴅ'
+    display_name: '&e&nꜱᴜʙʀᴀʏᴀᴅᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission1:
@@ -1388,14 +1388,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&nᴜɴᴅᴇʀʟɪɴᴇᴅ'
+    display_name: '&e&nꜱᴜʙʀᴀʏᴀᴅᴏ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -1423,14 +1423,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&oɪᴛᴀʟɪᴄ'
+    display_name: '&e&oᴄᴜʀꜱɪᴠᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -1453,14 +1453,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&oɪᴛᴀʟɪᴄ'
+    display_name: '&e&oᴄᴜʀꜱɪᴠᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴛᴏɢɢʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʟᴛᴇʀɴᴀʀ'
     view_requirement:
       requirements:
         permission1:
@@ -1486,14 +1486,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&oɪᴛᴀʟɪᴄ'
+    display_name: '&e&oᴄᴜʀꜱɪᴠᴀ'
     lore:
-      - '&7ꜱʜᴏᴡ ᴏꜰꜰ ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀꜱ'
+      - '&7ᴘʀᴇꜱᴜᴍᴇ ᴅᴇ ᴛᴜꜱ ᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
       - ''
-      - '&8▪ &fᴛʏᴘᴇ: &eᴄʜᴀᴛ ᴄᴏʟᴏʀꜱ'
-      - '&8▪ &fᴘʀɪᴄᴇ: &650&f'
+      - '&8▪ &fᴛɪᴘᴏ: &eᴄᴏʟᴏʀᴇꜱ ᴅᴇ ᴄʜᴀᴛ'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &650&f'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -1528,10 +1528,10 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&lʀᴇᴍᴏᴠᴇ ᴄʜᴀᴛ ᴄᴏʟᴏʀ'
+    display_name: '&e&lǫᴜɪᴛᴀʀ ᴄᴏʟᴏʀ ᴅᴇ ᴄʜᴀᴛ'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ʀᴇᴍᴏᴠᴇ'
-      - '&7ʏᴏᴜʀ ᴄʜᴀᴛ ᴄᴏʟᴏʀ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ǫᴜɪᴛᴀʀ'
+      - '&7ᴛᴜ ᴄᴏʟᴏʀ ᴅᴇ ᴄʜᴀᴛ'
     view_requirement:
       requirements:
         permission:
@@ -1552,10 +1552,10 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&e&lʀᴇᴍᴏᴠᴇ ᴄʜᴀᴛ ᴄᴏʟᴏʀ'
+    display_name: '&e&lǫᴜɪᴛᴀʀ ᴄᴏʟᴏʀ ᴅᴇ ᴄʜᴀᴛ'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ʀᴇᴍᴏᴠᴇ'
-      - '&7ʏᴏᴜʀ ᴄʜᴀᴛ ᴄᴏʟᴏʀ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ǫᴜɪᴛᴀʀ'
+      - '&7ᴛᴜ ᴄᴏʟᴏʀ ᴅᴇ ᴄʜᴀᴛ'
     click_commands:
       - "[console] chatcolor %player_name% gray"
       - "[message] &f &#648DC1ʏᴏᴜʀ ᴄʜᴀᴛᴄᴏʟᴏʀ ʜᴀꜱ ʙᴇᴇɴ ʀᴇᴍᴏᴠᴇᴅ."

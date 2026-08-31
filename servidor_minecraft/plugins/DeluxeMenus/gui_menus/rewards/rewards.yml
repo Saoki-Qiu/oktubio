@@ -19,11 +19,11 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
       - ' &8▪ &61x Coins'
-      - ' &8▪ &2$&a100 Money'
+      - ' &8▪ &2$&a100 Dinero'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%luckperms_inherited_expiry_time_rewards.cooldown.daily%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%luckperms_inherited_expiry_time_rewards.cooldown.daily%'
     priority: 1
     view_requirement:
       requirements:
@@ -43,11 +43,11 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
       - ' &8▪ &61x Coins'
-      - ' &8▪ &2$&a100 Money'
+      - ' &8▪ &2$&a100 Dinero'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     priority: 2
     left_click_commands:
       - "[console] lp user %player_name% permission settemp rewards.cooldown.daily true 1d"
@@ -69,12 +69,12 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &e1x Sunshine Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &e1x Llave Sunshine'
       - ' &8▪ &68x Coins'
-      - ' &8▪ &2$&a1500 Money'
+      - ' &8▪ &2$&a1500 Dinero'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%luckperms_inherited_expiry_time_rewards.cooldown.weekly%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%luckperms_inherited_expiry_time_rewards.cooldown.weekly%'
     priority: 1
     view_requirement:
       requirements:
@@ -94,12 +94,12 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &e1x Sunshine Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &e1x Llave Sunshine'
       - ' &8▪ &68x Coins'
-      - ' &8▪ &2$&a1500 Money'
+      - ' &8▪ &2$&a1500 Dinero'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     priority: 2
     left_click_commands:
       - "[console] lp user %player_name% permission settemp rewards.cooldown.weekly true 7d"
@@ -122,12 +122,12 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &61x Blaze Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &61x Blaze Llave'
       - ' &8▪ &630x Coins'
-      - ' &8▪ &2$&a5000 Money'
+      - ' &8▪ &2$&a5000 Dinero'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%luckperms_inherited_expiry_time_rewards.cooldown.monthly%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%luckperms_inherited_expiry_time_rewards.cooldown.monthly%'
     priority: 1
     view_requirement:
       requirements:
@@ -147,12 +147,12 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &61x Blaze Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &61x Blaze Llave'
       - ' &8▪ &630x Coins'
-      - ' &8▪ &2$&a5000 Money'
+      - ' &8▪ &2$&a5000 Dinero'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     priority: 2
     left_click_commands:
       - "[console] lp user %player_name% permission settemp rewards.cooldown.monthly true 30d"
@@ -169,9 +169,9 @@ items:
     material: PAPER
     model_data: 100009
     lore:
-      - '&7ᴄʟᴀɪᴍ ʏᴏᴜʀ ꜰʀᴇᴇ'
-      - '&7ᴅᴀɪʟʏ, ᴡᴇᴇᴋʟʏ & ᴍᴏɴᴛʜʟʏ'
-      - '&7ʀᴇᴡᴀʀᴅꜱ ɴᴏᴡ!'
+      - '&7ʀᴇᴄʟᴀᴍᴀʀ ᴛᴜ ɢʀᴀᴛɪꜱ'
+      - '&7ᴅɪᴀʀɪᴏ, ꜱᴇᴍᴀɴᴀʟ & ᴍᴇɴꜱᴜᴀʟ'
+      - '&7¡ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ᴀʜᴏʀᴀ!'
     slots:
       - 28
       - 29
@@ -195,11 +195,11 @@ items:
       - HIDE_ENCHANTS 
     display_name: '&f'
     lore:
-      - '&7ᴅᴏɴᴀᴛᴇᴅ ɪɴ ᴛʜᴇ ꜱᴛᴏʀᴇ, ᴄʟᴀɪᴍ'
-      - '&7ʏᴏᴜʀ ꜱᴘᴇᴄɪᴀʟ ᴅᴀɪʟʏ, ᴡᴇᴇᴋʟʏ'
-      - '&7& ᴍᴏɴᴛʜʟʏ ʀᴇᴡᴀʀᴅꜱ ʜᴇʀᴇ!'
+      - '&7ᴅᴏɴᴀᴅᴏ ᴇɴ ʟᴀ ᴛɪᴇɴᴅᴀ, ʀᴇᴄʟᴀᴍᴀ'
+      - '&7ᴛᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ᴅɪᴀʀɪᴀꜱ, ꜱᴇᴍᴀɴᴀʟᴇꜱ'
+      - '&7& ᴍᴇɴꜱᴜᴀʟ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ᴀǫᴜɪ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʙʀɪʀ'
     left_click_commands:
       - "[openguimenu] ranked-rewards"   
 

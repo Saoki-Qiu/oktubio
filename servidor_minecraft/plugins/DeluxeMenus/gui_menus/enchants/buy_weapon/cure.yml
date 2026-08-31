@@ -11,15 +11,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴜʀᴇ'
+    display_name: '&#a55eea&lᴄᴜʀᴀ'
     lore:
-      - '&7ᴄᴜʀᴇꜱ ᴢᴏᴍʙɪꜰɪᴇᴅ ᴘɪɢʟɪɴꜱ ᴀɴᴅ'
-      - '&7ᴢᴏᴍʙɪᴇ ᴠɪʟʟᴀɢᴇʀꜱ ᴏɴ ᴋɪʟʟ.'
+      - '&7ᴄᴜʀᴀ ᴀ ʟᴏꜱ ᴘɪɢʟɪɴꜱ ᴢᴏᴍʙɪꜰɪᴄᴀᴅᴏꜱ ʏ'
+      - '&7ᴀʟᴅᴇᴀɴᴏꜱ ᴢᴏᴍʙɪꜱ ᴀʟ ᴍᴀᴛᴀʀʟᴏꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea800 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea800 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -42,15 +42,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴜʀᴇ'
+    display_name: '&#a55eea&lᴄᴜʀᴀ'
     lore:
-      - '&7ᴄᴜʀᴇꜱ ᴢᴏᴍʙɪꜰɪᴇᴅ ᴘɪɢʟɪɴꜱ ᴀɴᴅ'
-      - '&7ᴢᴏᴍʙɪᴇ ᴠɪʟʟᴀɢᴇʀꜱ ᴏɴ ᴋɪʟʟ.'
+      - '&7ᴄᴜʀᴀ ᴀ ʟᴏꜱ ᴘɪɢʟɪɴꜱ ᴢᴏᴍʙɪꜰɪᴄᴀᴅᴏꜱ ʏ'
+      - '&7ᴀʟᴅᴇᴀɴᴏꜱ ᴢᴏᴍʙɪꜱ ᴀʟ ᴍᴀᴛᴀʀʟᴏꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea2'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1500 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea2'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1500 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -73,15 +73,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴜʀᴇ'
+    display_name: '&#a55eea&lᴄᴜʀᴀ'
     lore:
-      - '&7ᴄᴜʀᴇꜱ ᴢᴏᴍʙɪꜰɪᴇᴅ ᴘɪɢʟɪɴꜱ ᴀɴᴅ'
-      - '&7ᴢᴏᴍʙɪᴇ ᴠɪʟʟᴀɢᴇʀꜱ ᴏɴ ᴋɪʟʟ.'
+      - '&7ᴄᴜʀᴀ ᴀ ʟᴏꜱ ᴘɪɢʟɪɴꜱ ᴢᴏᴍʙɪꜰɪᴄᴀᴅᴏꜱ ʏ'
+      - '&7ᴀʟᴅᴇᴀɴᴏꜱ ᴢᴏᴍʙɪꜱ ᴀʟ ᴍᴀᴛᴀʀʟᴏꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea3'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2600 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea3'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2600 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -106,6 +106,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] enchants_weapon"

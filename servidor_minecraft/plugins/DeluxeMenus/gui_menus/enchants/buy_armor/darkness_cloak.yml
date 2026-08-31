@@ -11,15 +11,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴅᴀʀᴋɴᴇꜱꜱ ᴄʟᴏᴀᴋ ɪ'
+    display_name: '&#a55eea&lᴍᴀɴᴛᴏ ᴅᴇ ᴏꜱᴄᴜʀɪᴅᴀᴅ ɪ'
     lore:
-      - '&714% ᴄʜᴀɴᴄᴇ ᴛᴏ ᴀᴘᴘʟʏ ᴅᴀʀᴋɴᴇꜱꜱ ɪ ᴇꜰꜰᴇᴄᴛ'
-      - '&7ᴇꜰꜰᴇᴄᴛ for 4s ᴛᴏ ᴛʜᴇ ᴀᴛᴛᴀᴄᴋᴇʀ.'
+      - '&714% ᴅᴇ ᴀᴘʟɪᴄᴀʀ ᴇꜰᴇᴄᴛᴏ ᴏꜱᴄᴜʀɪᴅᴀᴅ ɪ'
+      - '&7ᴇꜰᴇᴄᴛᴏ ᴅᴜʀᴀɴᴛᴇ 4ꜱ ᴀʟ ᴀᴛᴀᴄᴀɴᴛᴇ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟ: &#a55eea1'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1400 Souls'
+      - '&8▪ &fɴɪᴠᴇʟ: &#a55eea1'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1400 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -42,15 +42,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴅᴀʀᴋɴᴇꜱꜱ ᴄʟᴏᴀᴋ ɪɪ'
+    display_name: '&#a55eea&lᴍᴀɴᴛᴏ ᴅᴇ ᴏꜱᴄᴜʀɪᴅᴀᴅ ɪɪ'
     lore:
-      - '&717% ᴄʜᴀɴᴄᴇ ᴛᴏ ᴀᴘᴘʟʏ ᴅᴀʀᴋɴᴇꜱꜱ ɪɪ ᴇꜰꜰᴇᴄᴛ'
-      - '&7ᴇꜰꜰᴇᴄᴛ for 5s ᴛᴏ ᴛʜᴇ ᴀᴛᴛᴀᴄᴋᴇʀ.'
+      - '&717% ᴅᴇ ᴀᴘʟɪᴄᴀʀ ᴇꜰᴇᴄᴛᴏ ᴏꜱᴄᴜʀɪᴅᴀᴅ ɪɪ'
+      - '&7ᴇꜰᴇᴄᴛᴏ ᴅᴜʀᴀɴᴛᴇ 5ꜱ ᴀʟ ᴀᴛᴀᴄᴀɴᴛᴇ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟ: &#a55eea2'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2600 Souls'
+      - '&8▪ &fɴɪᴠᴇʟ: &#a55eea2'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2600 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -73,15 +73,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴅᴀʀᴋɴᴇꜱꜱ ᴄʟᴏᴀᴋ ɪɪɪ'
+    display_name: '&#a55eea&lᴍᴀɴᴛᴏ ᴅᴇ ᴏꜱᴄᴜʀɪᴅᴀᴅ ɪɪɪ'
     lore:
-      - '&720% ᴄʜᴀɴᴄᴇ ᴛᴏ ᴀᴘᴘʟʏ ᴅᴀʀᴋɴᴇꜱꜱ ɪɪɪ ᴇꜰꜰᴇᴄᴛ'
-      - '&7ᴇꜰꜰᴇᴄᴛ for 6s ᴛᴏ ᴛʜᴇ ᴀᴛᴛᴀᴄᴋᴇʀ.'
+      - '&720% ᴅᴇ ᴀᴘʟɪᴄᴀʀ ᴇꜰᴇᴄᴛᴏ ᴏꜱᴄᴜʀɪᴅᴀᴅ ɪɪɪ'
+      - '&7ᴇꜰᴇᴄᴛᴏ ᴅᴜʀᴀɴᴛᴇ 6ꜱ ᴀʟ ᴀᴛᴀᴄᴀɴᴛᴇ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟ: &#a55eea3'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea4300 Souls'
+      - '&8▪ &fɴɪᴠᴇʟ: &#a55eea3'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea4300 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -106,6 +106,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] enchants_armor"

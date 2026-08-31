@@ -15,8 +15,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - "&7ᴘʀᴏᴠᴇ ʏᴏᴜʀ ᴡᴏʀᴛʜ ɪɴ ʙᴀᴛᴛʟᴇ."
-      - '&7ᴀ ꜱᴏʟɪᴅ ᴋɪᴛ ꜰᴏʀ ᴀ ᴛʀᴜᴇ ʜᴇʀᴏ!'
+      - "&7ᴅᴇᴍᴜᴇꜱᴛʀᴀ ᴛᴜ ᴠᴀʟíᴀ ᴇɴ ʙᴀᴛᴀʟʟᴀ."
+      - '&7¡ᴜɴ ᴋɪᴛ ꜱóʟɪᴅᴏ ᴘᴀʀᴀ ᴜɴ ʜéʀᴏᴇ!'
 
 
   'champion_kit_cooldown':
@@ -32,7 +32,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         cooldown:
@@ -56,7 +56,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     click_commands:
       - "[player] essentials:kit champion"
       - "[close]"
@@ -73,7 +73,7 @@ items:
     enchantments:
       - sharpness;2
       - unbreaking;3
-    display_name: '&#009ddb&lChampion Sword'
+    display_name: '&#009ddb&lEspada de Champion'
 
   '2':
     material: DIAMOND_HELMET
@@ -83,7 +83,7 @@ items:
       - protection;2
       - unbreaking;3
       - mending;1
-    display_name: '&#009ddb&lChampion Helmet'
+    display_name: '&#009ddb&lCasco de Champion'
 
   '3':
     material: DIAMOND_CHESTPLATE
@@ -93,7 +93,7 @@ items:
       - protection;3
       - unbreaking;3
       - mending;1
-    display_name: '&#009ddb&lChampion Chestplate'
+    display_name: '&#009ddb&lPeto de Champion'
 
   '4':
     material: DIAMOND_LEGGINGS
@@ -103,7 +103,7 @@ items:
       - protection;2
       - unbreaking;3
       - mending;1
-    display_name: '&#009ddb&lChampion Leggings'
+    display_name: '&#009ddb&lGrebas de Champion'
 
   '5':
     material: DIAMOND_BOOTS
@@ -112,7 +112,7 @@ items:
     enchantments:
       - protection;2
       - unbreaking;2
-    display_name: '&#009ddb&lChampion Boots'
+    display_name: '&#009ddb&lBotas de Champion'
 
 
   '6':
@@ -123,7 +123,7 @@ items:
       - efficiency;3
       - fortune;1
       - unbreaking;3
-    display_name: '&#009ddb&lChampion Pickaxe'
+    display_name: '&#009ddb&lPico de Champion'
 
   '7':
     material: BOW
@@ -133,7 +133,7 @@ items:
       - power;2
       - infinity;1
       - unbreaking;3
-    display_name: '&#009ddb&lChampion Bow'
+    display_name: '&#009ddb&lArco de Champion'
 
   '8':
     material: ENCHANTED_GOLDEN_APPLE
@@ -176,7 +176,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] ranked_kits"
 

@@ -11,15 +11,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴜʀꜱᴇ ᴏꜰ ᴅᴇᴀᴛʜ'
+    display_name: '&#a55eea&lᴍᴀʟᴅɪᴄɪóɴ ᴅᴇ ʟᴀ ᴍᴜᴇʀᴛᴇ'
     lore:
-      - '&7ɪꜰ ʏᴏᴜ ᴋɪʟʟ ᴀ ᴘʟᴀʏᴇʀ, ʏᴏᴜ ʜᴀᴠᴇ'
-      - '&7ᴀ ᴄʜᴀɴᴄᴇ ᴏꜰ ᴅʏɪɴɢ ᴛᴏᴏ.'
+      - '&7ꜱɪ ᴍᴀᴛᴀꜱ ᴀ ᴜɴ ᴊᴜɢᴀᴅᴏʀ, ᴛɪᴇɴᴇꜱ'
+      - '&7ᴘʀᴏʙᴀʙɪʟɪᴅᴀᴅ ᴅᴇ ᴍᴏʀɪʀ ᴛᴀᴍʙɪéɴ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea900 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea900 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -42,15 +42,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴜʀꜱᴇ ᴏꜰ ᴅᴇᴀᴛʜ'
+    display_name: '&#a55eea&lᴍᴀʟᴅɪᴄɪóɴ ᴅᴇ ʟᴀ ᴍᴜᴇʀᴛᴇ'
     lore:
-      - '&7ɪꜰ ʏᴏᴜ ᴋɪʟʟ ᴀ ᴘʟᴀʏᴇʀ, ʏᴏᴜ ʜᴀᴠᴇ'
-      - '&7ᴀ ᴄʜᴀɴᴄᴇ ᴏꜰ ᴅʏɪɴɢ ᴛᴏᴏ.'
+      - '&7ꜱɪ ᴍᴀᴛᴀꜱ ᴀ ᴜɴ ᴊᴜɢᴀᴅᴏʀ, ᴛɪᴇɴᴇꜱ'
+      - '&7ᴘʀᴏʙᴀʙɪʟɪᴅᴀᴅ ᴅᴇ ᴍᴏʀɪʀ ᴛᴀᴍʙɪéɴ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea2'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1600 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea2'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1600 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -73,15 +73,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴄᴜʀꜱᴇ ᴏꜰ ᴅᴇᴀᴛʜ'
+    display_name: '&#a55eea&lᴍᴀʟᴅɪᴄɪóɴ ᴅᴇ ʟᴀ ᴍᴜᴇʀᴛᴇ'
     lore:
-      - '&7ɪꜰ ʏᴏᴜ ᴋɪʟʟ ᴀ ᴘʟᴀʏᴇʀ, ʏᴏᴜ ʜᴀᴠᴇ'
-      - '&7ᴀ ᴄʜᴀɴᴄᴇ ᴏꜰ ᴅʏɪɴɢ ᴛᴏᴏ.'
+      - '&7ꜱɪ ᴍᴀᴛᴀꜱ ᴀ ᴜɴ ᴊᴜɢᴀᴅᴏʀ, ᴛɪᴇɴᴇꜱ'
+      - '&7ᴘʀᴏʙᴀʙɪʟɪᴅᴀᴅ ᴅᴇ ᴍᴏʀɪʀ ᴛᴀᴍʙɪéɴ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea3'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2800 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea3'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2800 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -106,6 +106,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] enchants_weapon"

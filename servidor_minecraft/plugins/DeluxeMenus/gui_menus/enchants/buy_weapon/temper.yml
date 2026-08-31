@@ -11,15 +11,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛᴇᴍᴘᴇʀ'
+    display_name: '&#a55eea&lᴛᴇᴍᴘʟᴇ'
     lore:
-      - '&7ᴅᴀᴍᴀɢᴇ ɪɴᴄʀᴇᴀꜱᴇꜱ ᴛʜᴇ ᴍᴏʀᴇ ᴛʜᴇ'
-      - '&7ʟᴇꜱꜱ ʜᴇᴀʟᴛʜ ʏᴏᴜ ʜᴀᴠᴇ.'
+      - '&7ᴇʟ ᴅᴀñᴏ ᴀᴜᴍᴇɴᴛᴀ ᴄᴜᴀɴᴛᴏ'
+      - '&7ᴍᴇɴᴏꜱ ᴠɪᴅᴀ ᴛɪᴇɴᴇꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea3000 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea3000 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -42,15 +42,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛᴇᴍᴘᴇʀ'
+    display_name: '&#a55eea&lᴛᴇᴍᴘʟᴇ'
     lore:
-      - '&7ᴅᴀᴍᴀɢᴇ ɪɴᴄʀᴇᴀꜱᴇꜱ ᴛʜᴇ ᴍᴏʀᴇ ᴛʜᴇ'
-      - '&7ʟᴇꜱꜱ ʜᴇᴀʟᴛʜ ʏᴏᴜ ʜᴀᴠᴇ.'
+      - '&7ᴇʟ ᴅᴀñᴏ ᴀᴜᴍᴇɴᴛᴀ ᴄᴜᴀɴᴛᴏ'
+      - '&7ᴍᴇɴᴏꜱ ᴠɪᴅᴀ ᴛɪᴇɴᴇꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea2'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea5200 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea2'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea5200 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -73,15 +73,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛᴇᴍᴘᴇʀ'
+    display_name: '&#a55eea&lᴛᴇᴍᴘʟᴇ'
     lore:
-      - '&7ᴅᴀᴍᴀɢᴇ ɪɴᴄʀᴇᴀꜱᴇꜱ ᴛʜᴇ ᴍᴏʀᴇ ᴛʜᴇ'
-      - '&7ʟᴇꜱꜱ ʜᴇᴀʟᴛʜ ʏᴏᴜ ʜᴀᴠᴇ.'
+      - '&7ᴇʟ ᴅᴀñᴏ ᴀᴜᴍᴇɴᴛᴀ ᴄᴜᴀɴᴛᴏ'
+      - '&7ᴍᴇɴᴏꜱ ᴠɪᴅᴀ ᴛɪᴇɴᴇꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea3'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea7200 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea3'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea7200 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -104,15 +104,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛᴇᴍᴘᴇʀ'
+    display_name: '&#a55eea&lᴛᴇᴍᴘʟᴇ'
     lore:
-      - '&7ᴅᴀᴍᴀɢᴇ ɪɴᴄʀᴇᴀꜱᴇꜱ ᴛʜᴇ ᴍᴏʀᴇ ᴛʜᴇ'
-      - '&7ʟᴇꜱꜱ ʜᴇᴀʟᴛʜ ʏᴏᴜ ʜᴀᴠᴇ.'
+      - '&7ᴇʟ ᴅᴀñᴏ ᴀᴜᴍᴇɴᴛᴀ ᴄᴜᴀɴᴛᴏ'
+      - '&7ᴍᴇɴᴏꜱ ᴠɪᴅᴀ ᴛɪᴇɴᴇꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea4'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea9500 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea4'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea9500 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -135,15 +135,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛᴇᴍᴘᴇʀ'
+    display_name: '&#a55eea&lᴛᴇᴍᴘʟᴇ'
     lore:
-      - '&7ᴅᴀᴍᴀɢᴇ ɪɴᴄʀᴇᴀꜱᴇꜱ ᴛʜᴇ ᴍᴏʀᴇ ᴛʜᴇ'
-      - '&7ʟᴇꜱꜱ ʜᴇᴀʟᴛʜ ʏᴏᴜ ʜᴀᴠᴇ.'
+      - '&7ᴇʟ ᴅᴀñᴏ ᴀᴜᴍᴇɴᴛᴀ ᴄᴜᴀɴᴛᴏ'
+      - '&7ᴍᴇɴᴏꜱ ᴠɪᴅᴀ ᴛɪᴇɴᴇꜱ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea5'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea12,000 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea5'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea12,000 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -168,6 +168,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] enchants_weapon"

@@ -13,12 +13,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴘʟᴀʏᴇʀ ᴍᴇɴᴛɪᴏɴꜱ'
+    display_name: '&b&lᴍᴇɴᴄɪᴏɴᴇꜱ ᴅᴇ ᴊᴜɢᴀᴅᴏʀ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴍᴇɴᴛɪᴏɴꜱ'
-      - '&7ɪꜱ ᴅɪꜱᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴍᴇɴᴄɪᴏɴᴇꜱ'
+      - '&7ᴇꜱᴛá ᴅᴇꜱᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇɴᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -38,12 +38,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴘʟᴀʏᴇʀ ᴍᴇɴᴛɪᴏɴꜱ'
+    display_name: '&b&lᴍᴇɴᴄɪᴏɴᴇꜱ ᴅᴇ ᴊᴜɢᴀᴅᴏʀ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴍᴇɴᴛɪᴏɴꜱ'
-      - '&7ɪꜱ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴍᴇɴᴄɪᴏɴᴇꜱ'
+      - '&7ᴇꜱᴛá ᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴅɪꜱᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴅᴇꜱᴀᴄᴛɪᴠᴀʀ'
     click_commands:
       - "[console] lp user %player_name% permission set settings.mentions.disabled true"
       - "[player] interactivechat mentiontoggle"
@@ -59,12 +59,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ'
+    display_name: '&b&lᴀɴᴜɴᴄɪᴏꜱ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ'
-      - '&7ɪꜱ ᴅɪꜱᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴀɴᴜɴᴄɪᴏꜱ'
+      - '&7ᴇꜱᴛá ᴅᴇꜱᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇɴᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         check:
@@ -84,12 +84,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ'
+    display_name: '&b&lᴀɴᴜɴᴄɪᴏꜱ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛꜱ'
-      - '&7ɪꜱ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴀɴᴜɴᴄɪᴏꜱ'
+      - '&7ᴇꜱᴛá ᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴅɪꜱᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴅᴇꜱᴀᴄᴛɪᴠᴀʀ'
     click_commands:
       - "[player] ia toggle announcement"
       - "[refresh]"
@@ -104,12 +104,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴀɴɴᴏᴜɴᴄᴇ ꜱᴏᴜɴᴅꜱ'
+    display_name: '&b&lꜱᴏɴɪᴅᴏꜱ ᴅᴇ ᴀᴠɪꜱᴏ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴏᴜɴᴅꜱ'
-      - '&7ɪꜱ ᴅɪꜱᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ꜱᴏɴɪᴅᴏꜱ'
+      - '&7ᴇꜱᴛá ᴅᴇꜱᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇɴᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         check:
@@ -129,12 +129,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴀɴɴᴏᴜɴᴄᴇ ꜱᴏᴜɴᴅꜱ'
+    display_name: '&b&lꜱᴏɴɪᴅᴏꜱ ᴅᴇ ᴀᴠɪꜱᴏ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ꜱᴏᴜɴᴅꜱ'
-      - '&7ɪꜱ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ꜱᴏɴɪᴅᴏꜱ'
+      - '&7ᴇꜱᴛá ᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴅɪꜱᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴅᴇꜱᴀᴄᴛɪᴠᴀʀ'
     click_commands:
       - "[player] ia toggle sound"
       - "[refresh]"
@@ -153,9 +153,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#7e84a8&lꜱᴄʀᴏʟʟ ᴜᴘ ↑'
+    display_name: '&#7e84a8&lꜱᴜʙɪʀ ↑'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ꜱᴄʀᴏʟʟ ᴜᴘ'
-      - '&7ᴛᴏ ꜱᴇᴄᴏɴᴅ ᴘᴀɢᴇ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ꜱᴜʙɪʀ'
+      - '&7ᴀ ʟᴀ ꜱᴇɢᴜɴᴅᴀ ᴘáɢɪɴᴀ'
     click_commands:
       - "[openguimenu] settings_2"

@@ -24,12 +24,12 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &a1x Vote Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &a1x Llave de Voto'
       - ' &8▪ &65x Coins'
-      - ' &8▪ &2$&a500 Money'
+      - ' &8▪ &2$&a500 Dinero'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%luckperms_inherited_expiry_time_rewards.cooldown.rdaily%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%luckperms_inherited_expiry_time_rewards.cooldown.rdaily%'
     priority: 1
     view_requirement:
       requirements:
@@ -49,12 +49,12 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &a1x Vote Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &a1x Llave de Voto'
       - ' &8▪ &65x Coins'
-      - ' &8▪ &2$&a500 Money'
+      - ' &8▪ &2$&a500 Dinero'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     priority: 2
     left_click_commands:
       - "[console] lp user %player_name% permission settemp rewards.cooldown.rdaily true 1d"
@@ -77,13 +77,13 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &a2x Vote Key'
-      - ' &8▪ &e2x Sunshine Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &a2x Llave de Voto'
+      - ' &8▪ &e2x Llave Sunshine'
       - ' &8▪ &610x Coins'
-      - ' &8▪ &2$&a3500 Money'
+      - ' &8▪ &2$&a3500 Dinero'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%luckperms_inherited_expiry_time_rewards.cooldown.rweekly%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%luckperms_inherited_expiry_time_rewards.cooldown.rweekly%'
     priority: 1
     view_requirement:
       requirements:
@@ -103,13 +103,13 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &a2x Vote Key'
-      - ' &8▪ &e2x Sunshine Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &a2x Llave de Voto'
+      - ' &8▪ &e2x Llave Sunshine'
       - ' &8▪ &610x Coins'
-      - ' &8▪ &2$&a3500 Money'
+      - ' &8▪ &2$&a3500 Dinero'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     priority: 2
     left_click_commands:
       - "[console] lp user %player_name% permission settemp rewards.cooldown.rweekly true 7d"
@@ -133,13 +133,13 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &61x Blaze Key'
-      - ' &8▪ &e2x Sunshine Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &61x Blaze Llave'
+      - ' &8▪ &e2x Llave Sunshine'
       - ' &8▪ &620x Coins'
-      - ' &8▪ &a$5000 Money'
+      - ' &8▪ &a$5000 Dinero'
       - ''
-      - '&cᴄᴏᴏʟᴅᴏᴡɴ: &f%luckperms_inherited_expiry_time_rewards.cooldown.rmonthly%'
+      - '&cᴇꜱᴘᴇʀᴀ: &f%luckperms_inherited_expiry_time_rewards.cooldown.rmonthly%'
     priority: 1
     view_requirement:
       requirements:
@@ -159,13 +159,13 @@ items:
     display_name: '&f'
     lore:
       - ''
-      - '&7ʀᴇᴡᴀʀᴅ ᴄᴏɴᴛᴀɪɴs:'
-      - ' &8▪ &61x Blaze Key'
-      - ' &8▪ &e2x Sunshine Key'
+      - '&7ʟᴀ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀ ᴄᴏɴᴛɪᴇɴᴇ:'
+      - ' &8▪ &61x Blaze Llave'
+      - ' &8▪ &e2x Llave Sunshine'
       - ' &8▪ &620x Coins'
-      - ' &8▪ &a$5000 Money'
+      - ' &8▪ &a$5000 Dinero'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     priority: 2
     left_click_commands:
       - "[console] lp user %player_name% permission settemp rewards.cooldown.rmonthly true 30d"
@@ -183,11 +183,11 @@ items:
     material: PAPER
     model_data: 100009
     lore:
-      - '&7ᴄʟᴀɪᴍ ʏᴏᴜʀ ꜰʀᴇᴇ'
-      - '&7ᴅᴀɪʟʏ, ᴡᴇᴇᴋʟʏ & ᴍᴏɴᴛʜʟʏ'
-      - '&7ʀᴇᴡᴀʀᴅꜱ ɴᴏᴡ!'
+      - '&7ʀᴇᴄʟᴀᴍᴀʀ ᴛᴜ ɢʀᴀᴛɪꜱ'
+      - '&7ᴅɪᴀʀɪᴏ, ꜱᴇᴍᴀɴᴀʟ & ᴍᴇɴꜱᴜᴀʟ'
+      - '&7¡ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ᴀʜᴏʀᴀ!'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʙʀɪʀ'
     slots:
       - 28
       - 29
@@ -213,9 +213,9 @@ items:
       - HIDE_ENCHANTS 
     display_name: '&f'
     lore:
-      - '&7ᴅᴏɴᴀᴛᴇᴅ ɪɴ ᴛʜᴇ ꜱᴛᴏʀᴇ, ᴄʟᴀɪᴍ'
-      - '&7ʏᴏᴜʀ ꜱᴘᴇᴄɪᴀʟ ᴅᴀɪʟʏ, ᴡᴇᴇᴋʟʏ'
-      - '&7& ᴍᴏɴᴛʜʟʏ ʀᴇᴡᴀʀᴅꜱ ɴᴏᴡ!'
+      - '&7ᴅᴏɴᴀᴅᴏ ᴇɴ ʟᴀ ᴛɪᴇɴᴅᴀ, ʀᴇᴄʟᴀᴍᴀ'
+      - '&7ᴛᴜꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ ᴅɪᴀʀɪᴀꜱ, ꜱᴇᴍᴀɴᴀʟᴇꜱ'
+      - '&7¡ʏ ᴍᴇɴꜱᴜᴀʟᴇꜱ ᴀʜᴏʀᴀ!'
 
 
 

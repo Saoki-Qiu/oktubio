@@ -15,8 +15,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴛʜᴇ ᴜʟᴛɪᴍᴀᴛᴇ ᴋɪᴛ ꜰᴏʀ ᴛʜᴇ ʀᴜʟᴇʀ!'
-      - '&7ᴜɴᴍᴀᴛᴄʜᴇᴅ ᴘᴏᴡᴇʀ ꜰɪᴛ ꜰᴏʀ ᴀ ᴋɪɴɢ.'
+      - '&7¡ᴇʟ ᴋɪᴛ ᴅᴇꜰɪɴɪᴛɪᴠᴏ ᴘᴀʀᴀ ᴇʟ ꜱᴏʙᴇʀᴀɴᴏ!'
+      - '&7ᴘᴏᴅᴇʀ ꜱɪɴ ɪɢᴜᴀʟ, ᴅɪɢɴᴏ ᴅᴇ ᴜɴ ʀᴇʏ.'
 
 
   'king_kit_cooldown':
@@ -32,7 +32,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         cooldown:
@@ -56,7 +56,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     click_commands:
       - "[player] essentials:kit king"
       - "[close]"
@@ -77,7 +77,7 @@ items:
       - looting;3
       - knockback;2
       - sweeping_edge;3
-    display_name: '&#fd7e00&lKing Sword'
+    display_name: '&#fd7e00&lEspada de King'
 
   '2':
     material: NETHERITE_HELMET
@@ -87,7 +87,7 @@ items:
       - protection;4
       - unbreaking;3
       - mending;1
-    display_name: '&#fd7e00&lKing Helmet'
+    display_name: '&#fd7e00&lCasco de King'
 
   '3':
     material: NETHERITE_CHESTPLATE
@@ -97,7 +97,7 @@ items:
       - protection;4
       - unbreaking;3
       - mending;1
-    display_name: '&#fd7e00&lKing Chestplate'
+    display_name: '&#fd7e00&lPeto de King'
 
   '4':
     material: NETHERITE_LEGGINGS
@@ -107,7 +107,7 @@ items:
       - protection;4
       - unbreaking;3
       - mending;1
-    display_name: '&#fd7e00&lKing Leggings'
+    display_name: '&#fd7e00&lGrebas de King'
 
   '5':
     material: NETHERITE_BOOTS
@@ -118,7 +118,7 @@ items:
       - unbreaking;3
       - mending;1
       - feather_falling;4
-    display_name: '&#fd7e00&lKing Boots'
+    display_name: '&#fd7e00&lBotas de King'
 
 
   '6':
@@ -130,7 +130,7 @@ items:
       - fortune;3
       - unbreaking;3
       - mending;1
-    display_name: '&#fd7e00&lKing Pickaxe'
+    display_name: '&#fd7e00&lPico de King'
 
 
   '7':
@@ -142,7 +142,7 @@ items:
       - silk_touch;1
       - unbreaking;3
       - mending;1
-    display_name: '&#fd7e00&lKing Silk Pickaxe'
+    display_name: '&#fd7e00&lKing Toque de seda Pico'
 
 
   '8':
@@ -154,7 +154,7 @@ items:
       - infinity;1
       - unbreaking;3
       - mending;1
-    display_name: '&#fd7e00&lKing Bow'
+    display_name: '&#fd7e00&lArco de King'
 
   '9':
     material: ENCHANTED_GOLDEN_APPLE
@@ -202,7 +202,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] ranked_kits"
 

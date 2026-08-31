@@ -11,18 +11,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛᴜɴɴᴇʟ'
+    display_name: '&#a55eea&lᴛᴜɴᴇʟ'
     lore:
-      - '&7ᴍɪɴᴇꜱ 1x2 ᴀʀᴇᴀ.'
+      - '&7ᴍɪɴᴀ ᴜɴ áʀᴇᴀ ᴅᴇ 1x2.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2800 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2800 Sᴏᴜʟꜱ'
       - ''
-      - '&8▪ &fᴄᴏɴꜰʟɪᴄᴛꜱ ᴡɪᴛʜ:'
+      - '&8▪ &fɪɴᴄᴏᴍᴘᴀᴛɪʙʟᴇ ᴄᴏɴ:'
       - '   &c✘ &7ᴠᴇɪɴᴍɪɴᴇʀ'
-      - '   &c✘ &7ʙʟᴀꜱᴛ ᴍɪɴɪɴɢ'
+      - '   &c✘ &7ᴇxᴘʟᴏꜱɪᴏɴ Mɪɴᴇʀíᴀ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -45,18 +45,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛᴜɴɴᴇʟ'
+    display_name: '&#a55eea&lᴛᴜɴᴇʟ'
     lore:
-      - '&7ᴍɪɴᴇꜱ 2x2 ᴀʀᴇᴀ.'
+      - '&7ᴍɪɴᴀ ᴜɴ áʀᴇᴀ ᴅᴇ 2x2.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea2'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea4800 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea2'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea4800 Sᴏᴜʟꜱ'
       - ''
-      - '&8▪ &fᴄᴏɴꜰʟɪᴄᴛꜱ ᴡɪᴛʜ:'
+      - '&8▪ &fɪɴᴄᴏᴍᴘᴀᴛɪʙʟᴇ ᴄᴏɴ:'
       - '   &c✘ &7ᴠᴇɪɴᴍɪɴᴇʀ'
-      - '   &c✘ &7ʙʟᴀꜱᴛ ᴍɪɴɪɴɢ'
+      - '   &c✘ &7ᴇxᴘʟᴏꜱɪᴏɴ Mɪɴᴇʀíᴀ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -79,18 +79,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴛᴜɴɴᴇʟ'
+    display_name: '&#a55eea&lᴛᴜɴᴇʟ'
     lore:
-      - '&7ᴍɪɴᴇꜱ 3x3 ᴀʀᴇᴀ.'
+      - '&7ᴍɪɴᴀ ᴜɴ áʀᴇᴀ ᴅᴇ 3x3.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea3'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea7500 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea3'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea7500 Sᴏᴜʟꜱ'
       - ''
-      - '&8▪ &fᴄᴏɴꜰʟɪᴄᴛꜱ ᴡɪᴛʜ:'
+      - '&8▪ &fɪɴᴄᴏᴍᴘᴀᴛɪʙʟᴇ ᴄᴏɴ:'
       - '   &c✘ &7ᴠᴇɪɴᴍɪɴᴇʀ'
-      - '   &c✘ &7ʙʟᴀꜱᴛ ᴍɪɴɪɴɢ'
+      - '   &c✘ &7ᴇxᴘʟᴏꜱɪᴏɴ Mɪɴᴇʀíᴀ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -115,6 +115,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] enchants_tools"

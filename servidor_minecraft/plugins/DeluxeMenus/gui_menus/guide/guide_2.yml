@@ -14,18 +14,18 @@ items:
     update: true
     display_name: '&#a422f5&lBaits'
     lore:
-      - '&7Baits can be applied on fishing rod'
-      - '&7to increase chance of catching'
-      - '&7higher rarities fishes!'
+      - '&7Los cebos se aplican en la caña'
+      - '&7para aumentar la probabilidad de pescar'
+      - '&7¡peces de mayor rareza!'
       - '&7'
-      - '&#a422f5Bought from:'
-      - '&8 | &7Fisherman Npc in Spawn'
+      - '&#a422f5Comprado de:'
+      - '&8 | &7Npc Pescador en el Spawn'
       - '&7'
-      - '&#a422f5Types of Baits:'
-      - ' &8▪ &fAbyssal Shard'
-      - ' &8▪ &fCelestial Mote'
+      - '&#a422f5Tipos de Cebos:'
+      - ' &8▪ &fFragmento abisal'
+      - ' &8▪ &fMota celestial'
       - ' &8▪ &fEmbered Worm'
-      - ' &8▪ &fGilded Scale'
+      - ' &8▪ &fEscama Dorada'
       - ' &8▪ &fWhispering Leech'
     click_commands:
       - "[refresh]"
@@ -41,16 +41,16 @@ items:
     update: true
     display_name: '&3&lAfk Pool'
     lore:
-      - '&7In afk pool you can earn by doing'
-      - '&7nothing. You can AFK in afk'
-      - '&7pool to receive rewards!'
+      - '&7En la zona afk puedes ganar sin hacer'
+      - '&7nada. Puedes estar AFK en la zona'
+      - '&7¡afk para recibir recompensas!'
       - '&7'
-      - '&3Reach by:'
-      - '&8 | &7Using /warp afk command'
+      - '&3Llegar por:'
+      - '&8 | &7Usando /warp afk comando'
       - '&7'
-      - '&3Rewards:'
-      - ' &8▪ &f$10 Money &7(95% Chance)'
-      - ' &8▪ &fSunshine Key &7(5% Chance)'
+      - '&3Recompensas:'
+      - ' &8▪ &f$10 Dinero &7(95% Probabilidad)'
+      - ' &8▪ &fSunshine Llave &7(5% Probabilidad)'
     click_commands:
       - "[refresh]"
 
@@ -65,15 +65,15 @@ items:
     update: true
     display_name: '&c&lPvP Arena'
     lore:
-      - '&7The only place in the server'
-      - '&7where PvP is enabled! You can'
-      - '&7fight players for their loot!'
+      - '&7El único lugar del servidor'
+      - '&7¡donde el PvP está activado! Puedes'
+      - '&7¡luchar por su botín!'
       - '&7'
-      - '&cReach by:'
-      - '&8 | &7Using /warp arena command'
+      - '&cLlegar por:'
+      - '&8 | &7Usando el comando /warp arena'
       - '&7'
-      - '&cFeatures Disabled:'
-      - '&8 | &7/fly command'
+      - '&cFunciones Desactivadas:'
+      - '&8 | &7comando /fly'
     click_commands:
       - "[refresh]"
 
@@ -86,19 +86,19 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#c09473&lDaily Quests'
+    display_name: '&#c09473&lDiario Misiones'
     lore:
-      - '&7Quest Board gives you 3 types'
-      - '&7quests daily to complete and'
-      - '&7get rewards in return!'
+      - '&7El Tablón de Misiones te da 3 tipos'
+      - '&7de misiones diarias para completar y'
+      - '&7¡obtén recompensas a cambio!'
       - '&7'
-      - '&#c09473Accessed by:'
-      - '&8 | &7Quest Board in Spawn'
+      - '&#c09473Acceder por:'
+      - '&8 | &7Tablón de Misiones en el Spawn'
       - '&7'
-      - '&#c09473Quest Tiers:'
+      - '&#c09473Niveles de Misión:'
       - ' &8▪ &fEasy &7(10 total)'
-      - ' &8▪ &fMedium &7(10 total)'
-      - ' &8▪ &fHard &7(10 total)'
+      - ' &8▪ &fMedio &7(10 total)'
+      - ' &8▪ &fDifícil &7(10 total)'
     click_commands:
       - "[refresh]"
 
@@ -111,18 +111,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#bd6a62&lSkills'
+    display_name: '&#bd6a62&lHabilidades'
     lore:
-      - '&7By playing on the server and doing'
-      - '&7different types of tasks, your'
-      - '&7skills gets improved and you'
-      - '&7unlock special abilities!'
+      - '&7Jugando en el servidor y haciendo'
+      - '&7distintos tipos de tareas, tus'
+      - '&7habilidades mejoran y'
+      - '&7¡desbloqueas habilidades especiales!'
       - '&7'
-      - '&#bd6a62Accessed by:'
-      - '&8 | &7Skills Npc in Spawn'
-      - '&8 | &7or /skills command'
+      - '&#bd6a62Acceder por:'
+      - '&8 | &7Npc de Habilidades en el Spawn'
+      - '&8 | &7o /habilidades comando'
       - '&7'
-      - '&#bd6a62Total Skills: &f12'
+      - '&#bd6a62Total Habilidades: &f12'
     click_commands:
       - "[refresh]"
 
@@ -135,18 +135,18 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#cbcbcb&lSettings'
+    display_name: '&#cbcbcb&lAjustes'
     lore:
-      - '&7Do you want to customize your'
-      - '&7experience in the server? Then'
-      - '&7Settings menu is for you! It'
-      - '&7allows you to toggle options!'
+      - '&7¿Quieres personalizar tu'
+      - '&7experiencia en el servidor? ¡Entonces'
+      - '&7el menú de Ajustes es para ti! Te'
+      - '&7¡permite activar y desactivar opciones!'
       - '&7'
-      - '&#cbcbcbAccessed by:'
-      - '&8 | &7In the Survival Menu'
-      - '&8 | &7or /settings command'
+      - '&#cbcbcbAcceder por:'
+      - '&8 | &7En el Menú de Survival'
+      - '&8 | &7o /ajustes comando'
       - '&7'
-      - '&#cbcbcbTotal Settings: &f13'
+      - '&#cbcbcbTotal Ajustes: &f13'
     click_commands:
       - "[refresh]"
 
@@ -159,21 +159,21 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#21bcda&lProfile'
+    display_name: '&#21bcda&lPerfil'
     lore:
-      - '&7Profile menu is the menu where'
-      - '&7all your stats are showed! You'
-      - '&7can also customize your profile'
-      - '&7picture and it can be viewed'
-      - '&7by other players too!'
+      - '&7El menú de Perfil es donde'
+      - '&7¡se ven todas tus estadísticas! También'
+      - '&7puedes personalizar tu foto de'
+      - '&7perfil y se puede ver'
+      - '&7por otro jugadores tambien!'
       - '&7'
-      - '&#21bcdaAccessed by:'
-      - '&8 | &7In the Survival Menu'
-      - '&8 | &7or /profile command'
+      - '&#21bcdaAcceder por:'
+      - '&8 | &7En el Menú de Survival'
+      - '&8 | &7o /perfil comando'
       - '&7'
-      - '&#21bcdaProfile Pictures:'
+      - '&#21bcdaFotos de Perfil:'
       - ' &8▪ &fRed Oakshade Edge'
-      - ' &8▪ &fDeep Underwater'
+      - ' &8▪ &fFondo marino'
     click_commands:
       - "[refresh]"
 
@@ -186,15 +186,15 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#63df5b&lItem Shop'
+    display_name: '&#63df5b&lObjeto Tienda'
     lore:
-      - '&7Item Shop is where you can buy'
-      - '&7or sell different types of items'
+      - '&7La Item Shop es donde puedes comprar'
+      - '&7o vender distintos tipos de objetos'
       - '&7including precious materials!'
       - '&7'
-      - '&#63df5bAccessed by:'
-      - '&8 | &7Item Shop Npc in Spawn'
-      - '&8 | &7or /shop command'
+      - '&#63df5bAcceder por:'
+      - '&8 | &7Npc de Item Shop en el Spawn'
+      - '&8 | &7o /tienda comando'
       - '&7'
       - '&#63df5bCategories: &f7'
     click_commands:
@@ -209,21 +209,21 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#fc5c65&lHomes'
+    display_name: '&#fc5c65&lHogares'
     lore:
-      - '&7Using homes feature you can set'
-      - '&7points where you can teleport to'
-      - '&7using /home command in seconds!'
+      - '&7Con los hogares puedes marcar'
+      - '&7puntos a los que teletransportarte'
+      - '&7¡con el comando /home en segundos!'
       - '&7'
-      - '&#fc5c65How to set home:'
-      - '&8 | &7Stand where you want to set your'
-      - '&8 | &7home and run /sethome command!'
+      - '&#fc5c65Cómo poner un hogar:'
+      - '&8 | &7Colócate donde quieras poner tu'
+      - '&8 | &7¡hogar y ejecuta el comando /sethome!'
       - '&7'
-      - '&#fc5c65Home Commands:'
-      - ' &8▪ &f/home &7(Teleports to your home)'
-      - ' &8▪ &f/sethome &7(Create a new home)'
-      - ' &8▪ &f/delhome &7(Removes a home)'
-      - ' &8▪ &f/renamehome &7(Rename a home)'
+      - '&#fc5c65Hogar Comandos:'
+      - ' &8▪ &f/hogar &7(Teleports to tu hogar)'
+      - ' &8▪ &f/sethome &7(Create a nuevo hogar)'
+      - ' &8▪ &f/delhome &7(Removes a hogar)'
+      - ' &8▪ &f/renamehome &7(Rename a hogar)'
     click_commands:
       - "[refresh]"
 
@@ -236,23 +236,23 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#eaca26&lJobs'
+    display_name: '&#eaca26&lTrabajos'
     lore:
-      - '&7You can earn money by joining jobs,'
-      - '&7upto 3 at a time. You earn by doing'
-      - '&7jobs tasks like cutting wood in'
-      - '&7the lumberjack job!'
+      - '&7Puedes ganar dinero uniéndote a trabajos,'
+      - '&7hasta 3 a la vez. Ganas haciendo'
+      - '&7tareas de trabajo como talar madera en'
+      - '&7¡el trabajo de leñador!'
       - '&7'
       - '&#eaca26What is Pointshop:'
-      - '&8 | &7While doing job tasks, you also'
-      - '&8 | &7gain job points which can be'
-      - '&8 | &7used to buy items from jobs shop'
+      - '&8 | &7Al hacer tareas de trabajo, también'
+      - '&8 | &7ganas puntos de trabajo que se pueden'
+      - '&8 | &7usar para comprar en la tienda de trabajos'
       - '&7'
-      - '&#eaca26How to Join Jobs:'
-      - '&8 | &7Using Jobs Npc in Spawn'
-      - '&8 | &7or /jobs command'
+      - '&#eaca26Cómo unirse a Trabajos:'
+      - '&8 | &7Con el Npc de Trabajos en el Spawn'
+      - '&8 | &7o /trabajos comando'
       - '&7'
-      - '&#eaca26Total Jobs: &f12'
+      - '&#eaca26Total Trabajos: &f12'
     click_commands:
       - "[refresh]"
 
@@ -265,20 +265,20 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#c67959&lRewards'
+    display_name: '&#c67959&lRecompensas'
     lore:
-      - '&7You can claim rewards for playing,'
-      - '&7on the server! There are 2 categories'
-      - '&7of rewards, Normal and Ranked'
+      - '&7Puedes reclamar recompensas por jugar,'
+      - '&7¡en el servidor! Hay 2 categorías'
+      - '&7de recompensas, Normal y de Rango'
       - '&7'
-      - '&#c67959Accessed By:'
-      - '&8 | &7Rewards Npc in Spawn'
-      - '&8 | &7or /rewards command'
+      - '&#c67959Acceder Por:'
+      - '&8 | &7Npc de Recompensas en el Spawn'
+      - '&8 | &7o /recompensas comando'
       - '&7'
-      - '&#c67959Rewards Types:'
-      - ' &8▪ &fDaily Reward'
-      - ' &8▪ &fWeekly Reward'
-      - ' &8▪ &fMonthly Reward'
+      - '&#c67959Recompensas Tipos:'
+      - ' &8▪ &fDiario Recompensa'
+      - ' &8▪ &fSemanal Recompensa'
+      - ' &8▪ &fMensual Recompensa'
     click_commands:
       - "[refresh]"
 
@@ -291,22 +291,22 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lCrates'
+    display_name: '&b&lCajas'
     lore:
-      - '&7In crates there lies awesome riches'
-      - '&7and exclusive vouchers which can'
-      - '&7only be obtained by opening them!'
+      - '&7En las cajas hay grandes riquezas'
+      - '&7y vales exclusivos que solo'
+      - '&7¡se obtienen abriéndolas!'
       - '&7'
-      - '&bHow to get crate keys:'
-      - '&8 | &7Server Webstore (/store)'
-      - '&8 | &7or Battlepass or Afk Pool'
+      - '&bCómo conseguir llaves:'
+      - '&8 | &7Tienda web del servidor (/store)'
+      - '&8 | &7o el Battlepass o la Zona Afk'
       - '&7'
-      - '&bCrates Types:'
-      - ' &f &#2ede45Vote Crate'
-      - ' &f &#ffbe00Sunshine Crate'
-      - ' &f &#ff6f21Blaze Crate'
-      - ' &f &bOceanic Crate'
-      - ' &f &#b00eebAmethyst Crate'
+      - '&bCajas Tipos:'
+      - ' &f &#2ede45Caja de Voto'
+      - ' &f &#ffbe00Caja Sunshine'
+      - ' &f &#ff6f21Blaze Caja'
+      - ' &f &bCaja Oceanic'
+      - ' &f &#b00eebAmatista Caja'
     click_commands:
       - "[refresh]"
 
@@ -321,16 +321,16 @@ items:
     update: true
     display_name: '&#3bb9fe&lTrading'
     lore:
-      - '&7Trading system allows you to safely trade'
-      - '&7or exchange items with other players'
+      - '&7El sistema permite intercambiar de forma segura'
+      - '&7o intercambia objetos con otros jugadores'
       - '&7without the worry of getting scam!'
       - '&7'
-      - '&#3bb9feHow to trade:'
-      - '&8 | &7Using /trade command'
+      - '&#3bb9feCómo intercambiar:'
+      - '&8 | &7Usando /intercambio comando'
       - '&7'
-      - '&#3bb9feTrading Commands:'
-      - ' &8▪ &f/trade accept &7(Accept a trade request)'
-      - ' &8▪ &f/trade deny &7(Deny a trade request)'
+      - '&#3bb9feComandos de Intercambio:'
+      - ' &8▪ &f/intercambio accept &7(Accept a intercambio solicitud)'
+      - ' &8▪ &f/intercambio deny &7(Deny a intercambio solicitud)'
     click_commands:
       - "[refresh]"
 
@@ -345,14 +345,14 @@ items:
     update: true
     display_name: '&#45aaf2&lRanks'
     lore:
-      - '&7There are special exclusive ranks on'
-      - '&7the server which can be bought from'
-      - '&7server webstore and comes with perks!'
+      - '&7Hay rangos exclusivos especiales en'
+      - '&7el servidor, que se compran en la'
+      - '&7¡tienda web del servidor, con ventajas!'
       - '&7'
-      - '&#45aaf2Where to Buy:'
-      - '&8 | &7From Server Webstore (/store)'
+      - '&#45aaf2Dónde Comprar:'
+      - '&8 | &7Desde la tienda web (/store)'
       - '&7'
-      - '&#45aaf2List of Ranks:'
+      - '&#45aaf2Lista de Rangos:'
       - ' &f'
       - ' &f'
       - ' &f'
@@ -372,12 +372,12 @@ items:
     update: true
     display_name: '&e&lEmojis'
     lore:
-      - '&7You always use emojis while chatting'
+      - '&7Siempre usas emojis al chatear'
       - '&7so why not them use while chatting'
-      - '&7in this server too!'
+      - '&7¡en este servidor también!'
       - '&7'
-      - '&eSee list by:'
-      - '&8 | &7/emojis command'
+      - '&eVer lista con:'
+      - '&8 | &7comando /emojis'
       - '&7'
       - '&eTotal Emojis: &f25'
     click_commands:
@@ -395,13 +395,13 @@ items:
     display_name: '&d&lChat Games'
     lore:
       - '&7Chatgames are fun little games that'
-      - '&7occasionally occurs in the chat. By'
-      - '&7winning one of them, you get rewards!'
+      - '&7ocurre de vez en cuando en el chat. Al'
+      - '&7¡ganando uno, obtienes recompensas!'
       - '&7'
       - '&dWhen does it occurs:'
-      - '&8 | &7Every 15 minutes'
+      - '&8 | &7Cada 15 minutos'
       - '&7'
-      - '&dTypes of Games:'
+      - '&dTipos de Juegos:'
       - ' &8▪ &fUnscramble'
       - ' &8▪ &fUnreverse'
       - ' &8▪ &fReaction'
@@ -422,16 +422,16 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#e1a471&lFurniture'
+    display_name: '&#e1a471&lMuebles'
     lore:
-      - "&7You can upgrade your house's look"
-      - '&7with custom furniture that is '
-      - '&7provided in this server!'
+      - "&7Puedes mejorar el aspecto de tu casa"
+      - '&7con custom muebles that is '
+      - '&7¡disponibles en este servidor!'
       - '&7'
-      - '&#e1a471Where to Buy:'
-      - '&8 | &7Furniture Npc in Spawn'
+      - '&#e1a471Dónde Comprar:'
+      - '&8 | &7Npc de Muebles en el Spawn'
       - '&7'
-      - '&#e1a471Total Furniture: &f28'
+      - '&#e1a471Total Muebles: &f28'
     click_commands:
       - "[refresh]"
 
@@ -445,6 +445,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d4a177Previous Page'
+    display_name: '&#d4a177Pagina anterior'
     click_commands:
       - "[openguimenu] guide_1"

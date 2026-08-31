@@ -15,12 +15,12 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&#5ec946&lʙᴀɪᴛꜱ ꜱʜᴏᴘ'
+    display_name: '&#5ec946&lᴛɪᴇɴᴅᴀ ᴅᴇ ᴄᴇʙᴏꜱ'
     lore:
-      - '&7ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ʙᴀɪᴛꜱ ᴛᴏ'
-      - '&7ᴀᴘᴘʟʏ ᴏɴ ʏᴏᴜʀ ꜰɪꜱʜɪɴɢ ʀᴏᴅꜱ'
+      - '&7ᴀǫᴜí ᴘᴜᴇᴅᴇꜱ ᴄᴏᴍᴘʀᴀʀ ᴄᴇʙᴏꜱ ᴘᴀʀᴀ'
+      - '&7ᴀᴘʟɪᴄᴀʀ ᴇɴ ᴛᴜꜱ ᴄᴀñᴀꜱ ᴅᴇ ᴘᴇꜱᴄᴀʀ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʙʀɪʀ'
     click_commands:
       - "[openguimenu] fishing_baits"
 
@@ -37,11 +37,11 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
-    display_name: '&#028bdb&lꜰɪꜱʜᴇꜱ ꜱʜᴏᴘ'
+    display_name: '&#028bdb&lᴘᴇᴄᴇꜱ ᴛɪᴇɴᴅᴀ'
     lore:
-      - '&7ʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ꜱᴇʟʟ ʏᴏᴜʀ'
-      - '&7ᴄᴀᴛᴄʜᴇᴅ ꜰɪꜱʜᴇꜱ ꜰᴏʀ ꜱᴏᴍᴇ ʙᴜᴄᴋꜱ'
+      - '&7ᴀǫᴜɪ ᴘᴜᴇᴅᴇꜱ ᴠᴇɴᴅᴇʀ ᴛᴜ'
+      - '&7ᴘᴇᴄᴇꜱ ᴄᴀᴘᴛᴜʀᴀᴅᴏꜱ ᴘᴏʀ ᴀʟɢᴏ ᴅᴇ ᴅɪɴᴇʀᴏ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʙʀɪʀ'
     click_commands:
       - "[player] emf shop"

@@ -15,8 +15,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴇǫᴜɪᴘ ʏᴏᴜʀꜱᴇʟꜰ ʟɪᴋᴇ ᴀ ᴛʀᴜᴇ ᴡᴀʀʟᴏʀᴅ.'
-      - '&7ꜱᴛʀᴏɴɢ ɢᴇᴀʀ ꜰᴏʀ ꜰɪᴇʀᴄᴇ ʙᴀᴛᴛʟᴇꜱ.'
+      - '&7ᴇǫᴜíᴘᴀᴛᴇ ᴄᴏᴍᴏ ᴜɴ ᴀᴜᴛéɴᴛɪᴄᴏ ᴡᴀʀʟᴏʀᴅ.'
+      - '&7ᴇǫᴜɪᴘᴏ ᴘᴏᴛᴇɴᴛᴇ ᴘᴀʀᴀ ʙᴀᴛᴀʟʟᴀꜱ ꜰᴇʀᴏᴄᴇꜱ.'
 
 
   'warlord_kit_cooldown':
@@ -32,7 +32,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         cooldown:
@@ -56,7 +56,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     click_commands:
       - "[player] essentials:kit warlord"
       - "[close]"
@@ -75,7 +75,7 @@ items:
       - unbreaking;3
       - fire_aspect;1
       - looting;2
-    display_name: '&#cd120a&lWarlord Sword'
+    display_name: '&#cd120a&lEspada de Warlord'
 
   '2':
     material: DIAMOND_HELMET
@@ -85,7 +85,7 @@ items:
       - protection;3
       - unbreaking;3
       - mending;1
-    display_name: '&#cd120a&lWarlord Helmet'
+    display_name: '&#cd120a&lCasco de Warlord'
 
   '3':
     material: DIAMOND_CHESTPLATE
@@ -95,7 +95,7 @@ items:
       - protection;3
       - unbreaking;3
       - mending;1
-    display_name: '&#cd120a&lWarlord Chestplate'
+    display_name: '&#cd120a&lPeto de Warlord'
 
   '4':
     material: DIAMOND_LEGGINGS
@@ -105,7 +105,7 @@ items:
       - protection;3
       - unbreaking;3
       - mending;1
-    display_name: '&#cd120a&lWarlord Leggings'
+    display_name: '&#cd120a&lGrebas de Warlord'
 
   '5':
     material: DIAMOND_BOOTS
@@ -114,7 +114,7 @@ items:
     enchantments:
       - protection;3
       - unbreaking;3
-    display_name: '&#cd120a&lWarlord Boots'
+    display_name: '&#cd120a&lBotas de Warlord'
 
 
   '6':
@@ -125,7 +125,7 @@ items:
       - efficiency;4
       - fortune;2
       - unbreaking;3
-    display_name: '&#cd120a&lWarlord Pickaxe'
+    display_name: '&#cd120a&lPico de Warlord'
 
   '7':
     material: BOW
@@ -135,7 +135,7 @@ items:
       - power;3
       - infinity;1
       - unbreaking;3
-    display_name: '&#cd120a&lWarlord Bow'
+    display_name: '&#cd120a&lArco de Warlord'
 
   '8':
     material: ENCHANTED_GOLDEN_APPLE
@@ -178,7 +178,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] ranked_kits"
 

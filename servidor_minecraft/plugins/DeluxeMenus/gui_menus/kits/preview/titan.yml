@@ -15,8 +15,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ɢʀᴇᴀᴛ ᴘᴏᴡᴇʀ ꜰᴏʀ ᴀ ᴍɪɢʜᴛʏ ᴛɪᴛᴀɴ.'
-      - '&7ɢᴇᴀʀ ᴜᴘ ᴀɴᴅ ꜱᴛᴀɴᴅ ꜱᴛʀᴏɴɢ.'
+      - '&7ɢʀᴀɴ ᴘᴏᴅᴇʀ ᴘᴀʀᴀ ᴜɴ ᴛɪᴛáɴ ᴘᴏᴅᴇʀᴏꜱᴏ.'
+      - '&7ᴇǫᴜíᴘᴀᴛᴇ ʏ ᴍᴀɴᴛᴇɴᴛᴇ ꜰɪʀᴍᴇ.'
 
 
   'titan_kit_cooldown':
@@ -32,7 +32,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         cooldown:
@@ -56,7 +56,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     click_commands:
       - "[player] essentials:kit titan"
       - "[close]"
@@ -76,7 +76,7 @@ items:
       - fire_aspect;2
       - looting;2
       - knockback;2
-    display_name: '&#892bc4&lTitan Sword'
+    display_name: '&#892bc4&lEspada de Titan'
 
   '2':
     material: NETHERITE_HELMET
@@ -86,7 +86,7 @@ items:
       - protection;3
       - unbreaking;3
       - mending;1
-    display_name: '&#892bc4&lTitan Helmet'
+    display_name: '&#892bc4&lCasco de Titan'
 
   '3':
     material: DIAMOND_CHESTPLATE
@@ -96,7 +96,7 @@ items:
       - protection;4
       - unbreaking;3
       - mending;1
-    display_name: '&#892bc4&lTitan Chestplate'
+    display_name: '&#892bc4&lPeto de Titan'
 
   '4':
     material: DIAMOND_LEGGINGS
@@ -106,7 +106,7 @@ items:
       - protection;4
       - unbreaking;3
       - mending;1
-    display_name: '&#892bc4&lTitan Leggings'
+    display_name: '&#892bc4&lGrebas de Titan'
 
   '5':
     material: NETHERITE_BOOTS
@@ -117,7 +117,7 @@ items:
       - unbreaking;3
       - mending;1
       - feather_falling;2
-    display_name: '&#892bc4&lTitan Boots'
+    display_name: '&#892bc4&lBotas de Titan'
 
 
   '6':
@@ -129,7 +129,7 @@ items:
       - fortune;3
       - unbreaking;3
       - mending;1
-    display_name: '&#892bc4&lTitan Pickaxe'
+    display_name: '&#892bc4&lPico de Titan'
 
 
   '7':
@@ -140,7 +140,7 @@ items:
       - efficiency;4
       - silk_touch;1
       - unbreaking;3
-    display_name: '&#892bc4&lTitan Silk Pickaxe'
+    display_name: '&#892bc4&lTitan Toque de seda Pico'
 
 
   '8':
@@ -152,7 +152,7 @@ items:
       - infinity;1
       - unbreaking;3
       - mending;1
-    display_name: '&#892bc4&lTitan Bow'
+    display_name: '&#892bc4&lArco de Titan'
 
   '9':
     material: ENCHANTED_GOLDEN_APPLE
@@ -195,7 +195,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] ranked_kits"
 

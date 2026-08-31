@@ -11,14 +11,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴠᴇɴᴏᴍ'
+    display_name: '&#a55eea&lᴠᴇɴᴇɴᴏ'
     lore:
-      - '&7ᴀᴘᴘʟɪᴇꜱ ᴘᴏɪꜱᴏɴ ᴇꜰꜰᴇᴄᴛ ᴏɴ ᴛᴀʀɢᴇᴛ.'
+      - '&7ᴀᴘʟɪᴄᴀ ᴇꜰᴇᴄᴛᴏ ᴅᴇ ᴠᴇɴᴇɴᴏ ᴀʟ ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea1200 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea1200 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -41,14 +41,14 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴠᴇɴᴏᴍ'
+    display_name: '&#a55eea&lᴠᴇɴᴇɴᴏ'
     lore:
-      - '&7ᴀᴘᴘʟɪᴇꜱ ᴘᴏɪꜱᴏɴ ᴇꜰꜰᴇᴄᴛ ᴏɴ ᴛᴀʀɢᴇᴛ.'
+      - '&7ᴀᴘʟɪᴄᴀ ᴇꜰᴇᴄᴛᴏ ᴅᴇ ᴠᴇɴᴇɴᴏ ᴀʟ ᴏʙᴊᴇᴛɪᴠᴏ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea2'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2300 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea2'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2300 Sᴏᴜʟꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -73,6 +73,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] enchants_weapon"

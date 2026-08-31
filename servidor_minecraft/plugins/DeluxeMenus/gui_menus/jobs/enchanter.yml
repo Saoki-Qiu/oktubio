@@ -14,8 +14,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ʙʀᴇᴡᴇʀ ᴊᴏʙ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴀʟǫᴜɪᴍɪꜱᴛᴀ ᴛʀᴀʙᴀᴊᴏ'
     click_commands:
       - "[openguimenu] brewer_job"
 
@@ -30,8 +30,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ʟᴜᴍʙᴇʀᴊᴀᴄᴋ ᴊᴏʙ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ʟᴇñᴀᴅᴏʀ ᴛʀᴀʙᴀᴊᴏ'
     click_commands:
       - "[openguimenu] lumberjack_job"
 
@@ -46,8 +46,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴅɪɢɢᴇʀ ᴊᴏʙ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴇxᴄᴀᴠᴀᴅᴏʀ ᴛʀᴀʙᴀᴊᴏ'
     click_commands:
       - "[openguimenu] digger_job"
 
@@ -62,8 +62,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴇɴᴄʜᴀɴᴛᴇʀ ᴊᴏʙ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴇɴᴄᴀɴᴛᴀᴅᴏʀ ᴛʀᴀʙᴀᴊᴏ'
     click_commands:
       - "[refresh]"
 
@@ -78,8 +78,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ᴇxᴘʟᴏʀᴇʀ ᴊᴏʙ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴇxᴘʟᴏʀᴀᴅᴏʀ ᴛʀᴀʙᴀᴊᴏ'
     click_commands:
       - "[openguimenu] explorer_job"
 
@@ -94,8 +94,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ꜰᴀʀᴍᴇʀ ᴊᴏʙ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴛʀᴀʙᴀᴊᴏ ᴅᴇ ɢʀᴀɴᴊᴇʀᴏ'
     click_commands:
       - "[openguimenu] farmer_job"
 
@@ -110,8 +110,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
-      - '&7ꜰɪꜱʜᴇʀᴍᴀɴ ᴊᴏʙ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
+      - '&7ᴘᴇꜱᴄᴀᴅᴏʀ ᴛʀᴀʙᴀᴊᴏ'
     click_commands:
       - "[openguimenu] fisherman_job"
 
@@ -124,10 +124,10 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#7e84a8&lɴᴇxᴛ ᴘᴀɢᴇ →'
+    display_name: '&#7e84a8&lᴘᴀɢɪɴᴀ ꜱɪɢᴜɪᴇɴᴛᴇ →'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ɢᴏ ᴛᴏ'
-      - '&7ᴛʜᴇ ɴᴇxᴛ ᴊᴏʙ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ɪʀ ᴀ'
+      - '&7ᴇʟ ꜱɪɢᴜɪᴇɴᴛᴇ ᴛʀᴀʙᴀᴊᴏ'
     click_commands:
       - "[openguimenu] explorer_job"
 
@@ -140,10 +140,10 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#7e84a8&l← ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ'
+    display_name: '&#7e84a8&l← ᴘᴀɢɪɴᴀ ᴀɴᴛᴇʀɪᴏʀ'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ɢᴏ ᴛᴏ'
-      - '&7ᴛʜᴇ ᴘʀᴇᴠɪᴏᴜꜱ ᴘᴀɢᴇ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ɪʀ ᴀ'
+      - '&7ʟᴀ ᴘᴀɢɪɴᴀ ᴀɴᴛᴇʀɪᴏʀ'
     click_commands:
       - "[openguimenu] digger_job"
 
@@ -178,17 +178,17 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&#9a9a9aᴇᴀʀɴ ᴍᴏɴᴇʏ ʙʏ ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '&#9a9a9aᴡᴇᴀᴘᴏɴꜱ ᴀɴᴅ ᴀʀᴍᴏʀ'
+      - '&#9a9a9aɢᴀɴᴀʀ ᴅɪɴᴇʀᴏ ᴘᴏʀ Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '&#9a9a9aᴀʀᴍᴀꜱ ʏ ᴀʀᴍᴀᴅᴜʀᴀ'
       - ''
-      - '&8▪ &7ᴡᴏʀᴋᴇʀꜱ: &e%jobsr_totalplayers_enchanter%'
-      - '&8▪ &7ʟᴇᴠᴇʟ: &b%jobsr_user_jlevel_enchanter%/%jobsr_user_jmaxlvl_enchanter%'
+      - '&8▪ &7ᴛʀᴀʙᴀᴊᴀᴅᴏʀᴇꜱ: &e%jobsr_totalplayers_enchanter%'
+      - '&8▪ &7ɴɪᴠᴇʟ: &b%jobsr_user_jlevel_enchanter%/%jobsr_user_jmaxlvl_enchanter%'
       - ''
-      - '&8▪ &7ᴘʀᴏɢʀᴇꜱꜱ ᴛᴏ ɴᴇxᴛ ʟᴇᴠᴇʟ: '
+      - '&8▪ &7ᴘʀᴏɢʀᴇꜱᴏ ᴀʟ ꜱɪɢᴜɪᴇɴᴛᴇ ɴɪᴠᴇʟ: '
       - '  &f%progress_bar_{jobsr_user_jexp_enchanter}_c:&f_p:&f_r:&f_l:8_m:{jobsr_user_jmaxexp_enchanter}_fullbar:&f%'
       - '  &#76b742%jobsr_user_jexp_enchanter%&8/%jobsr_user_jmaxexp_enchanter%'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴊᴏɪɴ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴜɴɪʀᴛᴇ'
     click_commands:
       - "[player] jobs:jobs join enchanter"
       - "[refresh]"
@@ -216,17 +216,17 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&#9a9a9aᴇᴀʀɴ ᴍᴏɴᴇʏ ʙʏ ᴇɴᴄʜᴀɴᴛɪɴɢ'
-      - '&#9a9a9aᴡᴇᴀᴘᴏɴꜱ ᴀɴᴅ ᴀʀᴍᴏʀ'
+      - '&#9a9a9aɢᴀɴᴀʀ ᴅɪɴᴇʀᴏ ᴘᴏʀ Eɴᴄᴀɴᴛᴀᴅᴏʀ'
+      - '&#9a9a9aᴀʀᴍᴀꜱ ʏ ᴀʀᴍᴀᴅᴜʀᴀ'
       - ''
-      - '&8▪ &7ᴡᴏʀᴋᴇʀꜱ: &e%jobsr_totalplayers_enchanter%'
-      - '&8▪ &7ʟᴇᴠᴇʟ: &b%jobsr_user_jlevel_enchanter%/%jobsr_user_jmaxlvl_enchanter%'
+      - '&8▪ &7ᴛʀᴀʙᴀᴊᴀᴅᴏʀᴇꜱ: &e%jobsr_totalplayers_enchanter%'
+      - '&8▪ &7ɴɪᴠᴇʟ: &b%jobsr_user_jlevel_enchanter%/%jobsr_user_jmaxlvl_enchanter%'
       - ''
-      - '&8▪ &7ᴘʀᴏɢʀᴇꜱꜱ ᴛᴏ ɴᴇxᴛ ʟᴇᴠᴇʟ: '
+      - '&8▪ &7ᴘʀᴏɢʀᴇꜱᴏ ᴀʟ ꜱɪɢᴜɪᴇɴᴛᴇ ɴɪᴠᴇʟ: '
       - '  &f%progress_bar_{jobsr_user_jexp_enchanter}_c:&f_p:&f_r:&f_l:8_m:{jobsr_user_jmaxexp_enchanter}_fullbar:&f%'
       - '  &#76b742%jobsr_user_jexp_enchanter%&8/%jobsr_user_jmaxexp_enchanter%'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ʟᴇᴀᴠᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ꜱᴀʟɪʀ'
     view_requirement:
       requirements:
         permission1:
@@ -253,12 +253,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#f9a31b&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ'
+    display_name: '&#f9a31b&lɪɴꜰᴏʀᴍᴀᴄɪᴏɴ'
     lore:
-      - '&7ᴠɪᴇᴡ ᴀʟʟ ᴛʜᴇ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ'
-      - '&7ᴀʙᴏᴜᴛ ᴇɴᴄʜᴀɴᴛᴇʀ ᴊᴏʙ ʜᴇʀᴇ'
+      - '&7ᴠᴇʀ ᴛᴏᴅᴀ ʟᴀ ɪɴꜰᴏʀᴍᴀᴄɪᴏɴ'
+      - '&7ꜱᴏʙʀᴇ ᴇɴᴄᴀɴᴛᴀᴅᴏʀ ᴛʀᴀʙᴀᴊᴏ ᴀǫᴜɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
     click_commands:
       - "[openguimenu] job_info"
 
@@ -275,12 +275,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#14a02e&lᴊᴏɪɴ ᴛʜᴇ ᴊᴏʙ'
+    display_name: '&#14a02e&lᴜɴɪʀꜱᴇ ᴀʟ ᴛʀᴀʙᴀᴊᴏ'
     lore:
-      - '&7ᴊᴏɪɴ ᴛʜᴇ ᴊᴏʙ ᴛᴏ ᴇᴀʀɴ'
-      - '&7ʙʏ ᴇɴᴄʜᴀɴᴛɪɴɢ'
+      - '&7ᴜɴᴇᴛᴇ ᴀʟ ᴛʀᴀʙᴀᴊᴏ ᴘᴀʀᴀ ɢᴀɴᴀʀ'
+      - '&7ᴘᴏʀ Eɴᴄᴀɴᴛᴀᴅᴏʀ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴊᴏɪɴ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴜɴɪʀᴛᴇ'
     click_commands:
       - "[player] jobs:jobs join enchanter"
       - "[refresh]"
@@ -296,12 +296,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#14a02e&lʟᴇᴀᴠᴇ ᴛʜᴇ ᴊᴏʙ'
+    display_name: '&#14a02e&lᴀʙᴀɴᴅᴏɴᴀʀ ᴇʟ ᴛʀᴀʙᴀᴊᴏ'
     lore:
-      - '&7ʟᴇᴀᴠᴇ ᴛʜᴇ ᴊᴏʙ ᴛᴏ ɴᴏᴛ ᴇᴀʀɴ'
-      - '&7ʙʏ ᴇɴᴄʜᴀɴᴛɪɴɢ'
+      - '&7ᴀʙᴀɴᴅᴏɴᴀ ᴇʟ ᴛʀᴀʙᴀᴊᴏ ᴘᴀʀᴀ ɴᴏ ɢᴀɴᴀʀ'
+      - '&7ᴘᴏʀ Eɴᴄᴀɴᴛᴀᴅᴏʀ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ʟᴇᴀᴠᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ꜱᴀʟɪʀ'
     view_requirement:
       requirements:
         permission1:
@@ -323,12 +323,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#14a02e&lʟᴇᴀᴠᴇ ᴛʜᴇ ᴊᴏʙ'
+    display_name: '&#14a02e&lᴀʙᴀɴᴅᴏɴᴀʀ ᴇʟ ᴛʀᴀʙᴀᴊᴏ'
     lore:
-      - '&7ʟᴇᴀᴠᴇ ᴛʜᴇ ᴊᴏʙ ᴛᴏ ɴᴏᴛ ᴇᴀʀɴ'
-      - '&7ʙʏ ᴇɴᴄʜᴀɴᴛɪɴɢ'
+      - '&7ᴀʙᴀɴᴅᴏɴᴀ ᴇʟ ᴛʀᴀʙᴀᴊᴏ ᴘᴀʀᴀ ɴᴏ ɢᴀɴᴀʀ'
+      - '&7ᴘᴏʀ Eɴᴄᴀɴᴛᴀᴅᴏʀ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ʟᴇᴀᴠᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ꜱᴀʟɪʀ'
     view_requirement:
       requirements:
         permission1:
@@ -351,11 +351,11 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#df3e23&lꜱʜᴏᴘ'
+    display_name: '&#df3e23&lᴛɪᴇɴᴅᴀ'
     lore:
-      - '&7ᴠɪᴇᴡ ᴛʜᴇ ꜱʜᴏᴘ ᴛᴏ ʙᴜʏ'
-      - '&7ɪᴛᴇᴍꜱ ᴡɪᴛʜ ᴊᴏʙꜱ ᴘᴏɪɴᴛꜱ'
+      - '&7ᴠᴇʀ ʟᴀ ᴛɪᴇɴᴅᴀ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
+      - '&7ᴏʙᴊᴇᴛᴏꜱ ᴄᴏɴ ᴘᴜɴᴛᴏꜱ ᴅᴇ ᴛʀᴀʙᴀᴊᴏ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴠɪᴇᴡ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴠᴇʀ'
     click_commands:
       - "[openguimenu] job_shop"

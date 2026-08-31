@@ -20,14 +20,14 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#f4a42b&lʏᴏᴜʀ ᴘᴀꜱꜱ'
+    display_name: '&#f4a42b&lᴛᴜ ᴘᴀꜱᴇ'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ'
       - ''
-      - ' &8▪ &fᴘᴀꜱꜱ ᴛʏᴘᴇ: &f'
-      - ' &8▪ &fᴄᴜʀʀᴇɴᴛ ᴛɪᴇʀ: &#f3b04b%rp_battlepass_tier%'
-      - ' &8▪ &fǫᴜᴇꜱᴛꜱ ᴅᴏɴᴇ: &#f3b04b%quests_player_completed_quest_amount%'
+      - ' &8▪ &fᴛɪᴘᴏ ᴅᴇ ᴘᴀꜱᴇ:&f'
+      - ' &8▪ &fᴀᴄᴛᴜᴀʟ ɴɪᴠᴇʟ: &#f3b04b%rp_battlepass_tier%'
+      - ' &8▪ &fᴍɪꜱɪᴏɴᴇꜱ ʜᴇᴄʜᴀꜱ:&#f3b04b%quests_player_completed_quest_amount%'
     view_requirement:
       requirements:
         permission:
@@ -48,14 +48,14 @@ items:
     item_flags:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS
-    display_name: '&#f4a42b&lʏᴏᴜʀ ᴘᴀꜱꜱ'
+    display_name: '&#f4a42b&lᴛᴜ ᴘᴀꜱᴇ'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ǫᴜᴇꜱᴛꜱ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ꜰʀᴇᴇ ᴀɴᴅ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀ ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ɢʀᴀᴛɪꜱ ʏ ᴘʀᴇᴍɪᴜᴍ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ'
       - ''
-      - ' &8▪ &fᴘᴀꜱꜱ ᴛʏᴘᴇ: &f'
-      - ' &8▪ &fᴄᴜʀʀᴇɴᴛ ᴛɪᴇʀ: &#59c55b%rp_battlepass_tier%'
-      - ' &8▪ &fǫᴜᴇꜱᴛꜱ ᴅᴏɴᴇ: &#59c55b%quests_player_completed_quest_amount%'
+      - ' &8▪ &fᴛɪᴘᴏ ᴅᴇ ᴘᴀꜱᴇ:&f'
+      - ' &8▪ &fᴀᴄᴛᴜᴀʟ ɴɪᴠᴇʟ: &#59c55b%rp_battlepass_tier%'
+      - ' &8▪ &fᴍɪꜱɪᴏɴᴇꜱ ʜᴇᴄʜᴀꜱ:&#59c55b%quests_player_completed_quest_amount%'
 
   'rewards':
     material: PAPER
@@ -70,11 +70,11 @@ items:
       - HIDE_ENCHANTS
     display_name: '&f'
     lore:
-      - '&7ᴄʟᴀɪᴍ ʏᴏᴜʀ ʀᴇᴡᴀʀᴅꜱ'
-      - '&7ᴜɴʟᴏᴄᴋᴇᴅ ᴛʜʀᴏᴜɢʜ'
-      - '&7ᴄᴏᴍᴘʟᴇᴛɪɴɢ ǫᴜᴇꜱᴛꜱ'
+      - '&7ʀᴇᴄʟᴀᴍᴀʀ ᴛᴜ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ'
+      - '&7ᴅᴇꜱʙʟᴏǫᴜᴇᴀᴅᴏ ᴍᴇᴅɪᴀɴᴛᴇ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴍɪꜱɪᴏɴᴇꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʙʀɪʀ'
     click_commands:
       - "[openguimenu] battlepass_rewards_1"
 
@@ -91,11 +91,11 @@ items:
       - HIDE_ENCHANTS
     display_name: '&f'
     lore:
-      - '&7ᴄᴏᴍᴘʟᴇᴛᴇ ʙᴀᴛᴛʟᴇᴘᴀꜱꜱ'
-      - '&7ǫᴜᴇꜱᴛꜱ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ᴠᴀʀɪᴏᴜꜱ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴄᴏᴍᴘʟᴇᴛᴀʀ ᴘᴀꜱᴇ ᴅᴇ ʙᴀᴛᴀʟʟᴀ'
+      - '&7ᴍɪꜱɪᴏɴᴇꜱ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ᴠᴀʀɪᴀꜱ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀʙʀɪʀ'
     click_commands:
       - "[openguimenu] battlepass_quests_1"
 
@@ -113,11 +113,11 @@ items:
       - HIDE_ENCHANTS
     display_name: '&f'
     lore:
-      - '&7ᴜᴘɢʀᴀᴅᴇ ʏᴏᴜʀ ʙᴀᴛᴛʟᴇᴘᴀꜱꜱ'
-      - '&7ᴛᴏ ᴘʀᴇᴍɪᴜᴍ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴍᴇᴊᴏʀᴀʀ ᴛᴜ ᴘᴀꜱᴇ ᴅᴇ ʙᴀᴛᴀʟʟᴀ'
+      - '&7ᴀ ᴘʀᴇᴍɪᴜᴍ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ᴘʀᴇᴍɪᴜᴍ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴜᴘɢʀᴀᴅᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴍᴇᴊᴏʀᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -140,11 +140,11 @@ items:
       - HIDE_ENCHANTS
     display_name: '&f'
     lore:
-      - '&7ᴜᴘɢʀᴀᴅᴇ ʏᴏᴜʀ ʙᴀᴛᴛʟᴇᴘᴀꜱꜱ'
-      - '&7ᴛᴏ ᴘʀᴇᴍɪᴜᴍ ᴛᴏ ᴜɴʟᴏᴄᴋ'
-      - '&7ᴘʀᴇᴍɪᴜᴍ ʀᴇᴡᴀʀᴅꜱ'
+      - '&7ᴍᴇᴊᴏʀᴀʀ ᴛᴜ ᴘᴀꜱᴇ ᴅᴇ ʙᴀᴛᴀʟʟᴀ'
+      - '&7ᴀ ᴘʀᴇᴍɪᴜᴍ ᴘᴀʀᴀ ᴅᴇꜱʙʟᴏǫᴜᴇᴀʀ'
+      - '&7ᴘʀᴇᴍɪᴜᴍ ʀᴇᴄᴏᴍᴘᴇɴꜱᴀꜱ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴜᴘɢʀᴀᴅᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴍᴇᴊᴏʀᴀʀ'
     click_commands:
       - "[message] &f &eᴘᴜʀᴄʜᴀꜱᴇ ᴛʜᴇ ᴘʀᴇᴍɪᴜᴍ ᴘᴀꜱꜱ ᴀᴛ %rp_store%"
       - "[close]"

@@ -13,12 +13,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴛʀᴀᴅᴇ ʀᴇǫᴜᴇꜱᴛ'
+    display_name: '&b&lɪɴᴛᴇʀᴄᴀᴍʙɪᴏ ꜱᴏʟɪᴄɪᴛᴜᴅ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴛʀᴀᴅᴇ'
-      - '&7ɪꜱ ᴅɪꜱᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ɪɴᴛᴇʀᴄᴀᴍʙɪᴏ'
+      - '&7ᴇꜱᴛá ᴅᴇꜱᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇɴᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -38,12 +38,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴛʀᴀᴅᴇ ʀᴇǫᴜᴇꜱᴛ'
+    display_name: '&b&lɪɴᴛᴇʀᴄᴀᴍʙɪᴏ ꜱᴏʟɪᴄɪᴛᴜᴅ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴛʀᴀᴅᴇ'
-      - '&7ɪꜱ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ɪɴᴛᴇʀᴄᴀᴍʙɪᴏ'
+      - '&7ᴇꜱᴛá ᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴅɪꜱᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴅᴇꜱᴀᴄᴛɪᴠᴀʀ'
     click_commands:
       - "[console] lp user %player_name% permission set settings.trade.disabled true"
       - "[player] axtrade toggle"
@@ -61,10 +61,10 @@ items:
     update: true
     display_name: '&b&lᴄʜᴀᴛɢᴀᴍᴇꜱ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴄʜᴀᴛɢᴀᴍᴇꜱ'
-      - '&7ᴀʀᴇ ᴅɪꜱᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴄʜᴀᴛɢᴀᴍᴇꜱ'
+      - '&7ᴇꜱᴛáɴ ᴅᴇꜱᴀᴄᴛɪᴠᴀᴅᴏꜱ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇɴᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -86,10 +86,10 @@ items:
     update: true
     display_name: '&b&lᴄʜᴀᴛɢᴀᴍᴇꜱ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴄʜᴀᴛɢᴀᴍᴇꜱ'
-      - '&7ᴀʀᴇ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴄʜᴀᴛɢᴀᴍᴇꜱ'
+      - '&7ᴇꜱᴛáɴ ᴀᴄᴛɪᴠᴀᴅᴏꜱ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴅɪꜱᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴅᴇꜱᴀᴄᴛɪᴠᴀʀ'
     click_commands:
       - "[console] lp user %player_name% permission set settings.chatgames.disabled true"
       - "[player] chatgame toggle"
@@ -107,10 +107,10 @@ items:
     update: true
     display_name: '&b&lᴀᴜᴛᴏ ᴛᴏᴏʟꜱ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴀᴜᴛᴏ ᴛᴏᴏʟꜱ'
-      - '&7ɪꜱ ᴅɪꜱᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴀᴜᴛᴏ ᴛᴏᴏʟꜱ'
+      - '&7ᴇꜱᴛá ᴅᴇꜱᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇɴᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -133,10 +133,10 @@ items:
     update: true
     display_name: '&b&lᴀᴜᴛᴏ ᴛᴏᴏʟꜱ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴀᴜᴛᴏ ᴛᴏᴏʟꜱ'
-      - '&7ɪꜱ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴀᴜᴛᴏ ᴛᴏᴏʟꜱ'
+      - '&7ᴇꜱᴛá ᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴅɪꜱᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴅᴇꜱᴀᴄᴛɪᴠᴀʀ'
     click_commands:
       - "[console] lp user %player_name% permission set settings.autotools.disabled true"
       - "[message] &f &#648DC1ᴀᴜᴛᴏ ᴛᴏᴏʟꜱ ʜᴀꜱ ʙᴇᴇɴ ᴅɪꜱᴀʙʟᴇᴅ."
@@ -153,12 +153,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴛᴇʟᴇᴘᴏʀᴛ ʀᴇǫᴜᴇꜱᴛ'
+    display_name: '&b&lᴛᴇʟᴇᴛʀᴀɴꜱᴘᴏʀᴛᴇ ꜱᴏʟɪᴄɪᴛᴜᴅ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴛᴘ ʀᴇǫᴜᴇꜱᴛ'
-      - '&7ɪꜱ ᴅɪꜱᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ꜱᴏʟɪᴄɪᴛᴜᴅ ᴅᴇ ᴛᴘ'
+      - '&7ᴇꜱᴛá ᴅᴇꜱᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇɴᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         check:
@@ -181,12 +181,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴛᴇʟᴇᴘᴏʀᴛ ʀᴇǫᴜᴇꜱᴛ'
+    display_name: '&b&lᴛᴇʟᴇᴛʀᴀɴꜱᴘᴏʀᴛᴇ ꜱᴏʟɪᴄɪᴛᴜᴅ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴛᴘ ʀᴇǫᴜᴇꜱᴛ'
-      - '&7ɪꜱ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ꜱᴏʟɪᴄɪᴛᴜᴅ ᴅᴇ ᴛᴘ'
+      - '&7ᴇꜱᴛá ᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴅɪꜱᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴅᴇꜱᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -205,12 +205,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴛᴇʟᴇᴘᴏʀᴛ ʀᴇǫᴜᴇꜱᴛ'
+    display_name: '&b&lᴛᴇʟᴇᴛʀᴀɴꜱᴘᴏʀᴛᴇ ꜱᴏʟɪᴄɪᴛᴜᴅ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴛᴘ ʀᴇǫᴜᴇꜱᴛ'
-      - '&7ɪꜱ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ꜱᴏʟɪᴄɪᴛᴜᴅ ᴅᴇ ᴛᴘ'
+      - '&7ᴇꜱᴛá ᴀᴄᴛɪᴠᴀᴅᴏ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&cʀᴇǫᴜɪʀᴇꜱ ᴀ ʀᴀɴᴋ'
+      - '&cʀᴇǫᴜɪᴇʀᴇ ᴜɴ ʀᴀɴɢᴏ'
     click_commands:
       - "[message] &f &cʏᴏᴜ ɴᴇᴇᴅ ᴀ ʀᴀɴᴋ ᴛᴏ ᴛᴏɢɢʟᴇ ꜱᴇᴛᴛɪɴɢ"
       - "[refresh]"
@@ -226,12 +226,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴘʀɪᴠᴀᴛᴇ ᴍᴇꜱꜱᴀɢᴇꜱ'
+    display_name: '&b&lᴍᴇɴꜱᴀᴊᴇꜱ ᴘʀɪᴠᴀᴅᴏꜱ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴘʀɪᴠᴀᴛᴇ ᴍᴇꜱꜱᴀɢᴇꜱ'
-      - '&7ᴀʀᴇ ᴅɪꜱᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴍᴇɴꜱᴀᴊᴇꜱ ᴘʀɪᴠᴀᴅᴏꜱ'
+      - '&7ᴇꜱᴛáɴ ᴅᴇꜱᴀᴄᴛɪᴠᴀᴅᴏꜱ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴇɴᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -254,12 +254,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴘʀɪᴠᴀᴛᴇ ᴍᴇꜱꜱᴀɢᴇꜱ'
+    display_name: '&b&lᴍᴇɴꜱᴀᴊᴇꜱ ᴘʀɪᴠᴀᴅᴏꜱ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴘʀɪᴠᴀᴛᴇ ᴍᴇꜱꜱᴀɢᴇꜱ'
-      - '&7ᴀʀᴇ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴍᴇɴꜱᴀᴊᴇꜱ ᴘʀɪᴠᴀᴅᴏꜱ'
+      - '&7ᴇꜱᴛáɴ ᴀᴄᴛɪᴠᴀᴅᴏꜱ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴅɪꜱᴀʙʟᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴅᴇꜱᴀᴄᴛɪᴠᴀʀ'
     view_requirement:
       requirements:
         permission:
@@ -279,12 +279,12 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&b&lᴘʀɪᴠᴀᴛᴇ ᴍᴇꜱꜱᴀɢᴇꜱ'
+    display_name: '&b&lᴍᴇɴꜱᴀᴊᴇꜱ ᴘʀɪᴠᴀᴅᴏꜱ'
     lore:
-      - '&7ᴄᴜʀʀᴇɴᴛʟʏ ᴘʀɪᴠᴀᴛᴇ ᴍᴇꜱꜱᴀɢᴇꜱ'
-      - '&7ᴀʀᴇ ᴇɴᴀʙʟᴇᴅ ꜰᴏʀ ʏᴏᴜ'
+      - '&7ᴀᴄᴛᴜᴀʟᴍᴇɴᴛᴇ ᴍᴇɴꜱᴀᴊᴇꜱ ᴘʀɪᴠᴀᴅᴏꜱ'
+      - '&7ᴇꜱᴛáɴ ᴀᴄᴛɪᴠᴀᴅᴏꜱ ᴘᴀʀᴀ ᴛɪ'
       - ''
-      - '&cʀᴇǫᴜɪʀᴇꜱ ᴀ ʀᴀɴᴋ'
+      - '&cʀᴇǫᴜɪᴇʀᴇ ᴜɴ ʀᴀɴɢᴏ'
     click_commands:
       - "[message] &f &cʏᴏᴜ ɴᴇᴇᴅ ᴀ ʀᴀɴᴋ ᴛᴏ ᴛᴏɢɢʟᴇ ꜱᴇᴛᴛɪɴɢ"
       - "[refresh]"
@@ -302,10 +302,10 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#7e84a8&lꜱᴄʀᴏʟʟ ᴜᴘ ↑'
+    display_name: '&#7e84a8&lꜱᴜʙɪʀ ↑'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ꜱᴄʀᴏʟʟ ᴜᴘ'
-      - '&7ᴛᴏ ꜰɪʀꜱᴛ ᴘᴀɢᴇ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ꜱᴜʙɪʀ'
+      - '&7ᴀ ʟᴀ ᴘʀɪᴍᴇʀᴀ ᴘáɢɪɴᴀ'
     click_commands:
       - "[openguimenu] settings_1"
   'scrolldown':
@@ -317,9 +317,9 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#7e84a8&lꜱᴄʀᴏʟʟ ᴅᴏᴡɴ ↓'
+    display_name: '&#7e84a8&lʙᴀᴊᴀʀ ↓'
     lore:
-      - '&7ᴄʟɪᴄᴋ ᴛᴏ ꜱᴄʀᴏʟʟ ᴅᴏᴡɴ'
-      - '&7ᴛᴏ ᴛʜɪʀᴅ ᴘᴀɢᴇ'
+      - '&7ᴄʟɪᴄ ᴘᴀʀᴀ ʙᴀᴊᴀʀ'
+      - '&7ᴀ ʟᴀ ᴛᴇʀᴄᴇʀᴀ ᴘáɢɪɴᴀ'
     click_commands:
       - "[openguimenu] settings_3"

@@ -11,19 +11,19 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴇʟᴇᴄᴛʀɪꜰɪᴇᴅ ᴀʀʀᴏᴡꜱ'
+    display_name: '&#a55eea&lꜰʟᴇᴄʜᴀꜱ ᴇʟᴇᴄᴛʀɪꜰɪᴄᴀᴅᴀꜱ'
     lore:
-      - '&7ꜱᴜᴍᴍᴏɴꜱ ʟɪɢʜᴛɴɪɴɢ ᴏɴ ʜɪᴛ.'
+      - '&7ɪɴᴠᴏᴄᴀ ʀᴀʏᴏ ᴇɴ ɢᴏʟᴘᴇ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea1'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea2500 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea1'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea2500 Sᴏᴜʟꜱ'
       - ''
-      - '&8▪ &fᴄᴏɴꜰʟɪᴄᴛꜱ ᴡɪᴛʜ:'
-      - '   &c✘&7 ᴇɴᴅᴇʀʙᴏᴡ'
+      - '&8▪ &fɪɴᴄᴏᴍᴘᴀᴛɪʙʟᴇ ᴄᴏɴ:'
+      - '   &c✘&7 ᴀʀᴄᴏ ᴇɴᴅᴇʀ'
       - '   &c✘&7 ɢʜᴀꜱᴛ'
-      - '   &c✘&7 ʙᴏᴍʙᴇʀ'
+      - '   &c✘&7 ʙᴏᴍʙᴀʀᴅᴇʀᴏ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -46,19 +46,19 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴇʟᴇᴄᴛʀɪꜰɪᴇᴅ ᴀʀʀᴏᴡꜱ'
+    display_name: '&#a55eea&lꜰʟᴇᴄʜᴀꜱ ᴇʟᴇᴄᴛʀɪꜰɪᴄᴀᴅᴀꜱ'
     lore:
-      - '&7ꜱᴜᴍᴍᴏɴꜱ ʟɪɢʜᴛɴɪɴɢ ᴏɴ ʜɪᴛ.'
+      - '&7ɪɴᴠᴏᴄᴀ ʀᴀʏᴏ ᴇɴ ɢᴏʟᴘᴇ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea2'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea4300 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea2'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea4300 Sᴏᴜʟꜱ'
       - ''
-      - '&8▪ &fᴄᴏɴꜰʟɪᴄᴛꜱ ᴡɪᴛʜ:'
-      - '   &c✘&7 ᴇɴᴅᴇʀʙᴏᴡ'
+      - '&8▪ &fɪɴᴄᴏᴍᴘᴀᴛɪʙʟᴇ ᴄᴏɴ:'
+      - '   &c✘&7 ᴀʀᴄᴏ ᴇɴᴅᴇʀ'
       - '   &c✘&7 ɢʜᴀꜱᴛ'
-      - '   &c✘&7 ʙᴏᴍʙᴇʀ'
+      - '   &c✘&7 ʙᴏᴍʙᴀʀᴅᴇʀᴏ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -81,19 +81,19 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#a55eea&lᴇʟᴇᴄᴛʀɪꜰɪᴇᴅ ᴀʀʀᴏᴡꜱ'
+    display_name: '&#a55eea&lꜰʟᴇᴄʜᴀꜱ ᴇʟᴇᴄᴛʀɪꜰɪᴄᴀᴅᴀꜱ'
     lore:
-      - '&7ꜱᴜᴍᴍᴏɴꜱ ʟɪɢʜᴛɴɪɴɢ ᴏɴ ʜɪᴛ.'
+      - '&7ɪɴᴠᴏᴄᴀ ʀᴀʏᴏ ᴇɴ ɢᴏʟᴘᴇ.'
       - ''
-      - '&8▪ &fʟᴇᴠᴇʟꜱ: &#a55eea3'
-      - '&8▪ &fᴘʀɪᴄᴇ: &#a55eea6800 Souls'
+      - '&8▪ &fɴɪᴠᴇʟᴇꜱ: &#a55eea3'
+      - '&8▪ &fᴘʀᴇᴄɪᴏ: &#a55eea6800 Sᴏᴜʟꜱ'
       - ''
-      - '&8▪ &fᴄᴏɴꜰʟɪᴄᴛꜱ ᴡɪᴛʜ:'
-      - '   &c✘&7 ᴇɴᴅᴇʀʙᴏᴡ'
+      - '&8▪ &fɪɴᴄᴏᴍᴘᴀᴛɪʙʟᴇ ᴄᴏɴ:'
+      - '   &c✘&7 ᴀʀᴄᴏ ᴇɴᴅᴇʀ'
       - '   &c✘&7 ɢʜᴀꜱᴛ'
-      - '   &c✘&7 ʙᴏᴍʙᴇʀ'
+      - '   &c✘&7 ʙᴏᴍʙᴀʀᴅᴇʀᴏ'
       - ''
-      - '&f &eᴄʟɪᴄᴋ ᴛᴏ ᴘᴜʀᴄʜᴀꜱᴇ'
+      - '&f &eᴄʟɪᴄ ᴘᴀʀᴀ ᴄᴏᴍᴘʀᴀʀ'
     click_requirement:
       requirements:
         money:
@@ -118,6 +118,6 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] enchants_bow"

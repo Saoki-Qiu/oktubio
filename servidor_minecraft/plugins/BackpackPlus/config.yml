@@ -1,5 +1,5 @@
 # All languages are in the folder: localization, to add a language simply duplicate an already existing one and rename it
-language: eng
+language: es
 # Shows debug logs (may spam)
 debug: false
 # To enable cache logs, 'debug' must be set to true, otherwise they will not be visible anyway

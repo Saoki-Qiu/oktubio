@@ -14,8 +14,8 @@ items:
     update: true
     display_name: '&f'
     lore:
-      - '&7ʀᴇᴀᴅʏ ꜰᴏʀ ᴍɪɴɪɴɢ ᴀᴅᴠᴇɴᴛᴜʀᴇꜱ.'
-      - '&7ꜰɪɴᴅ ᴛʀᴇᴀꜱᴜʀᴇꜱ ᴀɴᴅ ʀᴇꜱᴏᴜʀᴄᴇꜱ ǫᴜɪᴄᴋʟʏ!'
+      - '&7ʟɪꜱᴛᴏ ᴘᴀʀᴀ ᴀᴠᴇɴᴛᴜʀᴀꜱ ᴍɪɴᴇʀᴀꜱ.'
+      - '&7¡ᴇɴᴄᴜᴇɴᴛʀᴀ ᴛᴇꜱᴏʀᴏꜱ ʏ ʀᴇᴄᴜʀꜱᴏꜱ ʀáᴘɪᴅᴏ!'
 
 
   'miner_kit_cooldown':
@@ -31,7 +31,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     view_requirement:
       requirements:
         cooldown:
@@ -55,7 +55,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#52b04c&lᴄʟɪᴄᴋ ᴛᴏ ᴄʟᴀɪᴍ'
+    display_name: '&#52b04c&lᴄʟɪᴄ ᴘᴀʀᴀ ʀᴇᴄʟᴀᴍᴀʀ'
     click_commands:
       - "[player] essentials:kit miner"
       - "[close]"
@@ -72,7 +72,7 @@ items:
     enchantments:
       - efficiency;1
       - unbreaking;1
-    display_name: '&#5b617eMiner Pickaxe'
+    display_name: '&#5b617eMinero Pico'
 
   '2':
     material: IRON_PICKAXE
@@ -80,7 +80,7 @@ items:
     slot: 13
     enchantments:
       - efficiency;1
-    display_name: '&#5b617eMiner Pickaxe'
+    display_name: '&#5b617eMinero Pico'
 
   '3':
     material: IRON_SHOVEL
@@ -88,13 +88,13 @@ items:
     slot: 14
     enchantments:
       - unbreaking;1
-    display_name: '&#5b617eMiner Shovel'
+    display_name: '&#5b617eMinero Pala'
 
   '4':
     material: STONE_SWORD
     amount: 1
     slot: 15
-    display_name: '&#5b617eMiner Sword'
+    display_name: '&#5b617eMinero Espada'
 
   '5':
     material: BREAD
@@ -116,7 +116,7 @@ items:
       - HIDE_ATTRIBUTES
       - HIDE_ENCHANTS 
     update: true
-    display_name: '&#d84747Back'
+    display_name: '&#d84747Volver'
     click_commands:
       - "[openguimenu] normal_kits"
 
